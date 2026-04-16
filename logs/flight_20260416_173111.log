@@ -1,0 +1,16 @@
+2026-04-16 17:31:11,880 | Connecting to vehicle...
+2026-04-16 17:31:12,780 | Connected successfully
+2026-04-16 17:31:12,781 | Connection string: tcp:127.0.0.1:5762
+2026-04-16 17:31:12,782 | Connected | lat=50.433956 lon=30.445682 alt=-3.82m yaw=3.11deg | initial connection ok
+2026-04-16 17:31:12,782 | Checking if vehicle is armable...
+2026-04-16 17:31:12,783 | Vehicle is armable
+2026-04-16 17:31:12,784 | Start check | expected A=50.450739,30.461242 | current=50.433956,30.445682 | dist=2169.8m
+2026-04-16 17:31:12,784 | ABORT: Start position is too far from point A. Need <= 300.0 m, got 2169.8 m.
+2026-04-16 17:31:12,785 | RC overrides cleared
+2026-04-16 17:31:13,786 | Mode switched to RTL for return-to-home
+2026-04-16 17:31:13,790 | Abort handling finished
+2026-04-16 17:31:13,790 | Mission aborted safely: Start position is too far from point A. Need <= 300.0 m, got 2169.8 m.
+2026-04-16 17:31:13,792 | RC overrides cleared
+2026-04-16 17:31:13,832 | Text log: logs\flight_20260416_173111.log
+2026-04-16 17:31:13,833 | CSV log: logs\flight_20260416_173111.csv
+2026-04-16 17:31:13,833 | Connection closed

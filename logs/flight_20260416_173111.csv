@@ -1,0 +1,2 @@
+timestamp,phase,lat,lon,alt,yaw_deg,distance_m,forward_error_m,right_error_m,roll_pwm,pitch_pwm,throttle_pwm,extra
+2026-04-16T17:31:12,Connected,50.433956,30.445682,-3.82,3.11,,,,,,,initial connection ok

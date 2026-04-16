@@ -1,0 +1,141 @@
+2026-04-16 17:32:14,868 | Connecting to vehicle...
+2026-04-16 17:32:15,949 | Connected successfully
+2026-04-16 17:32:15,951 | Connection string: tcp:127.0.0.1:5762
+2026-04-16 17:32:15,952 | Connected | lat=50.450739 lon=30.461242 alt=0.00m yaw=2.60deg | initial connection ok
+2026-04-16 17:32:15,952 | Checking if vehicle is armable...
+2026-04-16 17:32:15,952 | Vehicle is not armable yet | mode=STABILIZE gps_fix=6 ekf_ok=False
+2026-04-16 17:32:16,953 | Vehicle is not armable yet | mode=STABILIZE gps_fix=6 ekf_ok=False
+2026-04-16 17:32:17,958 | Vehicle is not armable yet | mode=STABILIZE gps_fix=6 ekf_ok=False
+2026-04-16 17:32:18,959 | Vehicle is not armable yet | mode=STABILIZE gps_fix=6 ekf_ok=False
+2026-04-16 17:32:19,963 | Vehicle is not armable yet | mode=STABILIZE gps_fix=6 ekf_ok=False
+2026-04-16 17:32:20,965 | Vehicle is not armable yet | mode=STABILIZE gps_fix=6 ekf_ok=False
+2026-04-16 17:32:21,967 | Vehicle is not armable yet | mode=STABILIZE gps_fix=6 ekf_ok=False
+2026-04-16 17:32:22,968 | Vehicle is not armable yet | mode=STABILIZE gps_fix=6 ekf_ok=False
+2026-04-16 17:32:23,970 | Vehicle is not armable yet | mode=STABILIZE gps_fix=6 ekf_ok=False
+2026-04-16 17:32:24,971 | Vehicle is not armable yet | mode=STABILIZE gps_fix=6 ekf_ok=False
+2026-04-16 17:32:25,972 | Vehicle is not armable yet | mode=STABILIZE gps_fix=6 ekf_ok=False
+2026-04-16 17:32:26,973 | Vehicle is not armable yet | mode=STABILIZE gps_fix=6 ekf_ok=False
+2026-04-16 17:32:27,975 | Vehicle is not armable yet | mode=STABILIZE gps_fix=6 ekf_ok=False
+2026-04-16 17:32:28,976 | Vehicle is not armable yet | mode=STABILIZE gps_fix=6 ekf_ok=False
+2026-04-16 17:32:29,977 | Vehicle is not armable yet | mode=STABILIZE gps_fix=6 ekf_ok=False
+2026-04-16 17:32:30,977 | Vehicle is not armable yet | mode=STABILIZE gps_fix=6 ekf_ok=False
+2026-04-16 17:32:31,979 | Vehicle is not armable yet | mode=STABILIZE gps_fix=6 ekf_ok=False
+2026-04-16 17:32:32,980 | Vehicle is armable
+2026-04-16 17:32:32,982 | Start check | expected A=50.450739,30.461242 | current=50.450739,30.461242 | dist=0.0m
+2026-04-16 17:32:32,983 | Switching mode to STABILIZE...
+2026-04-16 17:32:32,984 | Mode switched to STABILIZE
+2026-04-16 17:32:32,990 | Arming vehicle...
+2026-04-16 17:32:32,991 | Waiting for arming...
+2026-04-16 17:32:33,993 | Vehicle armed successfully
+2026-04-16 17:32:33,994 | Armed | lat=50.450739 lon=30.461242 alt=0.00m yaw=1.96deg | vehicle armed
+2026-04-16 17:32:33,994 | Fixed yaw captured for the whole flight: 1.96 deg
+2026-04-16 17:32:33,995 | Climb to calibration alt to 20.00 m
+2026-04-16 17:32:33,996 | Climb to calibration alt | lat=50.450739 lon=30.461242 alt=0.00m yaw=1.96deg | roll=- pitch=- throttle=1520
+2026-04-16 17:32:34,348 | Climb to calibration alt | lat=50.450739 lon=30.461242 alt=0.00m yaw=1.95deg | roll=- pitch=- throttle=1520
+2026-04-16 17:32:34,700 | Climb to calibration alt | lat=50.450739 lon=30.461242 alt=0.00m yaw=1.95deg | roll=- pitch=- throttle=1520
+2026-04-16 17:32:35,052 | Climb to calibration alt | lat=50.450739 lon=30.461242 alt=0.00m yaw=1.94deg | roll=- pitch=- throttle=1520
+2026-04-16 17:32:35,406 | Climb to calibration alt | lat=50.450739 lon=30.461242 alt=0.00m yaw=1.94deg | roll=- pitch=- throttle=1520
+2026-04-16 17:32:35,757 | Climb to calibration alt | lat=50.450739 lon=30.461242 alt=0.00m yaw=1.93deg | roll=- pitch=- throttle=1520
+2026-04-16 17:32:36,109 | Climb to calibration alt | lat=50.450739 lon=30.461242 alt=0.02m yaw=1.92deg | roll=- pitch=- throttle=1520
+2026-04-16 17:32:36,460 | Climb to calibration alt | lat=50.450739 lon=30.461242 alt=0.08m yaw=1.92deg | roll=- pitch=- throttle=1520
+2026-04-16 17:32:36,812 | Climb to calibration alt | lat=50.450739 lon=30.461242 alt=0.11m yaw=1.91deg | roll=- pitch=- throttle=1520
+2026-04-16 17:32:37,164 | Climb to calibration alt | lat=50.450739 lon=30.461242 alt=0.49m yaw=1.90deg | roll=- pitch=- throttle=1520
+2026-04-16 17:32:37,515 | Climb to calibration alt | lat=50.450739 lon=30.461242 alt=0.89m yaw=1.89deg | roll=- pitch=- throttle=1520
+2026-04-16 17:32:37,866 | Climb to calibration alt | lat=50.450739 lon=30.461242 alt=1.28m yaw=1.89deg | roll=- pitch=- throttle=1520
+2026-04-16 17:32:38,218 | Climb to calibration alt | lat=50.450739 lon=30.461242 alt=2.24m yaw=1.89deg | roll=- pitch=- throttle=1520
+2026-04-16 17:32:38,569 | Climb to calibration alt | lat=50.450739 lon=30.461241 alt=2.77m yaw=1.89deg | roll=- pitch=- throttle=1520
+2026-04-16 17:32:38,921 | Climb to calibration alt | lat=50.450739 lon=30.461241 alt=3.80m yaw=0.50deg | roll=- pitch=- throttle=1520
+2026-04-16 17:32:39,274 | Climb to calibration alt | lat=50.450740 lon=30.461241 alt=4.36m yaw=0.50deg | roll=- pitch=- throttle=1520
+2026-04-16 17:32:39,625 | Climb to calibration alt | lat=50.450740 lon=30.461240 alt=4.96m yaw=0.49deg | roll=- pitch=- throttle=1520
+2026-04-16 17:32:39,977 | Climb to calibration alt | lat=50.450740 lon=30.461240 alt=6.21m yaw=0.51deg | roll=- pitch=- throttle=1520
+2026-04-16 17:32:40,329 | Climb to calibration alt | lat=50.450740 lon=30.461239 alt=6.87m yaw=0.51deg | roll=- pitch=- throttle=1520
+2026-04-16 17:32:40,681 | Climb to calibration alt reached pre-target zone at 8.21 m
+2026-04-16 17:32:41,682 | Calibration altitude stabilize at 20.00 m
+2026-04-16 17:32:41,683 | Calibration altitude stabilize | lat=50.450741 lon=30.461237 alt=10.67m yaw=0.46deg | dist=1245.6m | roll=- pitch=- throttle=1504 | alt_err=9.33 vz_down=-2.19 stable=0/4
+2026-04-16 17:32:42,035 | Calibration altitude stabilize | lat=50.450741 lon=30.461237 alt=11.23m yaw=0.46deg | dist=1245.6m | roll=- pitch=- throttle=1504 | alt_err=8.77 vz_down=-2.27 stable=0/4
+2026-04-16 17:32:42,386 | Calibration altitude stabilize | lat=50.450742 lon=30.461237 alt=11.76m yaw=0.46deg | dist=1245.6m | roll=- pitch=- throttle=1504 | alt_err=8.24 vz_down=-2.04 stable=0/4
+2026-04-16 17:32:42,738 | Calibration altitude stabilize | lat=50.450742 lon=30.461236 alt=12.81m yaw=0.48deg | dist=1245.6m | roll=- pitch=- throttle=1504 | alt_err=7.19 vz_down=-1.94 stable=0/4
+2026-04-16 17:32:43,090 | Calibration altitude stabilize | lat=50.450742 lon=30.461236 alt=13.30m yaw=0.48deg | dist=1245.6m | roll=- pitch=- throttle=1498 | alt_err=6.70 vz_down=-1.89 stable=0/4
+2026-04-16 17:32:43,443 | Calibration altitude stabilize | lat=50.450743 lon=30.461236 alt=14.13m yaw=0.47deg | dist=1245.6m | roll=- pitch=- throttle=1498 | alt_err=5.87 vz_down=-1.58 stable=0/4
+2026-04-16 17:32:43,795 | Calibration altitude stabilize | lat=50.450743 lon=30.461235 alt=14.55m yaw=0.47deg | dist=1245.6m | roll=- pitch=- throttle=1498 | alt_err=5.45 vz_down=-1.69 stable=0/4
+2026-04-16 17:32:44,147 | Calibration altitude stabilize | lat=50.450744 lon=30.461235 alt=15.36m yaw=0.48deg | dist=1245.6m | roll=- pitch=- throttle=1498 | alt_err=4.64 vz_down=-1.61 stable=0/4
+2026-04-16 17:32:44,529 | Calibration altitude stabilize | lat=50.450744 lon=30.461235 alt=15.77m yaw=0.47deg | dist=1245.6m | roll=- pitch=- throttle=1498 | alt_err=4.23 vz_down=-1.72 stable=0/4
+2026-04-16 17:32:44,907 | Calibration altitude stabilize | lat=50.450745 lon=30.461234 alt=16.65m yaw=0.48deg | dist=1245.6m | roll=- pitch=- throttle=1498 | alt_err=3.35 vz_down=-1.71 stable=0/4
+2026-04-16 17:32:45,259 | Calibration altitude stabilize | lat=50.450745 lon=30.461234 alt=17.09m yaw=0.48deg | dist=1245.6m | roll=- pitch=- throttle=1492 | alt_err=2.91 vz_down=-1.81 stable=0/4
+2026-04-16 17:32:45,609 | Calibration altitude stabilize | lat=50.450745 lon=30.461233 alt=17.53m yaw=0.49deg | dist=1245.7m | roll=- pitch=- throttle=1492 | alt_err=2.47 vz_down=-1.75 stable=0/4
+2026-04-16 17:32:45,961 | Calibration altitude stabilize | lat=50.450746 lon=30.461233 alt=18.34m yaw=0.52deg | dist=1245.7m | roll=- pitch=- throttle=1492 | alt_err=1.66 vz_down=-1.60 stable=0/4
+2026-04-16 17:32:46,313 | Calibration altitude stabilize | lat=50.450746 lon=30.461233 alt=18.76m yaw=0.52deg | dist=1245.7m | roll=- pitch=- throttle=1492 | alt_err=1.24 vz_down=-1.73 stable=0/4
+2026-04-16 17:32:46,665 | Calibration altitude stabilize | lat=50.450746 lon=30.461232 alt=19.19m yaw=0.51deg | dist=1245.7m | roll=- pitch=- throttle=1476 | alt_err=0.81 vz_down=-1.64 stable=0/4
+2026-04-16 17:32:47,017 | Calibration altitude stabilize | lat=50.450747 lon=30.461231 alt=19.94m yaw=0.52deg | dist=1245.7m | roll=- pitch=- throttle=1476 | alt_err=0.06 vz_down=-1.35 stable=0/4
+2026-04-16 17:32:47,369 | Calibration altitude stabilize | lat=50.450747 lon=30.461231 alt=20.28m yaw=0.52deg | dist=1245.6m | roll=- pitch=- throttle=1476 | alt_err=-0.28 vz_down=-1.37 stable=0/4
+2026-04-16 17:32:47,720 | Calibration altitude stabilize | lat=50.450748 lon=30.461230 alt=20.91m yaw=0.51deg | dist=1245.6m | roll=- pitch=- throttle=1476 | alt_err=-0.91 vz_down=-1.14 stable=0/4
+2026-04-16 17:32:48,072 | Calibration altitude stabilize | lat=50.450748 lon=30.461229 alt=21.16m yaw=0.50deg | dist=1245.6m | roll=- pitch=- throttle=1478 | alt_err=-1.16 vz_down=-0.90 stable=0/4
+2026-04-16 17:32:48,424 | Calibration altitude stabilize | lat=50.450749 lon=30.461228 alt=21.61m yaw=0.45deg | dist=1245.6m | roll=- pitch=- throttle=1478 | alt_err=-1.61 vz_down=-0.92 stable=0/4
+2026-04-16 17:32:48,794 | Calibration altitude stabilize | lat=50.450749 lon=30.461228 alt=21.84m yaw=0.45deg | dist=1245.6m | roll=- pitch=- throttle=1478 | alt_err=-1.84 vz_down=-0.88 stable=0/4
+2026-04-16 17:32:49,152 | Calibration altitude stabilize | lat=50.450750 lon=30.461227 alt=22.21m yaw=0.48deg | dist=1245.6m | roll=- pitch=- throttle=1478 | alt_err=-2.21 vz_down=-0.69 stable=0/4
+2026-04-16 17:32:49,503 | Calibration altitude stabilize | lat=50.450750 lon=30.461227 alt=22.37m yaw=0.48deg | dist=1245.6m | roll=- pitch=- throttle=1478 | alt_err=-2.37 vz_down=-0.64 stable=0/4
+2026-04-16 17:32:49,855 | Calibration altitude stabilize | lat=50.450750 lon=30.461226 alt=22.50m yaw=0.46deg | dist=1245.6m | roll=- pitch=- throttle=1478 | alt_err=-2.50 vz_down=-0.48 stable=0/4
+2026-04-16 17:32:50,207 | Calibration altitude stabilize | lat=50.450751 lon=30.461225 alt=22.67m yaw=0.48deg | dist=1245.6m | roll=- pitch=- throttle=1478 | alt_err=-2.67 vz_down=-0.24 stable=0/4
+2026-04-16 17:32:50,558 | Calibration altitude stabilize | lat=50.450751 lon=30.461225 alt=22.73m yaw=0.50deg | dist=1245.6m | roll=- pitch=- throttle=1478 | alt_err=-2.73 vz_down=-0.28 stable=0/4
+2026-04-16 17:32:50,909 | Calibration altitude stabilize | lat=50.450752 lon=30.461224 alt=22.80m yaw=0.48deg | dist=1245.6m | roll=- pitch=- throttle=1478 | alt_err=-2.80 vz_down=-0.32 stable=0/4
+2026-04-16 17:32:51,260 | Calibration altitude stabilize | lat=50.450752 lon=30.461223 alt=22.89m yaw=0.44deg | dist=1245.6m | roll=- pitch=- throttle=1478 | alt_err=-2.89 vz_down=-0.08 stable=0/4
+2026-04-16 17:32:51,611 | Calibration altitude stabilize | lat=50.450753 lon=30.461223 alt=22.90m yaw=0.43deg | dist=1245.6m | roll=- pitch=- throttle=1478 | alt_err=-2.90 vz_down=-0.08 stable=0/4
+2026-04-16 17:32:51,963 | Calibration altitude stabilize | lat=50.450753 lon=30.461222 alt=22.90m yaw=0.45deg | dist=1245.6m | roll=- pitch=- throttle=1478 | alt_err=-2.90 vz_down=0.21 stable=0/4
+2026-04-16 17:32:52,315 | Calibration altitude stabilize | lat=50.450753 lon=30.461221 alt=22.85m yaw=0.47deg | dist=1245.6m | roll=- pitch=- throttle=1478 | alt_err=-2.85 vz_down=0.16 stable=0/4
+2026-04-16 17:32:52,666 | Calibration altitude stabilize | lat=50.450754 lon=30.461220 alt=22.83m yaw=0.52deg | dist=1245.6m | roll=- pitch=- throttle=1478 | alt_err=-2.83 vz_down=0.06 stable=0/4
+2026-04-16 17:32:53,017 | Calibration altitude stabilize | lat=50.450754 lon=30.461219 alt=22.82m yaw=0.53deg | dist=1245.6m | roll=- pitch=- throttle=1478 | alt_err=-2.82 vz_down=0.02 stable=0/4
+2026-04-16 17:32:53,369 | Calibration altitude stabilize | lat=50.450755 lon=30.461219 alt=22.83m yaw=0.52deg | dist=1245.6m | roll=- pitch=- throttle=1478 | alt_err=-2.83 vz_down=-0.05 stable=0/4
+2026-04-16 17:32:53,720 | Calibration altitude stabilize | lat=50.450755 lon=30.461218 alt=22.91m yaw=0.50deg | dist=1245.5m | roll=- pitch=- throttle=1478 | alt_err=-2.91 vz_down=-0.12 stable=0/4
+2026-04-16 17:32:54,072 | Calibration altitude stabilize | lat=50.450755 lon=30.461217 alt=22.94m yaw=0.51deg | dist=1245.5m | roll=- pitch=- throttle=1478 | alt_err=-2.94 vz_down=-0.22 stable=0/4
+2026-04-16 17:32:54,423 | Calibration altitude stabilize | lat=50.450756 lon=30.461216 alt=23.10m yaw=0.49deg | dist=1245.5m | roll=- pitch=- throttle=1468 | alt_err=-3.10 vz_down=-0.36 stable=0/4
+2026-04-16 17:32:54,774 | Calibration altitude stabilize | lat=50.450756 lon=30.461215 alt=23.19m yaw=0.48deg | dist=1245.5m | roll=- pitch=- throttle=1468 | alt_err=-3.19 vz_down=-0.31 stable=0/4
+2026-04-16 17:32:55,125 | Calibration altitude stabilize | lat=50.450756 lon=30.461214 alt=23.27m yaw=0.48deg | dist=1245.4m | roll=- pitch=- throttle=1468 | alt_err=-3.27 vz_down=-0.33 stable=0/4
+2026-04-16 17:32:55,476 | Calibration altitude stabilize | lat=50.450756 lon=30.461213 alt=23.45m yaw=0.49deg | dist=1245.4m | roll=- pitch=- throttle=1468 | alt_err=-3.45 vz_down=-0.36 stable=0/4
+2026-04-16 17:32:55,828 | Calibration altitude stabilize | lat=50.450756 lon=30.461212 alt=23.52m yaw=0.48deg | dist=1245.4m | roll=- pitch=- throttle=1468 | alt_err=-3.52 vz_down=-0.18 stable=0/4
+2026-04-16 17:32:56,180 | Calibration altitude stabilize | lat=50.450757 lon=30.461211 alt=23.62m yaw=0.45deg | dist=1245.3m | roll=- pitch=- throttle=1468 | alt_err=-3.62 vz_down=-0.18 stable=0/4
+2026-04-16 17:32:56,531 | Calibration altitude stabilize | lat=50.450757 lon=30.461211 alt=23.67m yaw=0.43deg | dist=1245.3m | roll=- pitch=- throttle=1468 | alt_err=-3.67 vz_down=-0.21 stable=0/4
+2026-04-16 17:32:56,882 | Calibration altitude stabilize | lat=50.450757 lon=30.461210 alt=23.73m yaw=0.40deg | dist=1245.3m | roll=- pitch=- throttle=1468 | alt_err=-3.73 vz_down=-0.21 stable=0/4
+2026-04-16 17:32:57,233 | Calibration altitude stabilize | lat=50.450757 lon=30.461209 alt=23.82m yaw=0.40deg | dist=1245.2m | roll=- pitch=- throttle=1468 | alt_err=-3.82 vz_down=-0.16 stable=0/4
+2026-04-16 17:32:57,584 | Calibration altitude stabilize | lat=50.450757 lon=30.461209 alt=23.87m yaw=0.41deg | dist=1245.2m | roll=- pitch=- throttle=1468 | alt_err=-3.87 vz_down=-0.09 stable=0/4
+2026-04-16 17:32:57,935 | Calibration altitude stabilize | lat=50.450757 lon=30.461208 alt=23.91m yaw=0.39deg | dist=1245.2m | roll=- pitch=- throttle=1468 | alt_err=-3.91 vz_down=-0.16 stable=0/4
+2026-04-16 17:32:58,286 | Calibration altitude stabilize | lat=50.450757 lon=30.461207 alt=23.93m yaw=0.40deg | dist=1245.1m | roll=- pitch=- throttle=1468 | alt_err=-3.93 vz_down=-0.09 stable=0/4
+2026-04-16 17:32:58,638 | Calibration altitude stabilize | lat=50.450757 lon=30.461206 alt=23.96m yaw=0.40deg | dist=1245.1m | roll=- pitch=- throttle=1468 | alt_err=-3.96 vz_down=-0.11 stable=0/4
+2026-04-16 17:32:58,990 | Calibration altitude stabilize | lat=50.450758 lon=30.461205 alt=24.06m yaw=0.41deg | dist=1245.1m | roll=- pitch=- throttle=1468 | alt_err=-4.06 vz_down=-0.22 stable=0/4
+2026-04-16 17:32:59,342 | Calibration altitude stabilize | lat=50.450758 lon=30.461205 alt=24.06m yaw=0.39deg | dist=1245.1m | roll=- pitch=- throttle=1468 | alt_err=-4.06 vz_down=0.15 stable=0/4
+2026-04-16 17:32:59,693 | Calibration altitude stabilize | lat=50.450758 lon=30.461204 alt=24.01m yaw=0.42deg | dist=1245.0m | roll=- pitch=- throttle=1468 | alt_err=-4.01 vz_down=0.03 stable=0/4
+2026-04-16 17:33:00,043 | Calibration altitude stabilize | lat=50.450758 lon=30.461203 alt=24.00m yaw=0.42deg | dist=1245.0m | roll=- pitch=- throttle=1468 | alt_err=-4.00 vz_down=0.09 stable=0/4
+2026-04-16 17:33:00,395 | Calibration altitude stabilize | lat=50.450758 lon=30.461203 alt=23.97m yaw=0.42deg | dist=1245.0m | roll=- pitch=- throttle=1468 | alt_err=-3.97 vz_down=0.13 stable=0/4
+2026-04-16 17:33:00,747 | Calibration altitude stabilize | lat=50.450758 lon=30.461202 alt=23.89m yaw=0.39deg | dist=1244.9m | roll=- pitch=- throttle=1468 | alt_err=-3.89 vz_down=0.19 stable=0/4
+2026-04-16 17:33:01,099 | Calibration altitude stabilize | lat=50.450758 lon=30.461201 alt=23.84m yaw=0.41deg | dist=1244.9m | roll=- pitch=- throttle=1468 | alt_err=-3.84 vz_down=0.26 stable=0/4
+2026-04-16 17:33:01,451 | Calibration altitude stabilize | lat=50.450758 lon=30.461200 alt=23.72m yaw=0.42deg | dist=1244.9m | roll=- pitch=- throttle=1468 | alt_err=-3.72 vz_down=0.12 stable=0/4
+2026-04-16 17:33:01,802 | Calibration altitude stabilize | lat=50.450759 lon=30.461200 alt=23.67m yaw=0.41deg | dist=1244.9m | roll=- pitch=- throttle=1468 | alt_err=-3.67 vz_down=0.27 stable=0/4
+2026-04-16 17:33:02,153 | Calibration altitude stabilize | lat=50.450759 lon=30.461199 alt=23.60m yaw=0.41deg | dist=1244.8m | roll=- pitch=- throttle=1468 | alt_err=-3.60 vz_down=0.23 stable=0/4
+2026-04-16 17:33:02,504 | Calibration altitude stabilize | lat=50.450759 lon=30.461198 alt=23.46m yaw=0.44deg | dist=1244.8m | roll=- pitch=- throttle=1468 | alt_err=-3.46 vz_down=0.40 stable=0/4
+2026-04-16 17:33:02,856 | Calibration altitude stabilize | lat=50.450759 lon=30.461198 alt=23.36m yaw=0.44deg | dist=1244.8m | roll=- pitch=- throttle=1468 | alt_err=-3.36 vz_down=0.42 stable=0/4
+2026-04-16 17:33:03,207 | Calibration altitude stabilize | lat=50.450759 lon=30.461197 alt=23.16m yaw=0.43deg | dist=1244.7m | roll=- pitch=- throttle=1468 | alt_err=-3.16 vz_down=0.32 stable=0/4
+2026-04-16 17:33:03,558 | Calibration altitude stabilize | lat=50.450759 lon=30.461196 alt=23.09m yaw=0.43deg | dist=1244.7m | roll=- pitch=- throttle=1468 | alt_err=-3.09 vz_down=0.25 stable=0/4
+2026-04-16 17:33:03,909 | Calibration altitude stabilize | lat=50.450759 lon=30.461195 alt=22.89m yaw=0.43deg | dist=1244.7m | roll=- pitch=- throttle=1478 | alt_err=-2.89 vz_down=0.54 stable=0/4
+2026-04-16 17:33:04,261 | Calibration altitude stabilize | lat=50.450759 lon=30.461195 alt=22.74m yaw=0.42deg | dist=1244.7m | roll=- pitch=- throttle=1478 | alt_err=-2.74 vz_down=0.62 stable=0/4
+2026-04-16 17:33:04,612 | Calibration altitude stabilize | lat=50.450760 lon=30.461195 alt=22.59m yaw=0.41deg | dist=1244.7m | roll=- pitch=- throttle=1478 | alt_err=-2.59 vz_down=0.64 stable=0/4
+2026-04-16 17:33:04,964 | Calibration altitude stabilize | lat=50.450760 lon=30.461194 alt=22.24m yaw=0.43deg | dist=1244.6m | roll=- pitch=- throttle=1478 | alt_err=-2.24 vz_down=0.77 stable=0/4
+2026-04-16 17:33:05,316 | Calibration altitude stabilize | lat=50.450760 lon=30.461193 alt=22.05m yaw=0.42deg | dist=1244.6m | roll=- pitch=- throttle=1478 | alt_err=-2.05 vz_down=0.73 stable=0/4
+2026-04-16 17:33:05,668 | Calibration altitude stabilize | lat=50.450760 lon=30.461193 alt=21.87m yaw=0.42deg | dist=1244.6m | roll=- pitch=- throttle=1478 | alt_err=-1.87 vz_down=0.77 stable=0/4
+2026-04-16 17:33:06,020 | Calibration altitude stabilize | lat=50.450760 lon=30.461192 alt=21.38m yaw=0.43deg | dist=1244.6m | roll=- pitch=- throttle=1478 | alt_err=-1.38 vz_down=0.96 stable=1/4
+2026-04-16 17:33:06,372 | Calibration altitude stabilize | lat=50.450760 lon=30.461191 alt=21.14m yaw=0.44deg | dist=1244.5m | roll=- pitch=- throttle=1478 | alt_err=-1.14 vz_down=0.93 stable=0/4
+2026-04-16 17:33:06,723 | Calibration altitude stabilize | lat=50.450761 lon=30.461190 alt=20.72m yaw=0.44deg | dist=1244.5m | roll=- pitch=- throttle=1488 | alt_err=-0.72 vz_down=0.80 stable=0/4
+2026-04-16 17:33:07,074 | Calibration altitude stabilize | lat=50.450761 lon=30.461190 alt=20.55m yaw=0.44deg | dist=1244.5m | roll=- pitch=- throttle=1488 | alt_err=-0.55 vz_down=0.60 stable=1/4
+2026-04-16 17:33:07,425 | Calibration altitude stabilize | lat=50.450761 lon=30.461189 alt=20.36m yaw=0.45deg | dist=1244.5m | roll=- pitch=- throttle=1488 | alt_err=-0.36 vz_down=0.14 stable=2/4
+2026-04-16 17:33:07,778 | Calibration altitude stabilize | lat=50.450761 lon=30.461189 alt=20.35m yaw=0.46deg | dist=1244.4m | roll=- pitch=- throttle=1488 | alt_err=-0.35 vz_down=-0.04 stable=3/4
+2026-04-16 17:33:08,129 | Calibration altitude stabilize stabilized
+2026-04-16 17:33:08,130 | Calibrating pitch/roll signs with stronger probes...
+2026-04-16 17:33:08,130 | pitch sign probe | baseline distance=1244.43 m
+2026-04-16 17:33:12,132 | pitch probe | after distance=1243.01 m | delta=-1.42 m
+2026-04-16 17:33:14,134 | ABORT: pitch probe inconclusive (delta -1.42 m)
+2026-04-16 17:33:14,135 | RC overrides cleared
+2026-04-16 17:33:15,137 | Mode switched to RTL for return-to-home
+2026-04-16 17:33:15,137 | Abort handling finished
+2026-04-16 17:33:15,138 | Mission aborted safely: pitch probe inconclusive (delta -1.42 m)
+2026-04-16 17:33:15,139 | RC overrides cleared
+2026-04-16 17:33:15,166 | Text log: logs\flight_20260416_173214.log
+2026-04-16 17:33:15,169 | CSV log: logs\flight_20260416_173214.csv
+2026-04-16 17:33:15,170 | Connection closed

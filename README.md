@@ -19,3 +19,6 @@ Python script for controlling ArduPilot SITL copter via DroneKit.
 - dronekit
 - pymavlink
 - future
+
+
+In the provided task description, SIM_WIND_TURB_FREQ was requested. In the current SITL/Copter parameter set this parameter was not available, so I used SIM_WIND_TC = 0.2 as the closest active parameter controlling wind variation timing

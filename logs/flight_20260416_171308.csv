@@ -1,0 +1,1446 @@
+timestamp,phase,lat,lon,alt,yaw_deg,distance_m,forward_error_m,right_error_m,roll_pwm,pitch_pwm,throttle_pwm,extra
+2026-04-16T17:13:09,Connected,50.450739,30.461242,-0.01,1.44,,,,,,,initial connection ok
+2026-04-16T17:13:10,Armed,50.450739,30.461242,0.00,1.44,,,,,,,vehicle armed
+2026-04-16T17:13:10,Climb to calibration alt,50.450739,30.461242,0.00,1.44,,,,,,1520,
+2026-04-16T17:13:11,Climb to calibration alt,50.450739,30.461242,0.00,1.44,,,,,,1520,
+2026-04-16T17:13:11,Climb to calibration alt,50.450739,30.461242,0.00,1.44,,,,,,1520,
+2026-04-16T17:13:11,Climb to calibration alt,50.450739,30.461242,0.00,1.44,,,,,,1520,
+2026-04-16T17:13:12,Climb to calibration alt,50.450739,30.461242,0.00,1.44,,,,,,1520,
+2026-04-16T17:13:12,Climb to calibration alt,50.450739,30.461242,0.00,1.44,,,,,,1520,
+2026-04-16T17:13:12,Climb to calibration alt,50.450739,30.461242,0.03,1.44,,,,,,1520,
+2026-04-16T17:13:13,Climb to calibration alt,50.450739,30.461242,0.10,1.44,,,,,,1520,
+2026-04-16T17:13:13,Climb to calibration alt,50.450739,30.461242,0.12,1.44,,,,,,1520,
+2026-04-16T17:13:13,Climb to calibration alt,50.450739,30.461242,0.22,1.44,,,,,,1520,
+2026-04-16T17:13:14,Climb to calibration alt,50.450739,30.461242,0.97,1.43,,,,,,1520,
+2026-04-16T17:13:14,Climb to calibration alt,50.450739,30.461242,1.40,1.43,,,,,,1520,
+2026-04-16T17:13:14,Climb to calibration alt,50.450739,30.461242,2.43,1.43,,,,,,1520,
+2026-04-16T17:13:15,Climb to calibration alt,50.450739,30.461241,2.99,0.38,,,,,,1520,
+2026-04-16T17:13:15,Climb to calibration alt,50.450739,30.461241,3.58,0.39,,,,,,1520,
+2026-04-16T17:13:15,Climb to calibration alt,50.450739,30.461241,4.84,0.38,,,,,,1520,
+2026-04-16T17:13:16,Climb to calibration alt,50.450739,30.461241,5.49,0.38,,,,,,1520,
+2026-04-16T17:13:16,Climb to calibration alt,50.450739,30.461241,6.90,0.38,,,,,,1520,
+2026-04-16T17:13:17,Climb to calibration alt,50.450740,30.461240,7.65,0.38,,,,,,1520,
+2026-04-16T17:13:18,Calibration altitude stabilize,50.450740,30.461240,11.04,0.38,1245.62,,,,,1504,alt_err=8.96 vz_down=-2.35 stable=0/4
+2026-04-16T17:13:18,Calibration altitude stabilize,50.450741,30.461239,12.24,0.39,1245.61,,,,,1504,alt_err=7.76 vz_down=-2.37 stable=0/4
+2026-04-16T17:13:19,Calibration altitude stabilize,50.450741,30.461239,12.80,0.40,1245.61,,,,,1504,alt_err=7.20 vz_down=-2.22 stable=0/4
+2026-04-16T17:13:19,Calibration altitude stabilize,50.450741,30.461238,13.87,0.41,1245.60,,,,,1498,alt_err=6.13 vz_down=-2.10 stable=0/4
+2026-04-16T17:13:19,Calibration altitude stabilize,50.450741,30.461238,14.38,0.40,1245.60,,,,,1498,alt_err=5.62 vz_down=-1.96 stable=0/4
+2026-04-16T17:13:20,Calibration altitude stabilize,50.450742,30.461237,14.86,0.39,1245.60,,,,,1498,alt_err=5.14 vz_down=-1.94 stable=0/4
+2026-04-16T17:13:20,Calibration altitude stabilize,50.450742,30.461237,15.83,0.41,1245.59,,,,,1498,alt_err=4.17 vz_down=-1.82 stable=0/4
+2026-04-16T17:13:20,Calibration altitude stabilize,50.450742,30.461237,16.27,0.39,1245.60,,,,,1498,alt_err=3.73 vz_down=-1.74 stable=0/4
+2026-04-16T17:13:21,Calibration altitude stabilize,50.450743,30.461236,17.16,0.36,1245.60,,,,,1492,alt_err=2.84 vz_down=-1.71 stable=0/4
+2026-04-16T17:13:21,Calibration altitude stabilize,50.450743,30.461236,17.57,0.36,1245.60,,,,,1492,alt_err=2.43 vz_down=-1.67 stable=0/4
+2026-04-16T17:13:21,Calibration altitude stabilize,50.450743,30.461236,17.95,0.36,1245.60,,,,,1492,alt_err=2.05 vz_down=-1.40 stable=0/4
+2026-04-16T17:13:22,Calibration altitude stabilize,50.450744,30.461235,18.71,0.37,1245.61,,,,,1492,alt_err=1.29 vz_down=-1.70 stable=0/4
+2026-04-16T17:13:22,Calibration altitude stabilize,50.450744,30.461235,19.15,0.38,1245.61,,,,,1476,alt_err=0.85 vz_down=-1.85 stable=0/4
+2026-04-16T17:13:22,Calibration altitude stabilize,50.450744,30.461234,20.00,0.38,1245.62,,,,,1476,alt_err=-0.00 vz_down=-1.52 stable=0/4
+2026-04-16T17:13:23,Calibration altitude stabilize,50.450744,30.461234,20.36,0.36,1245.62,,,,,1476,alt_err=-0.36 vz_down=-1.35 stable=0/4
+2026-04-16T17:13:23,Calibration altitude stabilize,50.450745,30.461234,20.70,0.37,1245.63,,,,,1476,alt_err=-0.70 vz_down=-1.33 stable=0/4
+2026-04-16T17:13:24,Calibration altitude stabilize,50.450745,30.461233,21.34,0.38,1245.64,,,,,1478,alt_err=-1.34 vz_down=-1.18 stable=0/4
+2026-04-16T17:13:24,Calibration altitude stabilize,50.450745,30.461233,21.58,0.38,1245.64,,,,,1478,alt_err=-1.58 vz_down=-0.92 stable=0/4
+2026-04-16T17:13:24,Calibration altitude stabilize,50.450746,30.461232,22.01,0.40,1245.63,,,,,1478,alt_err=-2.01 vz_down=-0.73 stable=0/4
+2026-04-16T17:13:25,Calibration altitude stabilize,50.450746,30.461232,22.20,0.41,1245.63,,,,,1478,alt_err=-2.20 vz_down=-0.77 stable=0/4
+2026-04-16T17:13:25,Calibration altitude stabilize,50.450746,30.461232,22.38,0.41,1245.63,,,,,1478,alt_err=-2.38 vz_down=-0.75 stable=0/4
+2026-04-16T17:13:25,Calibration altitude stabilize,50.450747,30.461231,22.68,0.41,1245.62,,,,,1478,alt_err=-2.68 vz_down=-0.49 stable=0/4
+2026-04-16T17:13:26,Calibration altitude stabilize,50.450747,30.461230,22.81,0.41,1245.62,,,,,1478,alt_err=-2.81 vz_down=-0.52 stable=0/4
+2026-04-16T17:13:26,Calibration altitude stabilize,50.450747,30.461230,23.08,0.40,1245.60,,,,,1468,alt_err=-3.08 vz_down=-0.44 stable=0/4
+2026-04-16T17:13:26,Calibration altitude stabilize,50.450748,30.461229,23.19,0.40,1245.60,,,,,1468,alt_err=-3.19 vz_down=-0.42 stable=0/4
+2026-04-16T17:13:27,Calibration altitude stabilize,50.450748,30.461229,23.28,0.40,1245.59,,,,,1468,alt_err=-3.28 vz_down=-0.28 stable=0/4
+2026-04-16T17:13:27,Calibration altitude stabilize,50.450748,30.461228,23.38,0.40,1245.59,,,,,1468,alt_err=-3.38 vz_down=-0.15 stable=0/4
+2026-04-16T17:13:27,Calibration altitude stabilize,50.450749,30.461227,23.43,0.41,1245.58,,,,,1468,alt_err=-3.43 vz_down=-0.25 stable=0/4
+2026-04-16T17:13:28,Calibration altitude stabilize,50.450749,30.461227,23.46,0.39,1245.58,,,,,1468,alt_err=-3.46 vz_down=0.05 stable=0/4
+2026-04-16T17:13:28,Calibration altitude stabilize,50.450749,30.461226,23.45,0.37,1245.57,,,,,1468,alt_err=-3.45 vz_down=0.00 stable=0/4
+2026-04-16T17:13:28,Calibration altitude stabilize,50.450750,30.461226,23.40,0.35,1245.56,,,,,1468,alt_err=-3.40 vz_down=0.21 stable=0/4
+2026-04-16T17:13:29,Calibration altitude stabilize,50.450750,30.461225,23.35,0.36,1245.55,,,,,1468,alt_err=-3.35 vz_down=0.18 stable=0/4
+2026-04-16T17:13:29,Calibration altitude stabilize,50.450750,30.461225,23.31,0.38,1245.54,,,,,1468,alt_err=-3.31 vz_down=0.17 stable=0/4
+2026-04-16T17:13:29,Calibration altitude stabilize,50.450750,30.461224,23.25,0.42,1245.51,,,,,1468,alt_err=-3.25 vz_down=0.13 stable=0/4
+2026-04-16T17:13:30,Calibration altitude stabilize,50.450750,30.461223,23.21,0.43,1245.49,,,,,1468,alt_err=-3.21 vz_down=0.19 stable=0/4
+2026-04-16T17:13:30,Calibration altitude stabilize,50.450751,30.461222,23.15,0.42,1245.46,,,,,1468,alt_err=-3.15 vz_down=0.08 stable=0/4
+2026-04-16T17:13:31,Calibration altitude stabilize,50.450751,30.461222,23.11,0.42,1245.44,,,,,1468,alt_err=-3.11 vz_down=0.12 stable=0/4
+2026-04-16T17:13:31,Calibration altitude stabilize,50.450751,30.461221,23.07,0.43,1245.42,,,,,1468,alt_err=-3.07 vz_down=0.24 stable=0/4
+2026-04-16T17:13:31,Calibration altitude stabilize,50.450751,30.461220,23.01,0.40,1245.37,,,,,1468,alt_err=-3.01 vz_down=0.03 stable=0/4
+2026-04-16T17:13:32,Calibration altitude stabilize,50.450751,30.461219,22.99,0.39,1245.35,,,,,1478,alt_err=-2.99 vz_down=0.15 stable=0/4
+2026-04-16T17:13:32,Calibration altitude stabilize,50.450751,30.461218,22.93,0.37,1245.31,,,,,1478,alt_err=-2.93 vz_down=0.10 stable=0/4
+2026-04-16T17:13:32,Calibration altitude stabilize,50.450752,30.461218,22.90,0.35,1245.29,,,,,1478,alt_err=-2.90 vz_down=0.13 stable=0/4
+2026-04-16T17:13:33,Calibration altitude stabilize,50.450752,30.461217,22.85,0.32,1245.26,,,,,1478,alt_err=-2.85 vz_down=0.38 stable=0/4
+2026-04-16T17:13:33,Calibration altitude stabilize,50.450752,30.461216,22.64,0.33,1245.23,,,,,1478,alt_err=-2.64 vz_down=0.32 stable=0/4
+2026-04-16T17:13:33,Calibration altitude stabilize,50.450752,30.461216,22.58,0.30,1245.21,,,,,1478,alt_err=-2.58 vz_down=0.20 stable=0/4
+2026-04-16T17:13:34,Calibration altitude stabilize,50.450753,30.461215,22.51,0.27,1245.19,,,,,1478,alt_err=-2.51 vz_down=0.02 stable=0/4
+2026-04-16T17:13:34,Calibration altitude stabilize,50.450753,30.461214,22.51,0.27,1245.18,,,,,1478,alt_err=-2.51 vz_down=-0.07 stable=0/4
+2026-04-16T17:13:34,Calibration altitude stabilize,50.450753,30.461213,22.55,0.29,1245.16,,,,,1478,alt_err=-2.55 vz_down=-0.11 stable=0/4
+2026-04-16T17:13:35,Calibration altitude stabilize,50.450753,30.461212,22.61,0.32,1245.15,,,,,1478,alt_err=-2.61 vz_down=-0.18 stable=0/4
+2026-04-16T17:13:35,Calibration altitude stabilize,50.450754,30.461212,22.67,0.32,1245.13,,,,,1478,alt_err=-2.67 vz_down=-0.20 stable=0/4
+2026-04-16T17:13:35,Calibration altitude stabilize,50.450754,30.461211,22.80,0.35,1245.12,,,,,1478,alt_err=-2.80 vz_down=-0.39 stable=0/4
+2026-04-16T17:13:36,Calibration altitude stabilize,50.450754,30.461211,22.91,0.35,1245.10,,,,,1478,alt_err=-2.91 vz_down=-0.45 stable=0/4
+2026-04-16T17:13:36,Calibration altitude stabilize,50.450754,30.461210,23.02,0.35,1245.09,,,,,1468,alt_err=-3.02 vz_down=-0.51 stable=0/4
+2026-04-16T17:13:36,Calibration altitude stabilize,50.450755,30.461209,23.33,0.35,1245.07,,,,,1468,alt_err=-3.33 vz_down=-0.61 stable=0/4
+2026-04-16T17:13:37,Calibration altitude stabilize,50.450755,30.461209,23.47,0.34,1245.07,,,,,1468,alt_err=-3.47 vz_down=-0.50 stable=0/4
+2026-04-16T17:13:37,Calibration altitude stabilize,50.450755,30.461209,23.69,0.34,1245.05,,,,,1468,alt_err=-3.69 vz_down=-0.35 stable=0/4
+2026-04-16T17:13:38,Calibration altitude stabilize,50.450755,30.461208,23.76,0.34,1245.04,,,,,1468,alt_err=-3.76 vz_down=-0.21 stable=0/4
+2026-04-16T17:13:38,Calibration altitude stabilize,50.450755,30.461208,23.79,0.33,1245.04,,,,,1468,alt_err=-3.79 vz_down=0.00 stable=0/4
+2026-04-16T17:13:38,Calibration altitude stabilize,50.450755,30.461208,23.76,0.32,1245.04,,,,,1468,alt_err=-3.76 vz_down=0.13 stable=0/4
+2026-04-16T17:13:39,Calibration altitude stabilize,50.450756,30.461207,23.72,0.35,1245.05,,,,,1468,alt_err=-3.72 vz_down=0.19 stable=0/4
+2026-04-16T17:13:39,Calibration altitude stabilize,50.450756,30.461207,23.64,0.41,1245.05,,,,,1468,alt_err=-3.64 vz_down=0.24 stable=0/4
+2026-04-16T17:13:39,Calibration altitude stabilize,50.450756,30.461207,23.59,0.44,1245.04,,,,,1468,alt_err=-3.59 vz_down=0.16 stable=0/4
+2026-04-16T17:13:40,Calibration altitude stabilize,50.450756,30.461206,23.56,0.46,1245.04,,,,,1468,alt_err=-3.56 vz_down=0.02 stable=0/4
+2026-04-16T17:13:40,Calibration altitude stabilize,50.450757,30.461206,23.49,0.45,1245.05,,,,,1468,alt_err=-3.49 vz_down=0.20 stable=0/4
+2026-04-16T17:13:40,Calibration altitude stabilize,50.450757,30.461206,23.45,0.45,1245.04,,,,,1468,alt_err=-3.45 vz_down=0.11 stable=0/4
+2026-04-16T17:13:41,Calibration altitude stabilize,50.450757,30.461205,23.43,0.49,1245.03,,,,,1468,alt_err=-3.43 vz_down=0.03 stable=0/4
+2026-04-16T17:13:41,Calibration altitude stabilize,50.450757,30.461205,23.43,0.48,1245.03,,,,,1468,alt_err=-3.43 vz_down=-0.06 stable=0/4
+2026-04-16T17:13:41,Calibration altitude stabilize,50.450757,30.461205,23.44,0.48,1245.03,,,,,1468,alt_err=-3.44 vz_down=-0.04 stable=0/4
+2026-04-16T17:13:42,Calibration altitude stabilize,50.450758,30.461204,23.46,0.46,1245.02,,,,,1468,alt_err=-3.46 vz_down=-0.14 stable=0/4
+2026-04-16T17:13:42,Calibration altitude stabilize,50.450758,30.461204,23.49,0.45,1245.01,,,,,1468,alt_err=-3.49 vz_down=-0.14 stable=0/4
+2026-04-16T17:13:43,Calibration altitude stabilize,50.450758,30.461203,23.53,0.41,1245.00,,,,,1468,alt_err=-3.53 vz_down=-0.11 stable=0/4
+2026-04-16T17:13:43,Calibration altitude stabilize,50.450758,30.461203,23.55,0.41,1244.99,,,,,1468,alt_err=-3.55 vz_down=-0.10 stable=0/4
+2026-04-16T17:13:43,Calibration altitude stabilize,50.450758,30.461202,23.68,0.44,1244.96,,,,,1468,alt_err=-3.68 vz_down=-0.34 stable=0/4
+2026-04-16T17:13:44,Calibration altitude stabilize,50.450758,30.461202,23.77,0.41,1244.95,,,,,1468,alt_err=-3.77 vz_down=-0.32 stable=0/4
+2026-04-16T17:13:44,Calibration altitude stabilize,50.450758,30.461201,23.93,0.37,1244.93,,,,,1468,alt_err=-3.93 vz_down=-0.29 stable=0/4
+2026-04-16T17:13:44,Calibration altitude stabilize,50.450758,30.461201,24.00,0.37,1244.91,,,,,1468,alt_err=-4.00 vz_down=-0.29 stable=0/4
+2026-04-16T17:13:45,Calibration altitude stabilize,50.450759,30.461201,24.10,0.36,1244.90,,,,,1468,alt_err=-4.10 vz_down=-0.41 stable=0/4
+2026-04-16T17:13:45,Calibration altitude stabilize,50.450759,30.461200,24.26,0.33,1244.87,,,,,1468,alt_err=-4.26 vz_down=-0.30 stable=0/4
+2026-04-16T17:13:45,Calibration altitude stabilize,50.450759,30.461199,24.34,0.31,1244.84,,,,,1468,alt_err=-4.34 vz_down=-0.30 stable=0/4
+2026-04-16T17:13:46,Calibration altitude stabilize,50.450759,30.461199,24.42,0.29,1244.81,,,,,1468,alt_err=-4.42 vz_down=-0.10 stable=0/4
+2026-04-16T17:13:46,Calibration altitude stabilize,50.450759,30.461198,24.47,0.31,1244.79,,,,,1468,alt_err=-4.47 vz_down=-0.18 stable=0/4
+2026-04-16T17:13:46,Calibration altitude stabilize,50.450759,30.461198,24.50,0.32,1244.77,,,,,1468,alt_err=-4.50 vz_down=-0.13 stable=0/4
+2026-04-16T17:13:47,Calibration altitude stabilize,50.450759,30.461197,24.57,0.31,1244.73,,,,,1468,alt_err=-4.57 vz_down=-0.04 stable=0/4
+2026-04-16T17:13:47,Calibration altitude stabilize,50.450759,30.461196,24.56,0.31,1244.72,,,,,1468,alt_err=-4.56 vz_down=0.01 stable=0/4
+2026-04-16T17:13:47,Calibration altitude stabilize,50.450759,30.461196,24.52,0.32,1244.69,,,,,1468,alt_err=-4.52 vz_down=0.08 stable=0/4
+2026-04-16T17:13:48,Calibration altitude stabilize,50.450759,30.461195,24.51,0.32,1244.68,,,,,1468,alt_err=-4.51 vz_down=0.02 stable=0/4
+2026-04-16T17:13:48,Calibration altitude stabilize,50.450759,30.461195,24.49,0.32,1244.67,,,,,1468,alt_err=-4.49 vz_down=0.08 stable=0/4
+2026-04-16T17:13:48,Calibration altitude stabilize,50.450760,30.461195,24.40,0.34,1244.65,,,,,1468,alt_err=-4.40 vz_down=0.17 stable=0/4
+2026-04-16T17:13:49,Calibration altitude stabilize,50.450760,30.461194,24.35,0.32,1244.64,,,,,1468,alt_err=-4.35 vz_down=0.22 stable=0/4
+2026-04-16T17:13:49,Calibration altitude stabilize,50.450760,30.461194,24.19,0.31,1244.63,,,,,1468,alt_err=-4.19 vz_down=0.42 stable=0/4
+2026-04-16T17:13:50,Calibration altitude stabilize,50.450760,30.461193,24.08,0.33,1244.62,,,,,1468,alt_err=-4.08 vz_down=0.45 stable=0/4
+2026-04-16T17:13:50,Calibration altitude stabilize,50.450760,30.461193,23.98,0.34,1244.60,,,,,1468,alt_err=-3.98 vz_down=0.31 stable=0/4
+2026-04-16T17:13:50,Calibration altitude stabilize,50.450760,30.461192,23.84,0.33,1244.58,,,,,1468,alt_err=-3.84 vz_down=0.12 stable=0/4
+2026-04-16T17:13:51,Calibration altitude stabilize,50.450760,30.461192,23.81,0.33,1244.57,,,,,1468,alt_err=-3.81 vz_down=0.15 stable=0/4
+2026-04-16T17:13:51,Calibration altitude stabilize,50.450761,30.461191,23.69,0.35,1244.54,,,,,1468,alt_err=-3.69 vz_down=0.29 stable=0/4
+2026-04-16T17:13:51,Calibration altitude stabilize,50.450761,30.461191,23.60,0.37,1244.53,,,,,1468,alt_err=-3.60 vz_down=0.36 stable=0/4
+2026-04-16T17:13:52,Calibration altitude stabilize,50.450761,30.461190,23.51,0.37,1244.51,,,,,1468,alt_err=-3.51 vz_down=0.40 stable=0/4
+2026-04-16T17:13:52,Calibration altitude stabilize,50.450761,30.461189,23.36,0.38,1244.49,,,,,1468,alt_err=-3.36 vz_down=0.17 stable=0/4
+2026-04-16T17:13:52,Calibration altitude stabilize,50.450761,30.461189,23.33,0.37,1244.48,,,,,1468,alt_err=-3.33 vz_down=0.05 stable=0/4
+2026-04-16T17:13:53,Calibration altitude stabilize,50.450761,30.461189,23.28,0.35,1244.47,,,,,1468,alt_err=-3.28 vz_down=0.03 stable=0/4
+2026-04-16T17:13:53,Calibration altitude stabilize,50.450761,30.461188,23.28,0.35,1244.46,,,,,1468,alt_err=-3.28 vz_down=-0.02 stable=0/4
+2026-04-16T17:13:53,Calibration altitude stabilize,50.450762,30.461188,23.31,0.34,1244.46,,,,,1468,alt_err=-3.31 vz_down=-0.08 stable=0/4
+2026-04-16T17:13:54,Calibration altitude stabilize,50.450762,30.461187,23.32,0.36,1244.45,,,,,1468,alt_err=-3.32 vz_down=0.23 stable=0/4
+2026-04-16T17:13:54,Calibration altitude stabilize,50.450762,30.461187,23.25,0.36,1244.44,,,,,1468,alt_err=-3.25 vz_down=0.20 stable=0/4
+2026-04-16T17:13:54,Calibration altitude stabilize,50.450762,30.461187,23.15,0.38,1244.43,,,,,1468,alt_err=-3.15 vz_down=0.24 stable=0/4
+2026-04-16T17:13:55,Calibration altitude stabilize,50.450763,30.461186,23.09,0.39,1244.43,,,,,1468,alt_err=-3.09 vz_down=0.23 stable=0/4
+2026-04-16T17:13:55,Calibration altitude stabilize,50.450763,30.461186,23.01,0.40,1244.42,,,,,1468,alt_err=-3.01 vz_down=0.42 stable=0/4
+2026-04-16T17:13:56,Calibration altitude stabilize,50.450763,30.461185,22.80,0.44,1244.41,,,,,1478,alt_err=-2.80 vz_down=0.38 stable=0/4
+2026-04-16T17:13:56,Calibration altitude stabilize,50.450763,30.461185,22.70,0.43,1244.40,,,,,1478,alt_err=-2.70 vz_down=0.44 stable=0/4
+2026-04-16T17:13:56,Calibration altitude stabilize,50.450764,30.461184,22.50,0.41,1244.40,,,,,1478,alt_err=-2.50 vz_down=0.22 stable=0/4
+2026-04-16T17:13:57,Calibration altitude stabilize,50.450764,30.461184,22.45,0.41,1244.40,,,,,1478,alt_err=-2.45 vz_down=0.12 stable=0/4
+2026-04-16T17:13:57,Calibration altitude stabilize,50.450764,30.461183,22.42,0.41,1244.40,,,,,1478,alt_err=-2.42 vz_down=0.10 stable=0/4
+2026-04-16T17:13:57,Calibration altitude stabilize,50.450764,30.461183,22.41,0.41,1244.40,,,,,1478,alt_err=-2.41 vz_down=-0.01 stable=0/4
+2026-04-16T17:13:58,Calibration altitude stabilize,50.450764,30.461183,22.42,0.40,1244.39,,,,,1478,alt_err=-2.42 vz_down=-0.06 stable=0/4
+2026-04-16T17:13:58,Calibration altitude stabilize,50.450765,30.461182,22.45,0.38,1244.40,,,,,1478,alt_err=-2.45 vz_down=-0.03 stable=0/4
+2026-04-16T17:13:58,Calibration altitude stabilize,50.450765,30.461182,22.49,0.39,1244.39,,,,,1478,alt_err=-2.49 vz_down=-0.13 stable=0/4
+2026-04-16T17:13:59,Calibration altitude stabilize,50.450765,30.461181,22.64,0.41,1244.39,,,,,1478,alt_err=-2.64 vz_down=-0.29 stable=0/4
+2026-04-16T17:13:59,Calibration altitude stabilize,50.450765,30.461181,22.72,0.40,1244.38,,,,,1478,alt_err=-2.72 vz_down=-0.33 stable=0/4
+2026-04-16T17:13:59,Calibration altitude stabilize,50.450766,30.461181,22.82,0.38,1244.38,,,,,1478,alt_err=-2.82 vz_down=-0.41 stable=0/4
+2026-04-16T17:14:00,Calibration altitude stabilize,50.450766,30.461180,23.03,0.38,1244.37,,,,,1468,alt_err=-3.03 vz_down=-0.47 stable=0/4
+2026-04-16T17:14:00,Calibration altitude stabilize,50.450766,30.461180,23.15,0.39,1244.37,,,,,1468,alt_err=-3.15 vz_down=-0.50 stable=0/4
+2026-04-16T17:14:00,Calibration altitude stabilize,50.450766,30.461180,23.28,0.40,1244.36,,,,,1468,alt_err=-3.28 vz_down=-0.52 stable=0/4
+2026-04-16T17:14:01,Calibration altitude stabilize,50.450767,30.461179,23.58,0.41,1244.35,,,,,1468,alt_err=-3.58 vz_down=-0.67 stable=0/4
+2026-04-16T17:14:01,Calibration altitude stabilize,50.450767,30.461179,23.74,0.41,1244.34,,,,,1468,alt_err=-3.74 vz_down=-0.58 stable=0/4
+2026-04-16T17:14:01,Calibration altitude stabilize,50.450767,30.461178,24.06,0.41,1244.35,,,,,1468,alt_err=-4.06 vz_down=-0.72 stable=0/4
+2026-04-16T17:14:02,Calibration altitude stabilize,50.450767,30.461178,24.24,0.40,1244.34,,,,,1468,alt_err=-4.24 vz_down=-0.71 stable=0/4
+2026-04-16T17:14:02,Calibration altitude stabilize,50.450767,30.461178,24.62,0.39,1244.35,,,,,1468,alt_err=-4.62 vz_down=-0.80 stable=0/4
+2026-04-16T17:14:03,Calibration altitude stabilize,50.450768,30.461178,24.82,0.38,1244.35,,,,,1468,alt_err=-4.82 vz_down=-0.85 stable=0/4
+2026-04-16T17:14:03,Calibration altitude stabilize,50.450768,30.461177,25.05,0.38,1244.36,,,,,1468,alt_err=-5.05 vz_down=-0.91 stable=0/4
+2026-04-16T17:14:03,Calibration altitude stabilize,50.450768,30.461177,25.47,0.38,1244.35,,,,,1468,alt_err=-5.47 vz_down=-0.84 stable=0/4
+2026-04-16T17:14:04,Calibration altitude stabilize,50.450768,30.461177,25.68,0.38,1244.35,,,,,1468,alt_err=-5.68 vz_down=-0.74 stable=0/4
+2026-04-16T17:14:04,Calibration altitude stabilize,50.450769,30.461176,25.97,0.40,1244.34,,,,,1468,alt_err=-5.97 vz_down=-0.50 stable=0/4
+2026-04-16T17:14:04,Calibration altitude stabilize,50.450769,30.461176,26.08,0.41,1244.33,,,,,1468,alt_err=-6.08 vz_down=-0.55 stable=0/4
+2026-04-16T17:14:05,Calibration altitude stabilize,50.450769,30.461175,26.23,0.42,1244.33,,,,,1468,alt_err=-6.23 vz_down=-0.52 stable=0/4
+2026-04-16T17:14:05,Calibration altitude stabilize,50.450769,30.461175,26.49,0.42,1244.31,,,,,1468,alt_err=-6.49 vz_down=-0.46 stable=0/4
+2026-04-16T17:14:05,Calibration altitude stabilize,50.450769,30.461175,26.59,0.41,1244.30,,,,,1468,alt_err=-6.59 vz_down=-0.39 stable=0/4
+2026-04-16T17:14:06,Calibration altitude stabilize,50.450769,30.461174,26.74,0.41,1244.30,,,,,1468,alt_err=-6.74 vz_down=-0.20 stable=0/4
+2026-04-16T17:14:06,Calibration altitude stabilize,50.450769,30.461174,26.79,0.41,1244.29,,,,,1468,alt_err=-6.79 vz_down=-0.12 stable=0/4
+2026-04-16T17:14:06,Calibration altitude stabilize,50.450769,30.461174,26.81,0.41,1244.29,,,,,1468,alt_err=-6.81 vz_down=-0.04 stable=0/4
+2026-04-16T17:14:07,Calibration altitude stabilize,50.450769,30.461174,26.82,0.41,1244.27,,,,,1468,alt_err=-6.82 vz_down=0.15 stable=0/4
+2026-04-16T17:14:07,Calibration altitude stabilize,50.450770,30.461173,26.77,0.41,1244.27,,,,,1468,alt_err=-6.77 vz_down=0.23 stable=0/4
+2026-04-16T17:14:07,Calibration altitude stabilize,50.450770,30.461173,26.70,0.35,1244.27,,,,,1468,alt_err=-6.70 vz_down=0.11 stable=0/4
+2026-04-16T17:14:08,Calibration altitude stabilize,50.450770,30.461173,26.67,0.33,1244.27,,,,,1468,alt_err=-6.67 vz_down=0.11 stable=0/4
+2026-04-16T17:14:08,Calibration altitude stabilize,50.450770,30.461172,26.64,0.31,1244.27,,,,,1468,alt_err=-6.64 vz_down=0.05 stable=0/4
+2026-04-16T17:14:08,Calibration altitude stabilize,50.450770,30.461172,26.63,0.37,1244.25,,,,,1468,alt_err=-6.63 vz_down=0.04 stable=0/4
+2026-04-16T17:14:09,Calibration altitude stabilize,50.450770,30.461172,26.62,0.40,1244.24,,,,,1468,alt_err=-6.62 vz_down=-0.04 stable=0/4
+2026-04-16T17:14:09,Calibration altitude stabilize,50.450771,30.461171,26.61,0.41,1244.24,,,,,1468,alt_err=-6.61 vz_down=-0.07 stable=0/4
+2026-04-16T17:14:10,Calibration altitude stabilize,50.450771,30.461171,26.63,0.41,1244.23,,,,,1468,alt_err=-6.63 vz_down=-0.18 stable=0/4
+2026-04-16T17:14:10,Calibration altitude stabilize,50.450771,30.461171,26.68,0.41,1244.22,,,,,1468,alt_err=-6.68 vz_down=-0.24 stable=0/4
+2026-04-16T17:14:10,Calibration altitude stabilize,50.450771,30.461170,26.79,0.42,1244.22,,,,,1468,alt_err=-6.79 vz_down=-0.17 stable=0/4
+2026-04-16T17:14:11,Calibration altitude stabilize,50.450771,30.461170,26.82,0.41,1244.22,,,,,1468,alt_err=-6.82 vz_down=-0.10 stable=0/4
+2026-04-16T17:14:11,Calibration altitude stabilize,50.450772,30.461169,26.85,0.41,1244.20,,,,,1468,alt_err=-6.85 vz_down=-0.05 stable=0/4
+2026-04-16T17:14:11,Calibration altitude stabilize,50.450772,30.461169,26.86,0.41,1244.20,,,,,1468,alt_err=-6.86 vz_down=-0.03 stable=0/4
+2026-04-16T17:14:12,Calibration altitude stabilize,50.450772,30.461169,26.85,0.41,1244.19,,,,,1468,alt_err=-6.85 vz_down=0.02 stable=0/4
+2026-04-16T17:14:12,Calibration altitude stabilize,50.450772,30.461168,26.85,0.36,1244.19,,,,,1468,alt_err=-6.85 vz_down=0.02 stable=0/4
+2026-04-16T17:14:12,Calibration altitude stabilize,50.450772,30.461168,26.84,0.33,1244.19,,,,,1468,alt_err=-6.84 vz_down=0.03 stable=0/4
+2026-04-16T17:14:13,Calibration altitude stabilize,50.450772,30.461168,26.71,0.31,1244.19,,,,,1468,alt_err=-6.71 vz_down=0.45 stable=0/4
+2026-04-16T17:14:13,Calibration altitude stabilize,50.450772,30.461168,26.59,0.32,1244.19,,,,,1468,alt_err=-6.59 vz_down=0.51 stable=0/4
+2026-04-16T17:14:13,Calibration altitude stabilize,50.450773,30.461167,26.46,0.33,1244.19,,,,,1468,alt_err=-6.46 vz_down=0.49 stable=0/4
+2026-04-16T17:14:14,Calibration altitude stabilize,50.450773,30.461167,26.21,0.33,1244.18,,,,,1468,alt_err=-6.21 vz_down=0.59 stable=0/4
+2026-04-16T17:14:14,Calibration altitude stabilize,50.450773,30.461167,26.06,0.33,1244.17,,,,,1468,alt_err=-6.06 vz_down=0.55 stable=0/4
+2026-04-16T17:14:14,Calibration altitude stabilize,50.450773,30.461166,25.68,0.33,1244.16,,,,,1468,alt_err=-5.68 vz_down=0.84 stable=0/4
+2026-04-16T17:14:15,Calibration altitude stabilize,50.450773,30.461166,25.49,0.35,1244.16,,,,,1468,alt_err=-5.49 vz_down=0.71 stable=0/4
+2026-04-16T17:14:15,Calibration altitude stabilize,50.450773,30.461166,25.30,0.36,1244.15,,,,,1468,alt_err=-5.30 vz_down=0.69 stable=0/4
+2026-04-16T17:14:16,Calibration altitude stabilize,50.450773,30.461165,24.95,0.38,1244.13,,,,,1468,alt_err=-4.95 vz_down=0.65 stable=0/4
+2026-04-16T17:14:16,Calibration altitude stabilize,50.450773,30.461165,24.80,0.38,1244.13,,,,,1468,alt_err=-4.80 vz_down=0.59 stable=0/4
+2026-04-16T17:14:16,Calibration altitude stabilize,50.450774,30.461165,24.50,0.36,1244.12,,,,,1468,alt_err=-4.50 vz_down=0.47 stable=0/4
+2026-04-16T17:14:17,Calibration altitude stabilize,50.450774,30.461164,24.37,0.34,1244.11,,,,,1468,alt_err=-4.37 vz_down=0.53 stable=0/4
+2026-04-16T17:14:17,Calibration altitude stabilize,50.450774,30.461164,24.22,0.33,1244.11,,,,,1468,alt_err=-4.22 vz_down=0.59 stable=0/4
+2026-04-16T17:14:17,Calibration altitude stabilize,50.450774,30.461164,23.92,0.32,1244.10,,,,,1468,alt_err=-3.92 vz_down=0.61 stable=0/4
+2026-04-16T17:14:18,Calibration altitude stabilize,50.450775,30.461163,23.76,0.34,1244.10,,,,,1468,alt_err=-3.76 vz_down=0.50 stable=0/4
+2026-04-16T17:14:18,Calibration altitude stabilize,50.450775,30.461162,23.49,0.37,1244.07,,,,,1468,alt_err=-3.49 vz_down=0.62 stable=0/4
+2026-04-16T17:14:18,Calibration altitude stabilize,50.450775,30.461162,23.34,0.39,1244.06,,,,,1468,alt_err=-3.34 vz_down=0.62 stable=0/4
+2026-04-16T17:14:19,Calibration altitude stabilize,50.450775,30.461161,22.93,0.40,1244.04,,,,,1478,alt_err=-2.93 vz_down=0.87 stable=0/4
+2026-04-16T17:14:19,Calibration altitude stabilize,50.450775,30.461161,22.71,0.38,1244.02,,,,,1478,alt_err=-2.71 vz_down=0.88 stable=0/4
+2026-04-16T17:14:19,Calibration altitude stabilize,50.450775,30.461160,22.49,0.37,1244.01,,,,,1478,alt_err=-2.49 vz_down=0.83 stable=0/4
+2026-04-16T17:14:20,Calibration altitude stabilize,50.450775,30.461160,22.09,0.37,1243.99,,,,,1478,alt_err=-2.09 vz_down=0.76 stable=0/4
+2026-04-16T17:14:20,Calibration altitude stabilize,50.450776,30.461159,21.91,0.37,1243.98,,,,,1478,alt_err=-1.91 vz_down=0.66 stable=0/4
+2026-04-16T17:14:20,Calibration altitude stabilize,50.450776,30.461159,21.77,0.38,1243.97,,,,,1478,alt_err=-1.77 vz_down=0.59 stable=1/4
+2026-04-16T17:14:21,Calibration altitude stabilize,50.450776,30.461158,21.50,0.37,1243.96,,,,,1478,alt_err=-1.50 vz_down=0.46 stable=2/4
+2026-04-16T17:14:21,Calibration altitude stabilize,50.450776,30.461158,21.39,0.36,1243.95,,,,,1478,alt_err=-1.39 vz_down=0.43 stable=3/4
+2026-04-16T17:14:29,Climb to mission altitude,50.450783,30.461149,11.44,0.53,,,,,,1548,
+2026-04-16T17:14:30,Climb to mission altitude,50.450783,30.461149,8.36,0.57,,,,,,1548,
+2026-04-16T17:14:30,Climb to mission altitude,50.450783,30.461148,5.21,0.58,,,,,,1548,
+2026-04-16T17:14:31,Climb to mission altitude,50.450783,30.461148,0.55,0.57,,,,,,1548,
+2026-04-16T17:14:31,Climb to mission altitude,50.450783,30.461148,0.50,0.61,,,,,,1548,
+2026-04-16T17:14:31,Climb to mission altitude,50.450783,30.461148,0.60,0.62,,,,,,1548,
+2026-04-16T17:14:32,Climb to mission altitude,50.450783,30.461148,0.98,0.58,,,,,,1548,
+2026-04-16T17:14:32,Climb to mission altitude,50.450783,30.461148,2.01,0.55,,,,,,1548,
+2026-04-16T17:14:32,Climb to mission altitude,50.450783,30.461148,2.65,0.55,,,,,,1548,
+2026-04-16T17:14:33,Climb to mission altitude,50.450783,30.461148,3.36,0.55,,,,,,1548,
+2026-04-16T17:14:33,Climb to mission altitude,50.450783,30.461148,4.86,0.47,,,,,,1548,
+2026-04-16T17:14:33,Climb to mission altitude,50.450783,30.461148,5.60,0.48,,,,,,1548,
+2026-04-16T17:14:34,Climb to mission altitude,50.450784,30.461147,7.24,0.48,,,,,,1548,
+2026-04-16T17:14:34,Climb to mission altitude,50.450784,30.461147,8.10,0.48,,,,,,1548,
+2026-04-16T17:14:34,Climb to mission altitude,50.450784,30.461147,9.01,0.48,,,,,,1548,
+2026-04-16T17:14:35,Climb to mission altitude,50.450784,30.461147,10.83,0.51,,,,,,1548,
+2026-04-16T17:14:35,Climb to mission altitude,50.450784,30.461147,11.78,0.49,,,,,,1548,
+2026-04-16T17:14:35,Climb to mission altitude,50.450785,30.461147,13.79,0.54,,,,,,1548,
+2026-04-16T17:14:36,Climb to mission altitude,50.450785,30.461147,14.78,0.56,,,,,,1548,
+2026-04-16T17:14:36,Climb to mission altitude,50.450785,30.461146,15.79,0.58,,,,,,1548,
+2026-04-16T17:14:37,Climb to mission altitude,50.450785,30.461146,17.92,0.56,,,,,,1548,
+2026-04-16T17:14:37,Climb to mission altitude,50.450785,30.461146,18.99,0.56,,,,,,1548,
+2026-04-16T17:14:37,Climb to mission altitude,50.450786,30.461146,21.20,0.57,,,,,,1548,
+2026-04-16T17:14:38,Climb to mission altitude,50.450786,30.461145,22.38,0.56,,,,,,1548,
+2026-04-16T17:14:38,Climb to mission altitude,50.450786,30.461145,23.52,0.56,,,,,,1548,
+2026-04-16T17:14:38,Climb to mission altitude,50.450786,30.461145,25.53,0.56,,,,,,1548,
+2026-04-16T17:14:39,Climb to mission altitude,50.450786,30.461144,26.50,0.56,,,,,,1548,
+2026-04-16T17:14:39,Climb to mission altitude,50.450787,30.461144,28.55,0.56,,,,,,1548,
+2026-04-16T17:14:39,Climb to mission altitude,50.450787,30.461144,29.62,0.56,,,,,,1548,
+2026-04-16T17:14:40,Climb to mission altitude,50.450787,30.461143,30.63,0.56,,,,,,1548,
+2026-04-16T17:14:40,Climb to mission altitude,50.450787,30.461143,32.73,0.58,,,,,,1548,
+2026-04-16T17:14:40,Climb to mission altitude,50.450787,30.461143,33.75,0.57,,,,,,1548,
+2026-04-16T17:14:41,Climb to mission altitude,50.450788,30.461142,35.75,0.57,,,,,,1548,
+2026-04-16T17:14:41,Climb to mission altitude,50.450788,30.461142,36.78,0.57,,,,,,1548,
+2026-04-16T17:14:41,Climb to mission altitude,50.450788,30.461142,38.75,0.56,,,,,,1548,
+2026-04-16T17:14:42,Climb to mission altitude,50.450788,30.461142,39.68,0.55,,,,,,1548,
+2026-04-16T17:14:42,Climb to mission altitude,50.450788,30.461141,40.64,0.54,,,,,,1548,
+2026-04-16T17:14:43,Climb to mission altitude,50.450789,30.461141,42.67,0.53,,,,,,1548,
+2026-04-16T17:14:43,Climb to mission altitude,50.450789,30.461141,43.72,0.52,,,,,,1548,
+2026-04-16T17:14:43,Climb to mission altitude,50.450789,30.461140,45.82,0.53,,,,,,1548,
+2026-04-16T17:14:44,Climb to mission altitude,50.450789,30.461140,46.86,0.55,,,,,,1548,
+2026-04-16T17:14:44,Climb to mission altitude,50.450789,30.461140,47.92,0.56,,,,,,1548,
+2026-04-16T17:14:44,Climb to mission altitude,50.450790,30.461139,50.08,0.56,,,,,,1548,
+2026-04-16T17:14:45,Climb to mission altitude,50.450790,30.461139,51.07,0.56,,,,,,1548,
+2026-04-16T17:14:45,Climb to mission altitude,50.450790,30.461139,53.02,0.56,,,,,,1548,
+2026-04-16T17:14:45,Climb to mission altitude,50.450790,30.461138,54.00,0.57,,,,,,1548,
+2026-04-16T17:14:46,Climb to mission altitude,50.450791,30.461138,54.96,0.57,,,,,,1548,
+2026-04-16T17:14:46,Climb to mission altitude,50.450791,30.461137,56.95,0.58,,,,,,1548,
+2026-04-16T17:14:46,Climb to mission altitude,50.450791,30.461137,57.99,0.57,,,,,,1548,
+2026-04-16T17:14:47,Climb to mission altitude,50.450791,30.461137,59.93,0.57,,,,,,1548,
+2026-04-16T17:14:47,Climb to mission altitude,50.450791,30.461136,60.91,0.57,,,,,,1548,
+2026-04-16T17:14:47,Climb to mission altitude,50.450791,30.461136,61.94,0.57,,,,,,1548,
+2026-04-16T17:14:48,Climb to mission altitude,50.450792,30.461136,63.91,0.58,,,,,,1548,
+2026-04-16T17:14:48,Climb to mission altitude,50.450792,30.461136,64.96,0.58,,,,,,1548,
+2026-04-16T17:14:48,Climb to mission altitude,50.450792,30.461135,67.12,0.60,,,,,,1548,
+2026-04-16T17:14:49,Climb to mission altitude,50.450791,30.461134,68.24,0.62,,,,,,1548,
+2026-04-16T17:14:49,Climb to mission altitude,50.450791,30.461133,69.38,0.66,,,,,,1548,
+2026-04-16T17:14:50,Climb to mission altitude,50.450789,30.461131,71.53,0.63,,,,,,1548,
+2026-04-16T17:14:50,Climb to mission altitude,50.450789,30.461130,72.54,0.64,,,,,,1548,
+2026-04-16T17:14:50,Climb to mission altitude,50.450786,30.461127,74.62,0.66,,,,,,1548,
+2026-04-16T17:14:51,Climb to mission altitude,50.450784,30.461125,75.70,0.65,,,,,,1548,
+2026-04-16T17:14:51,Climb to mission altitude,50.450782,30.461123,76.73,0.59,,,,,,1548,
+2026-04-16T17:14:51,Climb to mission altitude,50.450778,30.461118,78.85,0.53,,,,,,1548,
+2026-04-16T17:14:52,Climb to mission altitude,50.450775,30.461116,79.89,0.49,,,,,,1548,
+2026-04-16T17:14:52,Climb to mission altitude,50.450770,30.461110,81.92,0.53,,,,,,1548,
+2026-04-16T17:14:52,Climb to mission altitude,50.450767,30.461107,82.92,0.57,,,,,,1548,
+2026-04-16T17:14:53,Climb to mission altitude,50.450763,30.461104,83.95,0.59,,,,,,1548,
+2026-04-16T17:14:53,Climb to mission altitude,50.450756,30.461097,86.06,0.58,,,,,,1548,
+2026-04-16T17:14:53,Climb to mission altitude,50.450753,30.461094,87.16,0.57,,,,,,1548,
+2026-04-16T17:14:54,Climb to mission altitude,50.450745,30.461086,89.33,0.57,,,,,,1548,
+2026-04-16T17:14:54,Climb to mission altitude,50.450740,30.461081,90.39,0.56,,,,,,1548,
+2026-04-16T17:14:54,Climb to mission altitude,50.450736,30.461077,91.44,0.57,,,,,,1548,
+2026-04-16T17:14:55,Climb to mission altitude,50.450726,30.461068,93.55,0.60,,,,,,1548,
+2026-04-16T17:14:55,Climb to mission altitude,50.450721,30.461063,94.61,0.59,,,,,,1548,
+2026-04-16T17:14:56,Climb to mission altitude,50.450711,30.461053,96.78,0.57,,,,,,1548,
+2026-04-16T17:14:56,Climb to mission altitude,50.450705,30.461047,97.82,0.57,,,,,,1548,
+2026-04-16T17:14:56,Climb to mission altitude,50.450694,30.461036,99.81,0.57,,,,,,1548,
+2026-04-16T17:14:57,Climb to mission altitude,50.450688,30.461031,100.79,0.56,,,,,,1542,
+2026-04-16T17:14:57,Climb to mission altitude,50.450682,30.461025,101.75,0.55,,,,,,1542,
+2026-04-16T17:14:57,Climb to mission altitude,50.450670,30.461013,103.63,0.53,,,,,,1542,
+2026-04-16T17:14:58,Climb to mission altitude,50.450664,30.461007,104.59,0.52,,,,,,1542,
+2026-04-16T17:14:58,Climb to mission altitude,50.450651,30.460994,106.51,0.53,,,,,,1542,
+2026-04-16T17:14:58,Climb to mission altitude,50.450644,30.460988,107.47,0.54,,,,,,1542,
+2026-04-16T17:14:59,Climb to mission altitude,50.450638,30.460981,108.39,0.53,,,,,,1542,
+2026-04-16T17:14:59,Climb to mission altitude,50.450624,30.460968,110.23,0.53,,,,,,1542,
+2026-04-16T17:14:59,Climb to mission altitude,50.450617,30.460961,111.17,0.54,,,,,,1542,
+2026-04-16T17:15:00,Climb to mission altitude,50.450602,30.460947,113.13,0.55,,,,,,1542,
+2026-04-16T17:15:00,Climb to mission altitude,50.450595,30.460940,114.11,0.53,,,,,,1542,
+2026-04-16T17:15:00,Climb to mission altitude,50.450587,30.460933,115.08,0.54,,,,,,1542,
+2026-04-16T17:15:01,Climb to mission altitude,50.450572,30.460919,117.06,0.55,,,,,,1542,
+2026-04-16T17:15:01,Climb to mission altitude,50.450564,30.460911,118.07,0.54,,,,,,1542,
+2026-04-16T17:15:01,Climb to mission altitude,50.450548,30.460896,120.14,0.55,,,,,,1542,
+2026-04-16T17:15:02,Climb to mission altitude,50.450540,30.460888,121.17,0.55,,,,,,1542,
+2026-04-16T17:15:02,Climb to mission altitude,50.450532,30.460880,122.19,0.55,,,,,,1542,
+2026-04-16T17:15:03,Climb to mission altitude,50.450515,30.460865,124.27,0.55,,,,,,1542,
+2026-04-16T17:15:03,Climb to mission altitude,50.450506,30.460857,125.29,0.55,,,,,,1542,
+2026-04-16T17:15:03,Climb to mission altitude,50.450489,30.460840,127.26,0.54,,,,,,1542,
+2026-04-16T17:15:04,Climb to mission altitude,50.450480,30.460832,128.18,0.55,,,,,,1542,
+2026-04-16T17:15:04,Climb to mission altitude,50.450471,30.460824,129.05,0.55,,,,,,1542,
+2026-04-16T17:15:04,Climb to mission altitude,50.450453,30.460807,130.81,0.57,,,,,,1542,
+2026-04-16T17:15:05,Climb to mission altitude,50.450444,30.460798,131.67,0.58,,,,,,1542,
+2026-04-16T17:15:05,Climb to mission altitude,50.450426,30.460781,133.43,0.57,,,,,,1542,
+2026-04-16T17:15:05,Climb to mission altitude,50.450417,30.460773,134.32,0.57,,,,,,1542,
+2026-04-16T17:15:06,Climb to mission altitude,50.450408,30.460764,135.23,0.57,,,,,,1542,
+2026-04-16T17:15:06,Climb to mission altitude,50.450389,30.460746,137.15,0.57,,,,,,1542,
+2026-04-16T17:15:06,Climb to mission altitude,50.450380,30.460738,138.12,0.57,,,,,,1542,
+2026-04-16T17:15:07,Climb to mission altitude,50.450361,30.460720,140.05,0.56,,,,,,1542,
+2026-04-16T17:15:07,Climb to mission altitude,50.450352,30.460711,141.03,0.57,,,,,,1542,
+2026-04-16T17:15:07,Climb to mission altitude,50.450342,30.460703,141.90,0.58,,,,,,1542,
+2026-04-16T17:15:08,Climb to mission altitude,50.450323,30.460685,143.41,0.54,,,,,,1542,
+2026-04-16T17:15:08,Climb to mission altitude,50.450314,30.460676,144.22,0.55,,,,,,1542,
+2026-04-16T17:15:08,Climb to mission altitude,50.450295,30.460659,145.80,0.55,,,,,,1542,
+2026-04-16T17:15:09,Climb to mission altitude,50.450285,30.460650,146.52,0.56,,,,,,1542,
+2026-04-16T17:15:09,Climb to mission altitude,50.450276,30.460641,147.25,0.56,,,,,,1542,
+2026-04-16T17:15:10,Climb to mission altitude,50.450257,30.460623,148.83,0.56,,,,,,1542,
+2026-04-16T17:15:10,Climb to mission altitude,50.450247,30.460614,149.58,0.56,,,,,,1542,
+2026-04-16T17:15:10,Climb to mission altitude,50.450228,30.460596,151.09,0.56,,,,,,1542,
+2026-04-16T17:15:11,Climb to mission altitude,50.450218,30.460587,151.86,0.56,,,,,,1542,
+2026-04-16T17:15:11,Climb to mission altitude,50.450199,30.460570,153.53,0.56,,,,,,1542,
+2026-04-16T17:15:11,Climb to mission altitude,50.450189,30.460561,154.43,0.56,,,,,,1542,
+2026-04-16T17:15:12,Climb to mission altitude,50.450179,30.460552,155.35,0.56,,,,,,1542,
+2026-04-16T17:15:12,Climb to mission altitude,50.450160,30.460534,157.03,0.57,,,,,,1542,
+2026-04-16T17:15:12,Climb to mission altitude,50.450150,30.460525,157.81,0.56,,,,,,1542,
+2026-04-16T17:15:13,Climb to mission altitude,50.450141,30.460516,158.63,0.57,,,,,,1542,
+2026-04-16T17:15:13,Climb to mission altitude,50.450121,30.460498,160.31,0.57,,,,,,1542,
+2026-04-16T17:15:13,Climb to mission altitude,50.450111,30.460490,161.16,0.58,,,,,,1542,
+2026-04-16T17:15:14,Climb to mission altitude,50.450092,30.460472,163.08,0.58,,,,,,1542,
+2026-04-16T17:15:14,Climb to mission altitude,50.450083,30.460463,164.07,0.57,,,,,,1542,
+2026-04-16T17:15:14,Climb to mission altitude,50.450073,30.460454,165.04,0.57,,,,,,1542,
+2026-04-16T17:15:15,Climb to mission altitude,50.450054,30.460436,166.92,0.55,,,,,,1542,
+2026-04-16T17:15:15,Climb to mission altitude,50.450044,30.460427,167.91,0.54,,,,,,1542,
+2026-04-16T17:15:16,Climb to mission altitude,50.450024,30.460409,169.79,0.52,,,,,,1542,
+2026-04-16T17:15:16,Climb to mission altitude,50.450015,30.460400,170.71,0.53,,,,,,1542,
+2026-04-16T17:15:16,Climb to mission altitude,50.449995,30.460383,172.51,0.55,,,,,,1542,
+2026-04-16T17:15:17,Climb to mission altitude,50.449985,30.460373,173.42,0.54,,,,,,1542,
+2026-04-16T17:15:17,Climb to mission altitude,50.449976,30.460365,174.28,0.54,,,,,,1542,
+2026-04-16T17:15:17,Climb to mission altitude,50.449956,30.460347,175.95,0.56,,,,,,1542,
+2026-04-16T17:15:18,Climb to mission altitude,50.449947,30.460338,176.84,0.56,,,,,,1542,
+2026-04-16T17:15:18,Climb to mission altitude,50.449927,30.460320,178.69,0.56,,,,,,1542,
+2026-04-16T17:15:18,Climb to mission altitude,50.449917,30.460311,179.67,0.56,,,,,,1542,
+2026-04-16T17:15:19,Climb to mission altitude,50.449908,30.460302,180.66,0.55,,,,,,1538,
+2026-04-16T17:15:19,Climb to mission altitude,50.449888,30.460284,182.70,0.55,,,,,,1538,
+2026-04-16T17:15:19,Climb to mission altitude,50.449879,30.460275,183.71,0.54,,,,,,1538,
+2026-04-16T17:15:20,Climb to mission altitude,50.449859,30.460257,185.67,0.53,,,,,,1538,
+2026-04-16T17:15:20,Climb to mission altitude,50.449849,30.460248,186.60,0.53,,,,,,1538,
+2026-04-16T17:15:20,Climb to mission altitude,50.449840,30.460239,187.49,0.53,,,,,,1538,
+2026-04-16T17:15:21,Climb to mission altitude,50.449820,30.460222,189.33,0.52,,,,,,1538,
+2026-04-16T17:15:21,Climb to mission altitude,50.449810,30.460213,190.25,0.52,,,,,,1538,
+2026-04-16T17:15:21,Climb to mission altitude,50.449791,30.460195,192.14,0.52,,,,,,1538,
+2026-04-16T17:15:22,Climb to mission altitude,50.449781,30.460186,193.05,0.52,,,,,,1538,
+2026-04-16T17:15:22,Climb to mission altitude,50.449771,30.460177,193.97,0.54,,,,,,1538,
+2026-04-16T17:15:23,Climb to mission altitude,50.449752,30.460159,195.72,0.56,,,,,,1538,
+2026-04-16T17:15:23,Climb to mission altitude,50.449742,30.460151,196.61,0.55,,,,,,1538,
+2026-04-16T17:15:23,Climb to mission altitude,50.449723,30.460133,198.32,0.54,,,,,,1538,
+2026-04-16T17:15:24,Climb to mission altitude,50.449713,30.460124,199.18,0.55,,,,,,1538,
+2026-04-16T17:15:24,Climb to mission altitude,50.449703,30.460115,200.08,0.56,,,,,,1538,
+2026-04-16T17:15:24,Climb to mission altitude,50.449683,30.460097,201.99,0.56,,,,,,1538,
+2026-04-16T17:15:25,Climb to mission altitude,50.449673,30.460088,202.96,0.56,,,,,,1538,
+2026-04-16T17:15:25,Climb to mission altitude,50.449654,30.460071,204.83,0.57,,,,,,1538,
+2026-04-16T17:15:25,Climb to mission altitude,50.449644,30.460062,205.77,0.56,,,,,,1538,
+2026-04-16T17:15:26,Climb to mission altitude,50.449634,30.460053,206.69,0.56,,,,,,1538,
+2026-04-16T17:15:26,Climb to mission altitude,50.449614,30.460035,208.50,0.56,,,,,,1538,
+2026-04-16T17:15:26,Climb to mission altitude,50.449604,30.460027,209.38,0.56,,,,,,1538,
+2026-04-16T17:15:27,Climb to mission altitude,50.449585,30.460009,210.94,0.57,,,,,,1538,
+2026-04-16T17:15:27,Climb to mission altitude,50.449575,30.460000,211.71,0.57,,,,,,1538,
+2026-04-16T17:15:27,Climb to mission altitude,50.449565,30.459991,212.48,0.58,,,,,,1538,
+2026-04-16T17:15:28,Climb to mission altitude,50.449545,30.459974,214.14,0.57,,,,,,1538,
+2026-04-16T17:15:28,Climb to mission altitude,50.449536,30.459965,215.00,0.56,,,,,,1538,
+2026-04-16T17:15:28,Climb to mission altitude,50.449516,30.459947,216.58,0.55,,,,,,1538,
+2026-04-16T17:15:29,Climb to mission altitude,50.449506,30.459939,217.37,0.55,,,,,,1538,
+2026-04-16T17:15:29,Climb to mission altitude,50.449497,30.459930,218.19,0.54,,,,,,1538,
+2026-04-16T17:15:30,Climb to mission altitude,50.449477,30.459913,219.90,0.53,,,,,,1538,
+2026-04-16T17:15:30,Climb to mission altitude,50.449467,30.459904,220.81,0.53,,,,,,1532,
+2026-04-16T17:15:30,Climb to mission altitude,50.449448,30.459886,222.59,0.54,,,,,,1532,
+2026-04-16T17:15:31,Climb to mission altitude,50.449438,30.459878,223.53,0.54,,,,,,1532,
+2026-04-16T17:15:31,Climb to mission altitude,50.449428,30.459869,224.50,0.54,,,,,,1532,
+2026-04-16T17:15:31,Climb to mission altitude,50.449408,30.459852,226.26,0.52,,,,,,1532,
+2026-04-16T17:15:32,Climb to mission altitude,50.449399,30.459843,227.13,0.53,,,,,,1532,
+2026-04-16T17:15:32,Climb to mission altitude,50.449379,30.459825,228.72,0.54,,,,,,1532,
+2026-04-16T17:15:32,Climb to mission altitude,50.449369,30.459816,229.50,0.54,,,,,,1532,
+2026-04-16T17:15:33,Climb to mission altitude,50.449350,30.459799,231.07,0.53,,,,,,1532,
+2026-04-16T17:15:33,Climb to mission altitude,50.449340,30.459790,231.90,0.54,,,,,,1532,
+2026-04-16T17:15:33,Climb to mission altitude,50.449330,30.459781,232.70,0.56,,,,,,1532,
+2026-04-16T17:15:34,Climb to mission altitude,50.449311,30.459764,234.23,0.56,,,,,,1532,
+2026-04-16T17:15:34,Climb to mission altitude,50.449301,30.459755,234.98,0.56,,,,,,1532,
+2026-04-16T17:15:34,Climb to mission altitude,50.449282,30.459737,236.50,0.56,,,,,,1532,
+2026-04-16T17:15:35,Climb to mission altitude,50.449272,30.459728,237.27,0.57,,,,,,1532,
+2026-04-16T17:15:35,Climb to mission altitude,50.449262,30.459720,238.01,0.58,,,,,,1532,
+2026-04-16T17:15:36,Climb to mission altitude,50.449243,30.459702,239.62,0.58,,,,,,1532,
+2026-04-16T17:15:36,Climb to mission altitude,50.449233,30.459693,240.43,0.58,,,,,,1532,
+2026-04-16T17:15:36,Climb to mission altitude,50.449213,30.459676,242.08,0.57,,,,,,1532,
+2026-04-16T17:15:37,Climb to mission altitude,50.449204,30.459667,242.81,0.57,,,,,,1532,
+2026-04-16T17:15:37,Climb to mission altitude,50.449194,30.459658,243.53,0.57,,,,,,1532,
+2026-04-16T17:15:37,Climb to mission altitude,50.449174,30.459641,244.95,0.57,,,,,,1532,
+2026-04-16T17:15:38,Climb to mission altitude,50.449165,30.459632,245.62,0.57,,,,,,1532,
+2026-04-16T17:15:38,Climb to mission altitude,50.449155,30.459623,246.32,0.57,,,,,,1532,
+2026-04-16T17:15:38,Climb to mission altitude,50.449135,30.459606,247.75,0.57,,,,,,1532,
+2026-04-16T17:15:39,Climb to mission altitude,50.449126,30.459597,248.50,0.57,,,,,,1532,
+2026-04-16T17:15:39,Climb to mission altitude,50.449106,30.459580,250.11,0.58,,,,,,1526,
+2026-04-16T17:15:39,Climb to mission altitude,50.449097,30.459571,250.90,0.57,,,,,,1526,
+2026-04-16T17:15:40,Climb to mission altitude,50.449077,30.459553,252.41,0.57,,,,,,1526,
+2026-04-16T17:15:40,Climb to mission altitude,50.449067,30.459545,253.21,0.57,,,,,,1526,
+2026-04-16T17:15:40,Climb to mission altitude,50.449058,30.459536,254.02,0.57,,,,,,1526,
+2026-04-16T17:15:41,Climb to mission altitude,50.449038,30.459518,255.70,0.57,,,,,,1526,
+2026-04-16T17:15:41,Climb to mission altitude,50.449029,30.459509,256.48,0.56,,,,,,1526,
+2026-04-16T17:15:41,Climb to mission altitude,50.449009,30.459492,258.01,0.57,,,,,,1526,
+2026-04-16T17:15:42,Climb to mission altitude,50.448999,30.459483,258.77,0.56,,,,,,1526,
+2026-04-16T17:15:42,Climb to mission altitude,50.448990,30.459474,259.55,0.56,,,,,,1526,
+2026-04-16T17:15:43,Climb to mission altitude,50.448970,30.459456,261.11,0.54,,,,,,1526,
+2026-04-16T17:15:43,Climb to mission altitude,50.448960,30.459447,261.83,0.53,,,,,,1526,
+2026-04-16T17:15:43,Climb to mission altitude,50.448941,30.459429,263.25,0.54,,,,,,1526,
+2026-04-16T17:15:44,Climb to mission altitude,50.448931,30.459421,263.97,0.55,,,,,,1526,
+2026-04-16T17:15:44,Climb to mission altitude,50.448921,30.459412,264.73,0.55,,,,,,1526,
+2026-04-16T17:15:44,Climb to mission altitude,50.448902,30.459394,266.35,0.54,,,,,,1526,
+2026-04-16T17:15:45,Climb to mission altitude,50.448892,30.459385,267.19,0.54,,,,,,1526,
+2026-04-16T17:15:45,Climb to mission altitude,50.448872,30.459367,268.80,0.55,,,,,,1526,
+2026-04-16T17:15:45,Climb to mission altitude,50.448863,30.459359,269.62,0.57,,,,,,1526,
+2026-04-16T17:15:46,Climb to mission altitude,50.448853,30.459350,270.43,0.57,,,,,,1526,
+2026-04-16T17:15:46,Climb to mission altitude,50.448833,30.459332,272.07,0.58,,,,,,1526,
+2026-04-16T17:15:46,Climb to mission altitude,50.448824,30.459323,272.83,0.58,,,,,,1526,
+2026-04-16T17:15:47,Climb to mission altitude,50.448804,30.459306,274.34,0.59,,,,,,1526,
+2026-04-16T17:15:47,Climb to mission altitude,50.448794,30.459297,275.14,0.59,,,,,,1526,
+2026-04-16T17:15:47,Climb to mission altitude,50.448784,30.459288,275.88,0.59,,,,,,1526,
+2026-04-16T17:15:48,Climb to mission altitude,50.448765,30.459270,277.32,0.59,,,,,,1526,
+2026-04-16T17:15:48,Climb to mission altitude,50.448755,30.459262,278.06,0.57,,,,,,1526,
+2026-04-16T17:15:49,Climb to mission altitude,50.448735,30.459244,279.57,0.58,,,,,,1526,
+2026-04-16T17:15:49,Climb to mission altitude,50.448726,30.459236,280.36,0.58,,,,,,1520,
+2026-04-16T17:15:49,Climb to mission altitude,50.448706,30.459218,281.87,0.58,,,,,,1520,
+2026-04-16T17:15:50,Climb to mission altitude,50.448696,30.459210,282.55,0.57,,,,,,1520,
+2026-04-16T17:15:50,Climb to mission altitude,50.448687,30.459201,283.24,0.58,,,,,,1520,
+2026-04-16T17:15:50,Climb to mission altitude,50.448667,30.459184,284.71,0.57,,,,,,1520,
+2026-04-16T17:15:51,Climb to mission altitude,50.448657,30.459175,285.46,0.58,,,,,,1520,
+2026-04-16T17:15:51,Climb to mission altitude,50.448638,30.459158,287.02,0.57,,,,,,1520,
+2026-04-16T17:15:51,Climb to mission altitude,50.448628,30.459149,287.79,0.57,,,,,,1520,
+2026-04-16T17:15:53,Mission altitude stabilize,50.448579,30.459106,291.08,0.56,976.26,,,,,1504,alt_err=8.92 vz_down=-2.23 stable=0/6
+2026-04-16T17:15:53,Mission altitude stabilize,50.448560,30.459089,292.20,0.55,973.98,,,,,1504,alt_err=7.80 vz_down=-2.11 stable=0/6
+2026-04-16T17:15:53,Mission altitude stabilize,50.448550,30.459080,292.75,0.56,972.84,,,,,1504,alt_err=7.25 vz_down=-2.18 stable=0/6
+2026-04-16T17:15:54,Mission altitude stabilize,50.448530,30.459063,293.83,0.57,970.57,,,,,1498,alt_err=6.17 vz_down=-2.18 stable=0/6
+2026-04-16T17:15:54,Mission altitude stabilize,50.448521,30.459054,294.34,0.57,969.43,,,,,1498,alt_err=5.66 vz_down=-2.04 stable=0/6
+2026-04-16T17:15:54,Mission altitude stabilize,50.448511,30.459046,294.88,0.57,968.29,,,,,1498,alt_err=5.12 vz_down=-2.23 stable=0/6
+2026-04-16T17:15:55,Mission altitude stabilize,50.448492,30.459028,295.98,0.57,966.02,,,,,1498,alt_err=4.02 vz_down=-2.25 stable=0/6
+2026-04-16T17:15:55,Mission altitude stabilize,50.448482,30.459020,296.55,0.57,964.88,,,,,1498,alt_err=3.45 vz_down=-2.23 stable=0/6
+2026-04-16T17:15:55,Mission altitude stabilize,50.448463,30.459003,297.61,0.57,962.62,,,,,1492,alt_err=2.39 vz_down=-2.12 stable=0/6
+2026-04-16T17:15:56,Mission altitude stabilize,50.448453,30.458994,298.17,0.57,961.48,,,,,1492,alt_err=1.83 vz_down=-2.28 stable=0/6
+2026-04-16T17:15:56,Mission altitude stabilize,50.448443,30.458985,298.71,0.57,960.35,,,,,1492,alt_err=1.29 vz_down=-2.15 stable=0/6
+2026-04-16T17:15:57,Mission altitude stabilize,50.448424,30.458967,299.70,0.56,958.05,,,,,1476,alt_err=0.30 vz_down=-1.90 stable=0/6
+2026-04-16T17:15:57,Mission altitude stabilize,50.448414,30.458959,300.16,0.56,956.91,,,,,1476,alt_err=-0.16 vz_down=-1.75 stable=0/6
+2026-04-16T17:15:57,Mission altitude stabilize,50.448395,30.458941,300.97,0.57,954.64,,,,,1476,alt_err=-0.97 vz_down=-1.56 stable=0/6
+2026-04-16T17:15:58,Mission altitude stabilize,50.448385,30.458932,301.35,0.57,953.50,,,,,1478,alt_err=-1.35 vz_down=-1.46 stable=0/6
+2026-04-16T17:15:58,Mission altitude stabilize,50.448375,30.458924,301.70,0.58,952.36,,,,,1478,alt_err=-1.70 vz_down=-1.35 stable=0/6
+2026-04-16T17:15:58,Mission altitude stabilize,50.448356,30.458906,302.42,0.57,950.09,,,,,1478,alt_err=-2.42 vz_down=-1.42 stable=0/6
+2026-04-16T17:15:59,Mission altitude stabilize,50.448346,30.458897,302.75,0.57,948.94,,,,,1478,alt_err=-2.75 vz_down=-1.31 stable=0/6
+2026-04-16T17:15:59,Mission altitude stabilize,50.448327,30.458880,303.35,0.57,946.67,,,,,1468,alt_err=-3.35 vz_down=-1.12 stable=0/6
+2026-04-16T17:15:59,Mission altitude stabilize,50.448317,30.458871,303.63,0.57,945.54,,,,,1468,alt_err=-3.63 vz_down=-1.14 stable=0/6
+2026-04-16T17:16:00,Mission altitude stabilize,50.448307,30.458863,303.90,0.57,944.40,,,,,1468,alt_err=-3.90 vz_down=-1.01 stable=0/6
+2026-04-16T17:16:00,Mission altitude stabilize,50.448288,30.458845,304.33,0.57,942.14,,,,,1468,alt_err=-4.33 vz_down=-0.55 stable=0/6
+2026-04-16T17:16:00,Mission altitude stabilize,50.448278,30.458837,304.44,0.57,941.01,,,,,1468,alt_err=-4.44 vz_down=-0.28 stable=0/6
+2026-04-16T17:16:01,Mission altitude stabilize,50.448259,30.458819,304.58,0.57,938.73,,,,,1468,alt_err=-4.58 vz_down=-0.28 stable=0/6
+2026-04-16T17:16:01,Mission altitude stabilize,50.448249,30.458810,304.64,0.57,937.59,,,,,1468,alt_err=-4.64 vz_down=-0.26 stable=0/6
+2026-04-16T17:16:01,Mission altitude stabilize,50.448239,30.458802,304.70,0.58,936.46,,,,,1468,alt_err=-4.70 vz_down=-0.16 stable=0/6
+2026-04-16T17:16:02,Mission altitude stabilize,50.448219,30.458784,304.74,0.58,934.18,,,,,1468,alt_err=-4.74 vz_down=0.00 stable=0/6
+2026-04-16T17:16:02,Mission altitude stabilize,50.448210,30.458776,304.71,0.58,933.05,,,,,1468,alt_err=-4.71 vz_down=0.14 stable=0/6
+2026-04-16T17:16:02,Mission altitude stabilize,50.448190,30.458758,304.67,0.58,930.78,,,,,1468,alt_err=-4.67 vz_down=0.01 stable=0/6
+2026-04-16T17:16:03,Mission altitude stabilize,50.448180,30.458749,304.66,0.57,929.64,,,,,1468,alt_err=-4.66 vz_down=0.01 stable=0/6
+2026-04-16T17:16:03,Mission altitude stabilize,50.448170,30.458741,304.67,0.57,928.50,,,,,1468,alt_err=-4.67 vz_down=-0.04 stable=0/6
+2026-04-16T17:16:04,Mission altitude stabilize,50.448151,30.458723,304.69,0.56,926.22,,,,,1468,alt_err=-4.69 vz_down=0.02 stable=0/6
+2026-04-16T17:16:04,Mission altitude stabilize,50.448141,30.458714,304.67,0.56,925.07,,,,,1468,alt_err=-4.67 vz_down=0.10 stable=0/6
+2026-04-16T17:16:04,Mission altitude stabilize,50.448121,30.458697,304.63,0.56,922.82,,,,,1468,alt_err=-4.63 vz_down=-0.05 stable=0/6
+2026-04-16T17:16:05,Mission altitude stabilize,50.448112,30.458688,304.64,0.56,921.69,,,,,1468,alt_err=-4.64 vz_down=0.00 stable=0/6
+2026-04-16T17:16:05,Mission altitude stabilize,50.448102,30.458679,304.64,0.56,920.55,,,,,1468,alt_err=-4.64 vz_down=0.08 stable=0/6
+2026-04-16T17:16:05,Mission altitude stabilize,50.448082,30.458662,304.59,0.56,918.29,,,,,1468,alt_err=-4.59 vz_down=0.26 stable=0/6
+2026-04-16T17:16:06,Mission altitude stabilize,50.448073,30.458653,304.51,0.57,917.15,,,,,1468,alt_err=-4.51 vz_down=0.29 stable=0/6
+2026-04-16T17:16:06,Mission altitude stabilize,50.448053,30.458636,304.35,0.58,914.88,,,,,1468,alt_err=-4.35 vz_down=0.31 stable=0/6
+2026-04-16T17:16:06,Mission altitude stabilize,50.448043,30.458627,304.29,0.58,913.75,,,,,1468,alt_err=-4.29 vz_down=0.19 stable=0/6
+2026-04-16T17:16:07,Mission altitude stabilize,50.448034,30.458618,304.24,0.58,912.62,,,,,1468,alt_err=-4.24 vz_down=0.22 stable=0/6
+2026-04-16T17:16:07,Mission altitude stabilize,50.448014,30.458600,304.12,0.58,910.33,,,,,1468,alt_err=-4.12 vz_down=0.19 stable=0/6
+2026-04-16T17:16:07,Mission altitude stabilize,50.448004,30.458591,304.10,0.58,909.20,,,,,1468,alt_err=-4.10 vz_down=0.00 stable=0/6
+2026-04-16T17:16:08,Mission altitude stabilize,50.447985,30.458574,304.10,0.57,906.91,,,,,1468,alt_err=-4.10 vz_down=-0.03 stable=0/6
+2026-04-16T17:16:08,Mission altitude stabilize,50.447975,30.458565,304.14,0.57,905.77,,,,,1468,alt_err=-4.14 vz_down=-0.19 stable=0/6
+2026-04-16T17:16:08,Mission altitude stabilize,50.447965,30.458556,304.19,0.57,904.62,,,,,1468,alt_err=-4.19 vz_down=-0.20 stable=0/6
+2026-04-16T17:16:09,Mission altitude stabilize,50.447946,30.458538,304.26,0.57,902.34,,,,,1468,alt_err=-4.26 vz_down=-0.08 stable=0/6
+2026-04-16T17:16:09,Mission altitude stabilize,50.447936,30.458529,304.29,0.57,901.20,,,,,1468,alt_err=-4.29 vz_down=-0.13 stable=0/6
+2026-04-16T17:16:10,Mission altitude stabilize,50.447916,30.458511,304.27,0.58,898.93,,,,,1468,alt_err=-4.27 vz_down=0.14 stable=0/6
+2026-04-16T17:16:10,Mission altitude stabilize,50.447907,30.458502,304.24,0.58,897.81,,,,,1468,alt_err=-4.24 vz_down=0.09 stable=0/6
+2026-04-16T17:16:10,Mission altitude stabilize,50.447897,30.458493,304.23,0.58,896.67,,,,,1468,alt_err=-4.23 vz_down=0.00 stable=0/6
+2026-04-16T17:16:11,Mission altitude stabilize,50.447878,30.458475,304.27,0.58,894.42,,,,,1468,alt_err=-4.27 vz_down=-0.08 stable=0/6
+2026-04-16T17:16:11,Mission altitude stabilize,50.447868,30.458467,304.27,0.58,893.29,,,,,1468,alt_err=-4.27 vz_down=0.02 stable=0/6
+2026-04-16T17:16:11,Mission altitude stabilize,50.447849,30.458449,304.25,0.58,891.03,,,,,1468,alt_err=-4.25 vz_down=0.02 stable=0/6
+2026-04-16T17:16:12,Mission altitude stabilize,50.447839,30.458440,304.26,0.58,889.90,,,,,1468,alt_err=-4.26 vz_down=-0.03 stable=0/6
+2026-04-16T17:16:12,Mission altitude stabilize,50.447829,30.458431,304.26,0.59,888.77,,,,,1468,alt_err=-4.26 vz_down=0.07 stable=0/6
+2026-04-16T17:16:12,Mission altitude stabilize,50.447810,30.458413,304.19,0.59,886.52,,,,,1468,alt_err=-4.19 vz_down=0.17 stable=0/6
+2026-04-16T17:16:13,Mission altitude stabilize,50.447800,30.458405,304.17,0.59,885.40,,,,,1468,alt_err=-4.17 vz_down=0.01 stable=0/6
+2026-04-16T17:16:13,Mission altitude stabilize,50.447781,30.458387,304.12,0.58,883.14,,,,,1468,alt_err=-4.12 vz_down=0.28 stable=0/6
+2026-04-16T17:16:13,Mission altitude stabilize,50.447771,30.458378,304.04,0.57,882.02,,,,,1468,alt_err=-4.04 vz_down=0.29 stable=0/6
+2026-04-16T17:16:14,Mission altitude stabilize,50.447752,30.458361,303.86,0.56,879.77,,,,,1468,alt_err=-3.86 vz_down=0.47 stable=0/6
+2026-04-16T17:16:14,Mission altitude stabilize,50.447742,30.458352,303.75,0.55,878.65,,,,,1468,alt_err=-3.75 vz_down=0.41 stable=0/6
+2026-04-16T17:16:14,Mission altitude stabilize,50.447732,30.458343,303.62,0.55,877.53,,,,,1468,alt_err=-3.62 vz_down=0.51 stable=0/6
+2026-04-16T17:16:15,Mission altitude stabilize,50.447713,30.458326,303.36,0.57,875.29,,,,,1468,alt_err=-3.36 vz_down=0.56 stable=0/6
+2026-04-16T17:16:15,Mission altitude stabilize,50.447703,30.458317,303.20,0.57,874.16,,,,,1468,alt_err=-3.20 vz_down=0.61 stable=0/6
+2026-04-16T17:16:15,Mission altitude stabilize,50.447693,30.458308,303.04,0.57,873.03,,,,,1468,alt_err=-3.04 vz_down=0.70 stable=0/6
+2026-04-16T17:16:16,Mission altitude stabilize,50.447673,30.458291,302.69,0.56,870.80,,,,,1478,alt_err=-2.69 vz_down=0.66 stable=0/6
+2026-04-16T17:16:16,Mission altitude stabilize,50.447664,30.458282,302.53,0.56,869.68,,,,,1478,alt_err=-2.53 vz_down=0.51 stable=0/6
+2026-04-16T17:16:17,Mission altitude stabilize,50.447644,30.458264,302.29,0.56,867.43,,,,,1478,alt_err=-2.29 vz_down=0.51 stable=0/6
+2026-04-16T17:16:17,Mission altitude stabilize,50.447634,30.458255,302.18,0.56,866.32,,,,,1478,alt_err=-2.18 vz_down=0.38 stable=0/6
+2026-04-16T17:16:17,Mission altitude stabilize,50.447625,30.458247,302.08,0.56,865.19,,,,,1478,alt_err=-2.08 vz_down=0.34 stable=0/6
+2026-04-16T17:16:18,Mission altitude stabilize,50.447605,30.458229,302.01,0.55,862.93,,,,,1478,alt_err=-2.01 vz_down=-0.11 stable=0/6
+2026-04-16T17:16:18,Mission altitude stabilize,50.447595,30.458220,302.05,0.55,861.81,,,,,1478,alt_err=-2.05 vz_down=-0.19 stable=0/6
+2026-04-16T17:16:18,Mission altitude stabilize,50.447575,30.458202,302.12,0.56,859.56,,,,,1478,alt_err=-2.12 vz_down=-0.14 stable=0/6
+2026-04-16T17:16:19,Mission altitude stabilize,50.447566,30.458194,302.18,0.57,858.43,,,,,1478,alt_err=-2.18 vz_down=-0.30 stable=0/6
+2026-04-16T17:16:19,Mission altitude stabilize,50.447546,30.458176,302.38,0.58,856.19,,,,,1478,alt_err=-2.38 vz_down=-0.45 stable=0/6
+2026-04-16T17:16:19,Mission altitude stabilize,50.447536,30.458167,302.50,0.59,855.07,,,,,1478,alt_err=-2.50 vz_down=-0.44 stable=0/6
+2026-04-16T17:16:20,Mission altitude stabilize,50.447526,30.458158,302.62,0.59,853.95,,,,,1478,alt_err=-2.62 vz_down=-0.56 stable=0/6
+2026-04-16T17:16:20,Mission altitude stabilize,50.447507,30.458141,302.94,0.59,851.72,,,,,1478,alt_err=-2.94 vz_down=-0.60 stable=0/6
+2026-04-16T17:16:20,Mission altitude stabilize,50.447497,30.458132,303.08,0.60,850.61,,,,,1468,alt_err=-3.08 vz_down=-0.60 stable=0/6
+2026-04-16T17:16:21,Mission altitude stabilize,50.447477,30.458115,303.33,0.58,848.38,,,,,1468,alt_err=-3.33 vz_down=-0.28 stable=0/6
+2026-04-16T17:16:21,Mission altitude stabilize,50.447468,30.458106,303.38,0.57,847.27,,,,,1468,alt_err=-3.38 vz_down=-0.09 stable=0/6
+2026-04-16T17:16:21,Mission altitude stabilize,50.447458,30.458097,303.39,0.57,846.15,,,,,1468,alt_err=-3.39 vz_down=0.13 stable=0/6
+2026-04-16T17:16:22,Mission altitude stabilize,50.447438,30.458080,303.31,0.56,843.93,,,,,1468,alt_err=-3.31 vz_down=0.19 stable=0/6
+2026-04-16T17:16:22,Mission altitude stabilize,50.447428,30.458071,303.25,0.56,842.80,,,,,1468,alt_err=-3.25 vz_down=0.31 stable=0/6
+2026-04-16T17:16:22,Mission altitude stabilize,50.447409,30.458053,303.08,0.56,840.59,,,,,1468,alt_err=-3.08 vz_down=0.33 stable=0/6
+2026-04-16T17:16:23,Mission altitude stabilize,50.447399,30.458045,303.00,0.56,839.47,,,,,1478,alt_err=-3.00 vz_down=0.32 stable=0/6
+2026-04-16T17:16:23,Mission altitude stabilize,50.447389,30.458036,302.91,0.56,838.36,,,,,1478,alt_err=-2.91 vz_down=0.35 stable=0/6
+2026-04-16T17:16:24,Mission altitude stabilize,50.447369,30.458019,302.72,0.57,836.15,,,,,1478,alt_err=-2.72 vz_down=0.33 stable=0/6
+2026-04-16T17:16:24,Mission altitude stabilize,50.447359,30.458010,302.66,0.57,835.04,,,,,1478,alt_err=-2.66 vz_down=0.13 stable=0/6
+2026-04-16T17:16:24,Mission altitude stabilize,50.447340,30.457992,302.60,0.57,832.82,,,,,1478,alt_err=-2.60 vz_down=0.01 stable=0/6
+2026-04-16T17:16:25,Mission altitude stabilize,50.447330,30.457984,302.60,0.57,831.71,,,,,1478,alt_err=-2.60 vz_down=-0.03 stable=0/6
+2026-04-16T17:16:25,Mission altitude stabilize,50.447320,30.457975,302.62,0.58,830.60,,,,,1478,alt_err=-2.62 vz_down=-0.09 stable=0/6
+2026-04-16T17:16:25,Mission altitude stabilize,50.447301,30.457957,302.75,0.57,828.39,,,,,1478,alt_err=-2.75 vz_down=-0.38 stable=0/6
+2026-04-16T17:16:26,Mission altitude stabilize,50.447291,30.457949,302.85,0.57,827.28,,,,,1478,alt_err=-2.85 vz_down=-0.39 stable=0/6
+2026-04-16T17:16:26,Mission altitude stabilize,50.447271,30.457931,303.06,0.57,825.05,,,,,1468,alt_err=-3.06 vz_down=-0.47 stable=0/6
+2026-04-16T17:16:26,Mission altitude stabilize,50.447262,30.457922,303.16,0.56,823.95,,,,,1468,alt_err=-3.16 vz_down=-0.25 stable=0/6
+2026-04-16T17:16:27,Mission altitude stabilize,50.447252,30.457913,303.21,0.56,822.83,,,,,1468,alt_err=-3.21 vz_down=-0.16 stable=0/6
+2026-04-16T17:16:27,Mission altitude stabilize,50.447232,30.457895,303.21,0.56,820.60,,,,,1468,alt_err=-3.21 vz_down=0.13 stable=0/6
+2026-04-16T17:16:27,Mission altitude stabilize,50.447222,30.457887,303.16,0.57,819.50,,,,,1468,alt_err=-3.16 vz_down=0.28 stable=0/6
+2026-04-16T17:16:28,Mission altitude stabilize,50.447203,30.457869,303.03,0.59,817.27,,,,,1468,alt_err=-3.03 vz_down=0.26 stable=0/6
+2026-04-16T17:16:28,Mission altitude stabilize,50.447193,30.457860,302.97,0.59,816.16,,,,,1478,alt_err=-2.97 vz_down=0.25 stable=0/6
+2026-04-16T17:16:28,Mission altitude stabilize,50.447183,30.457851,302.87,0.60,815.05,,,,,1478,alt_err=-2.87 vz_down=0.42 stable=0/6
+2026-04-16T17:16:29,Mission altitude stabilize,50.447163,30.457833,302.67,0.60,812.81,,,,,1478,alt_err=-2.67 vz_down=0.38 stable=0/6
+2026-04-16T17:16:29,Mission altitude stabilize,50.447153,30.457824,302.56,0.60,811.70,,,,,1478,alt_err=-2.56 vz_down=0.42 stable=0/6
+2026-04-16T17:16:30,Mission altitude stabilize,50.447134,30.457807,302.39,0.60,809.49,,,,,1478,alt_err=-2.39 vz_down=0.24 stable=0/6
+2026-04-16T17:16:30,Mission altitude stabilize,50.447124,30.457798,302.32,0.60,808.36,,,,,1478,alt_err=-2.32 vz_down=0.19 stable=0/6
+2026-04-16T17:16:30,Mission altitude stabilize,50.447114,30.457789,302.29,0.58,807.26,,,,,1478,alt_err=-2.29 vz_down=0.09 stable=0/6
+2026-04-16T17:16:31,Mission altitude stabilize,50.447094,30.457771,302.28,0.58,805.06,,,,,1478,alt_err=-2.28 vz_down=-0.01 stable=0/6
+2026-04-16T17:16:31,Mission altitude stabilize,50.447085,30.457763,302.29,0.58,803.97,,,,,1478,alt_err=-2.29 vz_down=-0.05 stable=0/6
+2026-04-16T17:16:31,Mission altitude stabilize,50.447065,30.457745,302.33,0.58,801.79,,,,,1478,alt_err=-2.33 vz_down=-0.15 stable=0/6
+2026-04-16T17:16:32,Mission altitude stabilize,50.447055,30.457737,302.39,0.58,800.70,,,,,1478,alt_err=-2.39 vz_down=-0.29 stable=0/6
+2026-04-16T17:16:32,Mission altitude stabilize,50.447046,30.457728,302.46,0.59,799.60,,,,,1478,alt_err=-2.46 vz_down=-0.29 stable=0/6
+2026-04-16T17:16:32,Mission altitude stabilize,50.447026,30.457710,302.64,0.59,797.42,,,,,1478,alt_err=-2.64 vz_down=-0.34 stable=0/6
+2026-04-16T17:16:33,Mission altitude stabilize,50.447016,30.457701,302.72,0.59,796.32,,,,,1478,alt_err=-2.72 vz_down=-0.36 stable=0/6
+2026-04-16T17:16:33,Mission altitude stabilize,50.446997,30.457684,302.91,0.59,794.13,,,,,1478,alt_err=-2.91 vz_down=-0.21 stable=0/6
+2026-04-16T17:16:33,Mission altitude stabilize,50.446987,30.457675,302.95,0.58,793.03,,,,,1478,alt_err=-2.95 vz_down=-0.13 stable=0/6
+2026-04-16T17:16:34,Mission altitude stabilize,50.446977,30.457666,302.99,0.58,791.94,,,,,1478,alt_err=-2.99 vz_down=-0.15 stable=0/6
+2026-04-16T17:16:34,Mission altitude stabilize,50.446957,30.457649,303.10,0.58,789.74,,,,,1468,alt_err=-3.10 vz_down=-0.28 stable=0/6
+2026-04-16T17:16:34,Mission altitude stabilize,50.446948,30.457640,303.19,0.57,788.64,,,,,1468,alt_err=-3.19 vz_down=-0.34 stable=0/6
+2026-04-16T17:16:35,Mission altitude stabilize,50.446928,30.457622,303.38,0.57,786.46,,,,,1468,alt_err=-3.38 vz_down=-0.42 stable=0/6
+2026-04-16T17:16:35,Mission altitude stabilize,50.446918,30.457613,303.46,0.56,785.36,,,,,1468,alt_err=-3.46 vz_down=-0.23 stable=0/6
+2026-04-16T17:16:35,Mission altitude stabilize,50.446908,30.457604,303.53,0.56,784.26,,,,,1468,alt_err=-3.53 vz_down=-0.31 stable=0/6
+2026-04-16T17:16:36,Mission altitude stabilize,50.446889,30.457586,303.62,0.55,782.07,,,,,1468,alt_err=-3.62 vz_down=0.05 stable=0/6
+2026-04-16T17:16:36,Mission altitude stabilize,50.446879,30.457577,303.59,0.55,780.96,,,,,1468,alt_err=-3.59 vz_down=0.15 stable=0/6
+2026-04-16T17:16:37,Mission altitude stabilize,50.446860,30.457560,303.49,0.57,778.79,,,,,1468,alt_err=-3.49 vz_down=0.15 stable=0/6
+2026-04-16T17:16:37,Mission altitude stabilize,50.446850,30.457551,303.45,0.58,777.70,,,,,1468,alt_err=-3.45 vz_down=0.18 stable=0/6
+2026-04-16T17:16:37,Mission altitude stabilize,50.446830,30.457533,303.32,0.58,775.53,,,,,1468,alt_err=-3.32 vz_down=0.29 stable=0/6
+2026-04-16T17:16:38,Mission altitude stabilize,50.446821,30.457525,303.26,0.58,774.45,,,,,1468,alt_err=-3.26 vz_down=0.14 stable=0/6
+2026-04-16T17:16:38,Mission altitude stabilize,50.446811,30.457516,303.24,0.59,773.37,,,,,1468,alt_err=-3.24 vz_down=0.07 stable=0/6
+2026-04-16T17:16:38,Mission altitude stabilize,50.446792,30.457498,303.13,0.59,771.20,,,,,1468,alt_err=-3.13 vz_down=0.24 stable=0/6
+2026-04-16T17:16:39,Mission altitude stabilize,50.446782,30.457489,303.08,0.58,770.10,,,,,1468,alt_err=-3.08 vz_down=0.18 stable=0/6
+2026-04-16T17:16:39,Mission altitude stabilize,50.446762,30.457471,302.96,0.56,767.93,,,,,1478,alt_err=-2.96 vz_down=0.35 stable=0/6
+2026-04-16T17:16:39,Mission altitude stabilize,50.446753,30.457462,302.88,0.55,766.84,,,,,1478,alt_err=-2.88 vz_down=0.28 stable=0/6
+2026-04-16T17:16:40,Mission altitude stabilize,50.446743,30.457453,302.82,0.55,765.74,,,,,1478,alt_err=-2.82 vz_down=0.14 stable=0/6
+2026-04-16T17:16:40,Mission altitude stabilize,50.446723,30.457436,302.68,0.55,763.58,,,,,1478,alt_err=-2.68 vz_down=0.38 stable=0/6
+2026-04-16T17:16:40,Mission altitude stabilize,50.446713,30.457427,302.59,0.55,762.50,,,,,1478,alt_err=-2.59 vz_down=0.33 stable=0/6
+2026-04-16T17:16:41,Mission altitude stabilize,50.446694,30.457410,302.42,0.56,760.36,,,,,1478,alt_err=-2.42 vz_down=0.22 stable=0/6
+2026-04-16T17:16:41,Mission altitude stabilize,50.446684,30.457401,302.37,0.56,759.28,,,,,1478,alt_err=-2.37 vz_down=0.09 stable=0/6
+2026-04-16T17:16:41,Mission altitude stabilize,50.446674,30.457392,302.37,0.56,758.21,,,,,1478,alt_err=-2.37 vz_down=-0.04 stable=0/6
+2026-04-16T17:16:42,Mission altitude stabilize,50.446655,30.457375,302.42,0.56,756.08,,,,,1478,alt_err=-2.42 vz_down=-0.13 stable=0/6
+2026-04-16T17:16:42,Mission altitude stabilize,50.446645,30.457366,302.46,0.56,755.01,,,,,1478,alt_err=-2.46 vz_down=-0.22 stable=0/6
+2026-04-16T17:16:43,Mission altitude stabilize,50.446626,30.457349,302.56,0.56,752.87,,,,,1478,alt_err=-2.56 vz_down=-0.21 stable=0/6
+2026-04-16T17:16:43,Mission altitude stabilize,50.446616,30.457340,302.60,0.56,751.79,,,,,1478,alt_err=-2.60 vz_down=-0.18 stable=0/6
+2026-04-16T17:16:43,Mission altitude stabilize,50.446606,30.457331,302.65,0.56,750.71,,,,,1478,alt_err=-2.65 vz_down=-0.26 stable=0/6
+2026-04-16T17:16:44,Mission altitude stabilize,50.446587,30.457313,302.81,0.55,748.56,,,,,1478,alt_err=-2.81 vz_down=-0.31 stable=0/6
+2026-04-16T17:16:44,Mission altitude stabilize,50.446577,30.457305,302.91,0.56,747.50,,,,,1478,alt_err=-2.91 vz_down=-0.44 stable=0/6
+2026-04-16T17:16:44,Mission altitude stabilize,50.446557,30.457287,303.17,0.57,745.36,,,,,1468,alt_err=-3.17 vz_down=-0.55 stable=0/6
+2026-04-16T17:16:45,Mission altitude stabilize,50.446547,30.457278,303.30,0.57,744.29,,,,,1468,alt_err=-3.30 vz_down=-0.44 stable=0/6
+2026-04-16T17:16:45,Mission altitude stabilize,50.446538,30.457270,303.41,0.58,743.22,,,,,1468,alt_err=-3.41 vz_down=-0.42 stable=0/6
+2026-04-16T17:16:45,Mission altitude stabilize,50.446518,30.457252,303.63,0.57,741.09,,,,,1468,alt_err=-3.63 vz_down=-0.41 stable=0/6
+2026-04-16T17:16:46,Mission altitude stabilize,50.446508,30.457244,303.73,0.58,740.03,,,,,1468,alt_err=-3.73 vz_down=-0.39 stable=0/6
+2026-04-16T17:16:46,Mission altitude stabilize,50.446489,30.457226,303.91,0.58,737.93,,,,,1468,alt_err=-3.91 vz_down=-0.30 stable=0/6
+2026-04-16T17:16:46,Mission altitude stabilize,50.446479,30.457218,303.96,0.58,736.86,,,,,1468,alt_err=-3.96 vz_down=-0.10 stable=0/6
+2026-04-16T17:16:47,Mission altitude stabilize,50.446469,30.457209,303.99,0.58,735.80,,,,,1468,alt_err=-3.99 vz_down=-0.09 stable=0/6
+2026-04-16T17:16:47,Mission altitude stabilize,50.446450,30.457192,304.07,0.58,733.69,,,,,1468,alt_err=-4.07 vz_down=-0.13 stable=0/6
+2026-04-16T17:16:47,Mission altitude stabilize,50.446440,30.457183,304.12,0.57,732.63,,,,,1468,alt_err=-4.12 vz_down=-0.31 stable=0/6
+2026-04-16T17:16:48,Mission altitude stabilize,50.446420,30.457165,304.25,0.57,730.51,,,,,1468,alt_err=-4.25 vz_down=-0.27 stable=0/6
+2026-04-16T17:16:48,Mission altitude stabilize,50.446411,30.457157,304.32,0.57,729.46,,,,,1468,alt_err=-4.32 vz_down=-0.30 stable=0/6
+2026-04-16T17:16:48,Mission altitude stabilize,50.446401,30.457148,304.38,0.57,728.40,,,,,1468,alt_err=-4.38 vz_down=-0.18 stable=0/6
+2026-04-16T17:16:49,Mission altitude stabilize,50.446381,30.457131,304.43,0.57,726.28,,,,,1468,alt_err=-4.43 vz_down=-0.08 stable=0/6
+2026-04-16T17:16:49,Mission altitude stabilize,50.446371,30.457122,304.45,0.56,725.22,,,,,1468,alt_err=-4.45 vz_down=-0.04 stable=0/6
+2026-04-16T17:16:50,Mission altitude stabilize,50.446352,30.457104,304.41,0.56,723.10,,,,,1468,alt_err=-4.41 vz_down=0.19 stable=0/6
+2026-04-16T17:16:50,Mission altitude stabilize,50.446342,30.457095,304.35,0.55,722.04,,,,,1468,alt_err=-4.35 vz_down=0.20 stable=0/6
+2026-04-16T17:16:50,Mission altitude stabilize,50.446323,30.457078,304.23,0.55,719.93,,,,,1468,alt_err=-4.23 vz_down=0.15 stable=0/6
+2026-04-16T17:16:51,Mission altitude stabilize,50.446313,30.457069,304.21,0.56,718.87,,,,,1468,alt_err=-4.21 vz_down=-0.15 stable=0/6
+2026-04-16T17:16:51,Mission altitude stabilize,50.446303,30.457060,304.25,0.57,717.81,,,,,1468,alt_err=-4.25 vz_down=-0.18 stable=0/6
+2026-04-16T17:16:51,Mission altitude stabilize,50.446284,30.457043,304.32,0.58,715.72,,,,,1468,alt_err=-4.32 vz_down=-0.14 stable=0/6
+2026-04-16T17:16:52,Mission altitude stabilize,50.446274,30.457034,304.38,0.58,714.67,,,,,1468,alt_err=-4.38 vz_down=-0.37 stable=0/6
+2026-04-16T17:16:52,Mission altitude stabilize,50.446255,30.457017,304.51,0.59,712.59,,,,,1468,alt_err=-4.51 vz_down=-0.19 stable=0/6
+2026-04-16T17:16:52,Mission altitude stabilize,50.446245,30.457008,304.56,0.58,711.55,,,,,1468,alt_err=-4.56 vz_down=-0.20 stable=0/6
+2026-04-16T17:16:53,Mission altitude stabilize,50.446235,30.456999,304.59,0.57,710.51,,,,,1468,alt_err=-4.59 vz_down=-0.06 stable=0/6
+2026-04-16T17:16:53,Mission altitude stabilize,50.446216,30.456982,304.63,0.57,708.43,,,,,1468,alt_err=-4.63 vz_down=-0.10 stable=0/6
+2026-04-16T17:16:53,Mission altitude stabilize,50.446206,30.456973,304.65,0.58,707.40,,,,,1468,alt_err=-4.65 vz_down=-0.10 stable=0/6
+2026-04-16T17:16:54,Mission altitude stabilize,50.446186,30.456956,304.62,0.58,705.32,,,,,1468,alt_err=-4.62 vz_down=0.10 stable=0/6
+2026-04-16T17:16:54,Mission altitude stabilize,50.446176,30.456947,304.61,0.58,704.28,,,,,1468,alt_err=-4.61 vz_down=-0.04 stable=0/6
+2026-04-16T17:16:54,Mission altitude stabilize,50.446167,30.456939,304.63,0.58,703.25,,,,,1468,alt_err=-4.63 vz_down=-0.05 stable=0/6
+2026-04-16T17:16:55,Mission altitude stabilize,50.446147,30.456921,304.67,0.58,701.18,,,,,1468,alt_err=-4.67 vz_down=0.01 stable=0/6
+2026-04-16T17:16:55,Mission altitude stabilize,50.446138,30.456913,304.68,0.58,700.14,,,,,1468,alt_err=-4.68 vz_down=-0.15 stable=0/6
+2026-04-16T17:16:55,Mission altitude stabilize,50.446118,30.456896,304.75,0.58,698.08,,,,,1468,alt_err=-4.75 vz_down=-0.07 stable=0/6
+2026-04-16T17:16:56,Mission altitude stabilize,50.446108,30.456887,304.76,0.58,697.04,,,,,1468,alt_err=-4.76 vz_down=-0.05 stable=0/6
+2026-04-16T17:16:56,Mission altitude stabilize,50.446099,30.456878,304.77,0.58,696.01,,,,,1468,alt_err=-4.77 vz_down=-0.01 stable=0/6
+2026-04-16T17:16:57,Mission altitude stabilize,50.446079,30.456861,304.77,0.57,693.95,,,,,1468,alt_err=-4.77 vz_down=0.09 stable=0/6
+2026-04-16T17:16:57,Mission altitude stabilize,50.446069,30.456852,304.75,0.56,692.91,,,,,1468,alt_err=-4.75 vz_down=0.01 stable=0/6
+2026-04-16T17:16:57,Mission altitude stabilize,50.446050,30.456835,304.81,0.56,690.86,,,,,1468,alt_err=-4.81 vz_down=-0.22 stable=0/6
+2026-04-16T17:16:58,Mission altitude stabilize,50.446040,30.456826,304.87,0.55,689.84,,,,,1468,alt_err=-4.87 vz_down=-0.29 stable=0/6
+2026-04-16T17:16:58,Mission altitude stabilize,50.446031,30.456817,304.92,0.55,688.81,,,,,1468,alt_err=-4.92 vz_down=-0.16 stable=0/6
+2026-04-16T17:16:58,Mission altitude stabilize,50.446011,30.456800,305.00,0.56,686.76,,,,,1468,alt_err=-5.00 vz_down=-0.17 stable=0/6
+2026-04-16T17:16:59,Mission altitude stabilize,50.446001,30.456791,305.05,0.56,685.74,,,,,1468,alt_err=-5.05 vz_down=-0.22 stable=0/6
+2026-04-16T17:16:59,Mission altitude stabilize,50.445982,30.456774,305.15,0.56,683.68,,,,,1468,alt_err=-5.15 vz_down=-0.06 stable=0/6
+2026-04-16T17:16:59,Mission altitude stabilize,50.445972,30.456765,305.17,0.56,682.66,,,,,1468,alt_err=-5.17 vz_down=-0.09 stable=0/6
+2026-04-16T17:17:00,Mission altitude stabilize,50.445962,30.456757,305.20,0.55,681.63,,,,,1468,alt_err=-5.20 vz_down=-0.25 stable=0/6
+2026-04-16T17:17:00,Mission altitude stabilize,50.445943,30.456739,305.35,0.55,679.58,,,,,1468,alt_err=-5.35 vz_down=-0.20 stable=0/6
+2026-04-16T17:17:00,Mission altitude stabilize,50.445933,30.456730,305.40,0.55,678.56,,,,,1468,alt_err=-5.40 vz_down=-0.20 stable=0/6
+2026-04-16T17:17:01,Mission altitude stabilize,50.445914,30.456713,305.47,0.57,676.52,,,,,1468,alt_err=-5.47 vz_down=0.07 stable=0/6
+2026-04-16T17:17:01,Mission altitude stabilize,50.445904,30.456704,305.44,0.58,675.48,,,,,1468,alt_err=-5.44 vz_down=0.09 stable=0/6
+2026-04-16T17:17:01,Mission altitude stabilize,50.445894,30.456695,305.42,0.58,674.47,,,,,1468,alt_err=-5.42 vz_down=0.10 stable=0/6
+2026-04-16T17:17:02,Mission altitude stabilize,50.445875,30.456678,305.38,0.59,672.43,,,,,1468,alt_err=-5.38 vz_down=0.01 stable=0/6
+2026-04-16T17:17:02,Mission altitude stabilize,50.445865,30.456669,305.39,0.59,671.41,,,,,1468,alt_err=-5.39 vz_down=0.03 stable=0/6
+2026-04-16T17:17:03,Mission altitude stabilize,50.445846,30.456651,305.29,0.59,669.37,,,,,1468,alt_err=-5.29 vz_down=0.27 stable=0/6
+2026-04-16T17:17:03,Mission altitude stabilize,50.445836,30.456643,305.24,0.59,668.34,,,,,1468,alt_err=-5.24 vz_down=0.11 stable=0/6
+2026-04-16T17:17:03,Mission altitude stabilize,50.445826,30.456634,305.20,0.59,667.32,,,,,1468,alt_err=-5.20 vz_down=0.22 stable=0/6
+2026-04-16T17:17:04,Mission altitude stabilize,50.445807,30.456616,305.05,0.59,665.27,,,,,1468,alt_err=-5.05 vz_down=0.19 stable=0/6
+2026-04-16T17:17:04,Mission altitude stabilize,50.445797,30.456607,304.99,0.59,664.25,,,,,1468,alt_err=-4.99 vz_down=0.29 stable=0/6
+2026-04-16T17:17:04,Mission altitude stabilize,50.445777,30.456590,304.82,0.59,662.22,,,,,1468,alt_err=-4.82 vz_down=0.37 stable=0/6
+2026-04-16T17:17:05,Mission altitude stabilize,50.445768,30.456581,304.74,0.57,661.19,,,,,1468,alt_err=-4.74 vz_down=0.30 stable=0/6
+2026-04-16T17:17:05,Mission altitude stabilize,50.445758,30.456572,304.66,0.56,660.18,,,,,1468,alt_err=-4.66 vz_down=0.22 stable=0/6
+2026-04-16T17:17:05,Mission altitude stabilize,50.445738,30.456554,304.54,0.56,658.16,,,,,1468,alt_err=-4.54 vz_down=0.26 stable=0/6
+2026-04-16T17:17:06,Mission altitude stabilize,50.445729,30.456546,304.46,0.56,657.15,,,,,1468,alt_err=-4.46 vz_down=0.33 stable=0/6
+2026-04-16T17:17:06,Mission altitude stabilize,50.445709,30.456528,304.28,0.57,655.12,,,,,1468,alt_err=-4.28 vz_down=0.36 stable=0/6
+2026-04-16T17:17:06,Mission altitude stabilize,50.445699,30.456519,304.19,0.57,654.11,,,,,1468,alt_err=-4.19 vz_down=0.38 stable=0/6
+2026-04-16T17:17:07,Mission altitude stabilize,50.445690,30.456510,304.10,0.57,653.10,,,,,1468,alt_err=-4.10 vz_down=0.31 stable=0/6
+2026-04-16T17:17:07,Mission altitude stabilize,50.445670,30.456493,304.00,0.57,651.08,,,,,1468,alt_err=-4.00 vz_down=0.12 stable=0/6
+2026-04-16T17:17:07,Mission altitude stabilize,50.445660,30.456484,303.98,0.57,650.07,,,,,1468,alt_err=-3.98 vz_down=0.09 stable=0/6
+2026-04-16T17:17:08,Mission altitude stabilize,50.445641,30.456466,303.93,0.58,648.07,,,,,1468,alt_err=-3.93 vz_down=0.07 stable=0/6
+2026-04-16T17:17:08,Mission altitude stabilize,50.445631,30.456457,303.91,0.58,647.05,,,,,1468,alt_err=-3.91 vz_down=0.12 stable=0/6
+2026-04-16T17:17:08,Mission altitude stabilize,50.445621,30.456449,303.89,0.58,646.05,,,,,1468,alt_err=-3.89 vz_down=0.06 stable=0/6
+2026-04-16T17:17:09,Mission altitude stabilize,50.445602,30.456431,303.82,0.58,644.05,,,,,1468,alt_err=-3.82 vz_down=0.09 stable=0/6
+2026-04-16T17:17:09,Mission altitude stabilize,50.445592,30.456422,303.80,0.58,643.04,,,,,1468,alt_err=-3.80 vz_down=0.06 stable=0/6
+2026-04-16T17:17:10,Mission altitude stabilize,50.445572,30.456404,303.70,0.58,641.02,,,,,1468,alt_err=-3.70 vz_down=0.26 stable=0/6
+2026-04-16T17:17:10,Mission altitude stabilize,50.445562,30.456395,303.62,0.58,640.02,,,,,1468,alt_err=-3.62 vz_down=0.44 stable=0/6
+2026-04-16T17:17:10,Mission altitude stabilize,50.445543,30.456377,303.40,0.58,638.01,,,,,1468,alt_err=-3.40 vz_down=0.41 stable=0/6
+2026-04-16T17:17:11,Mission altitude stabilize,50.445533,30.456369,303.31,0.58,637.01,,,,,1468,alt_err=-3.31 vz_down=0.46 stable=0/6
+2026-04-16T17:17:11,Mission altitude stabilize,50.445523,30.456360,303.18,0.59,636.01,,,,,1468,alt_err=-3.18 vz_down=0.57 stable=0/6
+2026-04-16T17:17:11,Mission altitude stabilize,50.445504,30.456342,302.87,0.58,634.02,,,,,1478,alt_err=-2.87 vz_down=0.59 stable=0/6
+2026-04-16T17:17:12,Mission altitude stabilize,50.445494,30.456333,302.71,0.57,633.02,,,,,1478,alt_err=-2.71 vz_down=0.61 stable=0/6
+2026-04-16T17:17:12,Mission altitude stabilize,50.445484,30.456324,302.57,0.56,632.04,,,,,1478,alt_err=-2.57 vz_down=0.51 stable=0/6
+2026-04-16T17:17:12,Mission altitude stabilize,50.445465,30.456307,302.29,0.56,630.06,,,,,1478,alt_err=-2.29 vz_down=0.60 stable=0/6
+2026-04-16T17:17:13,Mission altitude stabilize,50.445455,30.456298,302.11,0.56,629.08,,,,,1478,alt_err=-2.11 vz_down=0.68 stable=0/6
+2026-04-16T17:17:13,Mission altitude stabilize,50.445436,30.456280,301.85,0.57,627.12,,,,,1478,alt_err=-1.85 vz_down=0.42 stable=0/6
+2026-04-16T17:17:13,Mission altitude stabilize,50.445427,30.456271,301.74,0.57,626.14,,,,,1478,alt_err=-1.74 vz_down=0.41 stable=1/6
+2026-04-16T17:17:14,Mission altitude stabilize,50.445407,30.456254,301.58,0.57,624.18,,,,,1478,alt_err=-1.58 vz_down=0.29 stable=2/6
+2026-04-16T17:17:14,Mission altitude stabilize,50.445397,30.456245,301.51,0.58,623.19,,,,,1478,alt_err=-1.51 vz_down=0.21 stable=3/6
+2026-04-16T17:17:14,Mission altitude stabilize,50.445388,30.456236,301.47,0.58,622.21,,,,,1478,alt_err=-1.47 vz_down=0.16 stable=4/6
+2026-04-16T17:17:15,Mission altitude stabilize,50.445368,30.456218,301.44,0.57,620.24,,,,,1478,alt_err=-1.44 vz_down=0.07 stable=5/6
+2026-04-16T17:17:15,Cruise,50.445359,30.456209,301.43,0.57,619.25,-240.66,-570.58,1480,1480,1478,alt=301.43
+2026-04-16T17:17:16,Cruise,50.445339,30.456191,301.29,0.56,617.28,-238.45,-569.36,1480,1480,1478,alt=301.29
+2026-04-16T17:17:16,Cruise,50.445329,30.456183,301.26,0.56,616.30,-237.34,-568.77,1480,1480,1478,alt=301.26
+2026-04-16T17:17:16,Cruise,50.445319,30.456174,301.26,0.56,615.32,-236.23,-568.16,1480,1480,1478,alt=301.26
+2026-04-16T17:17:17,Cruise,50.445300,30.456156,301.31,0.55,613.36,-234.03,-566.96,1480,1480,1478,alt=301.31
+2026-04-16T17:17:17,Cruise,50.445290,30.456147,301.32,0.55,612.38,-232.93,-566.35,1480,1480,1478,alt=301.32
+2026-04-16T17:17:17,Cruise,50.445280,30.456138,301.30,0.55,611.40,-231.82,-565.75,1480,1480,1478,alt=301.30
+2026-04-16T17:17:18,Cruise,50.445261,30.456121,301.24,0.56,609.47,-229.62,-564.56,1480,1480,1478,alt=301.24
+2026-04-16T17:17:18,Cruise,50.445251,30.456112,301.26,0.56,608.50,-228.52,-563.96,1480,1480,1478,alt=301.26
+2026-04-16T17:17:18,Cruise,50.445232,30.456094,301.33,0.56,606.58,-226.33,-562.77,1480,1480,1478,alt=301.33
+2026-04-16T17:17:19,Cruise,50.445222,30.456086,301.38,0.56,605.62,-225.24,-562.18,1480,1480,1478,alt=301.38
+2026-04-16T17:17:19,Cruise,50.445203,30.456068,301.55,0.55,603.70,-223.05,-560.98,1480,1480,1478,alt=301.55
+2026-04-16T17:17:19,Cruise,50.445193,30.456059,301.66,0.55,602.74,-221.95,-560.38,1480,1480,1478,alt=301.66
+2026-04-16T17:17:20,Cruise,50.445183,30.456050,301.78,0.55,601.78,-220.86,-559.79,1480,1480,1478,alt=301.78
+2026-04-16T17:17:20,Cruise,50.445164,30.456032,302.06,0.57,599.86,-218.66,-558.59,1480,1480,1478,alt=302.06
+2026-04-16T17:17:20,Cruise,50.445154,30.456024,302.19,0.58,598.90,-217.56,-557.99,1480,1480,1478,alt=302.19
+2026-04-16T17:17:21,Cruise,50.445135,30.456006,302.37,0.59,597.00,-215.36,-556.81,1480,1480,1478,alt=302.37
+2026-04-16T17:17:21,Cruise,50.445125,30.455997,302.42,0.59,596.05,-214.25,-556.21,1480,1480,1478,alt=302.42
+2026-04-16T17:17:21,Cruise,50.445115,30.455989,302.45,0.58,595.11,-213.16,-555.62,1480,1480,1478,alt=302.45
+2026-04-16T17:17:22,Cruise,50.445095,30.455971,302.51,0.58,593.21,-210.95,-554.44,1480,1480,1478,alt=302.51
+2026-04-16T17:17:22,Cruise,50.445086,30.455962,302.56,0.58,592.27,-209.85,-553.85,1480,1480,1478,alt=302.56
+2026-04-16T17:17:23,Cruise,50.445066,30.455945,302.74,0.57,590.39,-207.65,-552.67,1480,1480,1478,alt=302.74
+2026-04-16T17:17:23,Cruise,50.445056,30.455936,302.79,0.57,589.45,-206.56,-552.08,1480,1480,1478,alt=302.79
+2026-04-16T17:17:23,Cruise,50.445047,30.455928,302.83,0.56,588.51,-205.45,-551.49,1480,1480,1478,alt=302.83
+2026-04-16T17:17:24,Cruise,50.445027,30.455910,302.96,0.56,586.64,-203.26,-550.30,1480,1480,1478,alt=302.96
+2026-04-16T17:17:24,Cruise,50.445017,30.455901,303.01,0.56,585.70,-202.15,-549.71,1480,1480,1468,alt=303.01
+2026-04-16T17:17:24,Cruise,50.444998,30.455884,303.05,0.57,583.84,-199.95,-548.53,1480,1481,1468,alt=303.05
+2026-04-16T17:17:25,Cruise,50.444988,30.455875,303.11,0.58,582.91,-198.86,-547.94,1480,1481,1468,alt=303.11
+2026-04-16T17:17:25,Cruise,50.444978,30.455867,303.14,0.59,581.98,-197.75,-547.35,1480,1481,1468,alt=303.14
+2026-04-16T17:17:25,Cruise,50.444959,30.455849,303.31,0.57,580.13,-195.56,-546.17,1480,1481,1468,alt=303.31
+2026-04-16T17:17:26,Cruise,50.444949,30.455841,303.38,0.57,579.20,-194.47,-545.58,1480,1481,1468,alt=303.38
+2026-04-16T17:17:26,Cruise,50.444930,30.455823,303.52,0.56,577.35,-192.25,-544.40,1480,1481,1468,alt=303.52
+2026-04-16T17:17:26,Cruise,50.444920,30.455814,303.63,0.56,576.43,-191.16,-543.81,1480,1481,1468,alt=303.63
+2026-04-16T17:17:27,Cruise,50.444910,30.455806,303.71,0.56,575.50,-190.05,-543.21,1480,1481,1468,alt=303.71
+2026-04-16T17:17:27,Cruise,50.444891,30.455788,303.78,0.56,573.65,-187.84,-542.03,1480,1482,1468,alt=303.78
+2026-04-16T17:17:27,Cruise,50.444881,30.455779,303.79,0.56,572.74,-186.75,-541.44,1480,1482,1468,alt=303.79
+2026-04-16T17:17:28,Cruise,50.444861,30.455762,303.71,0.56,570.90,-184.53,-540.25,1480,1482,1468,alt=303.71
+2026-04-16T17:17:28,Cruise,50.444852,30.455753,303.64,0.56,569.98,-183.43,-539.66,1480,1482,1468,alt=303.64
+2026-04-16T17:17:28,Cruise,50.444842,30.455744,303.57,0.56,569.06,-182.32,-539.06,1480,1482,1468,alt=303.57
+2026-04-16T17:17:29,Cruise,50.444822,30.455727,303.35,0.55,567.22,-180.11,-537.87,1480,1482,1468,alt=303.35
+2026-04-16T17:17:29,Cruise,50.444812,30.455718,303.24,0.55,566.31,-179.00,-537.27,1480,1483,1468,alt=303.24
+2026-04-16T17:17:30,Cruise,50.444793,30.455700,302.96,0.57,564.48,-176.79,-536.08,1480,1483,1478,alt=302.96
+2026-04-16T17:17:30,Cruise,50.444783,30.455691,302.80,0.58,563.56,-175.68,-535.48,1480,1483,1478,alt=302.80
+2026-04-16T17:17:30,Cruise,50.444773,30.455682,302.66,0.59,562.64,-174.58,-534.87,1480,1483,1478,alt=302.66
+2026-04-16T17:17:31,Cruise,50.444753,30.455665,302.49,0.59,560.81,-172.35,-533.67,1480,1483,1478,alt=302.49
+2026-04-16T17:17:31,Cruise,50.444744,30.455656,302.44,0.59,559.90,-171.24,-533.08,1480,1483,1478,alt=302.44
+2026-04-16T17:17:31,Cruise,50.444724,30.455638,302.31,0.60,558.11,-169.02,-531.90,1480,1484,1478,alt=302.31
+2026-04-16T17:17:32,Cruise,50.444714,30.455630,302.25,0.60,557.21,-167.92,-531.30,1480,1484,1478,alt=302.25
+2026-04-16T17:17:32,Cruise,50.444695,30.455612,302.21,0.59,555.42,-165.70,-530.12,1480,1484,1478,alt=302.21
+2026-04-16T17:17:32,Cruise,50.444685,30.455603,302.20,0.58,554.51,-164.60,-529.52,1480,1484,1478,alt=302.20
+2026-04-16T17:17:33,Cruise,50.444675,30.455595,302.19,0.57,553.62,-163.49,-528.93,1480,1484,1478,alt=302.19
+2026-04-16T17:17:33,Cruise,50.444656,30.455577,302.32,0.56,551.82,-161.29,-527.73,1480,1484,1478,alt=302.32
+2026-04-16T17:17:33,Cruise,50.444646,30.455568,302.36,0.56,550.93,-160.18,-527.13,1480,1484,1478,alt=302.36
+2026-04-16T17:17:34,Cruise,50.444626,30.455551,302.48,0.56,549.16,-157.99,-525.94,1480,1485,1478,alt=302.48
+2026-04-16T17:17:34,Cruise,50.444617,30.455542,302.58,0.56,548.27,-156.89,-525.35,1480,1485,1478,alt=302.58
+2026-04-16T17:17:34,Cruise,50.444607,30.455533,302.67,0.56,547.39,-155.78,-524.75,1480,1485,1478,alt=302.67
+2026-04-16T17:17:35,Cruise,50.444587,30.455516,302.87,0.56,545.62,-153.57,-523.57,1480,1485,1478,alt=302.87
+2026-04-16T17:17:35,Cruise,50.444577,30.455507,303.00,0.56,544.75,-152.46,-522.98,1480,1485,1478,alt=303.00
+2026-04-16T17:17:36,Cruise,50.444558,30.455489,303.25,0.55,542.98,-150.24,-521.78,1480,1485,1468,alt=303.25
+2026-04-16T17:17:36,Cruise,50.444548,30.455480,303.38,0.56,542.10,-149.12,-521.19,1480,1486,1468,alt=303.38
+2026-04-16T17:17:36,Cruise,50.444538,30.455472,303.48,0.57,541.23,-148.02,-520.60,1480,1486,1468,alt=303.48
+2026-04-16T17:17:37,Cruise,50.444518,30.455454,303.67,0.58,539.48,-145.80,-519.41,1480,1486,1468,alt=303.67
+2026-04-16T17:17:37,Cruise,50.444508,30.455445,303.75,0.58,538.62,-144.70,-518.82,1480,1486,1468,alt=303.75
+2026-04-16T17:17:37,Cruise,50.444489,30.455428,303.94,0.57,536.89,-142.49,-517.63,1480,1486,1468,alt=303.94
+2026-04-16T17:17:38,Cruise,50.444479,30.455419,304.04,0.57,536.03,-141.39,-517.04,1480,1486,1468,alt=304.04
+2026-04-16T17:17:38,Cruise,50.444469,30.455410,304.15,0.57,535.16,-140.28,-516.45,1480,1486,1468,alt=304.15
+2026-04-16T17:17:38,Cruise,50.444450,30.455393,304.34,0.57,533.45,-138.07,-515.27,1480,1487,1468,alt=304.34
+2026-04-16T17:17:39,Cruise,50.444440,30.455384,304.37,0.57,532.59,-136.97,-514.68,1480,1487,1468,alt=304.37
+2026-04-16T17:17:39,Cruise,50.444420,30.455367,304.45,0.58,530.90,-134.77,-513.51,1480,1487,1468,alt=304.45
+2026-04-16T17:17:39,Cruise,50.444411,30.455358,304.49,0.58,530.05,-133.66,-512.92,1480,1487,1468,alt=304.49
+2026-04-16T17:17:40,Cruise,50.444401,30.455350,304.53,0.58,529.20,-132.56,-512.33,1480,1487,1468,alt=304.53
+2026-04-16T17:17:40,Cruise,50.444381,30.455332,304.62,0.58,527.53,-130.36,-511.17,1480,1487,1468,alt=304.62
+2026-04-16T17:17:40,Cruise,50.444372,30.455324,304.68,0.58,526.68,-129.26,-510.58,1480,1488,1468,alt=304.68
+2026-04-16T17:17:41,Cruise,50.444352,30.455306,304.75,0.58,524.99,-127.03,-509.39,1480,1488,1468,alt=304.75
+2026-04-16T17:17:41,Cruise,50.444342,30.455297,304.78,0.57,524.15,-125.93,-508.80,1480,1488,1468,alt=304.78
+2026-04-16T17:17:41,Cruise,50.444332,30.455289,304.80,0.57,523.30,-124.82,-508.20,1480,1488,1468,alt=304.80
+2026-04-16T17:17:42,Cruise,50.444313,30.455271,304.84,0.57,521.62,-122.61,-507.01,1480,1488,1468,alt=304.84
+2026-04-16T17:17:42,Cruise,50.444303,30.455262,304.82,0.56,520.78,-121.50,-506.41,1480,1488,1468,alt=304.82
+2026-04-16T17:17:43,Cruise,50.444283,30.455245,304.85,0.56,519.12,-119.28,-505.23,1480,1489,1468,alt=304.85
+2026-04-16T17:17:43,Cruise,50.444274,30.455236,304.89,0.56,518.28,-118.17,-504.63,1480,1489,1468,alt=304.89
+2026-04-16T17:17:43,Cruise,50.444264,30.455227,304.93,0.56,517.45,-117.07,-504.03,1480,1489,1468,alt=304.93
+2026-04-16T17:17:44,Cruise,50.444244,30.455210,304.91,0.56,515.80,-114.84,-502.85,1480,1489,1468,alt=304.91
+2026-04-16T17:17:44,Cruise,50.444234,30.455201,304.90,0.55,514.97,-113.74,-502.25,1480,1489,1468,alt=304.90
+2026-04-16T17:17:44,Cruise,50.444215,30.455183,304.84,0.55,513.32,-111.54,-501.06,1480,1489,1468,alt=304.84
+2026-04-16T17:17:45,Cruise,50.444205,30.455174,304.83,0.55,512.50,-110.43,-500.46,1480,1489,1468,alt=304.83
+2026-04-16T17:17:45,Cruise,50.444195,30.455165,304.86,0.55,511.68,-109.32,-499.86,1480,1490,1468,alt=304.86
+2026-04-16T17:17:45,Cruise,50.444176,30.455148,304.92,0.58,510.04,-107.11,-498.67,1480,1490,1468,alt=304.92
+2026-04-16T17:17:46,Cruise,50.444166,30.455139,304.83,0.59,509.23,-106.00,-498.07,1480,1490,1468,alt=304.83
+2026-04-16T17:17:46,Cruise,50.444146,30.455122,304.72,0.58,507.60,-103.79,-496.88,1480,1490,1468,alt=304.72
+2026-04-16T17:17:46,Cruise,50.444136,30.455113,304.68,0.58,506.80,-102.70,-496.29,1480,1490,1468,alt=304.68
+2026-04-16T17:17:47,Cruise,50.444127,30.455104,304.66,0.57,506.00,-101.60,-495.69,1480,1490,1468,alt=304.66
+2026-04-16T17:17:47,Cruise,50.444107,30.455087,304.61,0.57,504.40,-99.39,-494.51,1480,1491,1468,alt=304.61
+2026-04-16T17:17:47,Cruise,50.444097,30.455078,304.56,0.57,503.59,-98.27,-493.91,1480,1491,1468,alt=304.56
+2026-04-16T17:17:48,Cruise,50.444078,30.455060,304.52,0.57,502.01,-96.06,-492.73,1480,1491,1468,alt=304.52
+2026-04-16T17:17:48,Cruise,50.444068,30.455052,304.53,0.58,501.22,-94.95,-492.15,1480,1491,1468,alt=304.53
+2026-04-16T17:17:49,Cruise,50.444058,30.455043,304.51,0.58,500.44,-93.85,-491.56,1480,1491,1468,alt=304.51
+2026-04-16T17:17:49,Cruise,50.444038,30.455026,304.46,0.58,498.88,-91.64,-490.39,1484,1493,1468,alt=304.46
+2026-04-16T17:17:49,Cruise,50.444029,30.455017,304.41,0.58,498.10,-90.53,-489.80,1484,1493,1468,alt=304.41
+2026-04-16T17:17:50,Cruise,50.444009,30.455000,304.24,0.58,496.55,-88.31,-488.63,1484,1493,1468,alt=304.24
+2026-04-16T17:17:50,Cruise,50.443999,30.454991,304.17,0.58,495.77,-87.19,-488.04,1484,1494,1468,alt=304.17
+2026-04-16T17:17:50,Cruise,50.443979,30.454974,304.09,0.58,494.23,-84.98,-486.87,1484,1494,1468,alt=304.09
+2026-04-16T17:17:51,Cruise,50.443970,30.454965,304.07,0.57,493.46,-83.87,-486.28,1484,1494,1468,alt=304.07
+2026-04-16T17:17:51,Cruise,50.443960,30.454956,304.09,0.57,492.68,-82.77,-485.68,1484,1494,1468,alt=304.09
+2026-04-16T17:17:51,Cruise,50.443940,30.454939,304.16,0.57,491.14,-80.54,-484.50,1484,1494,1468,alt=304.16
+2026-04-16T17:17:52,Cruise,50.443930,30.454930,304.19,0.57,490.38,-79.44,-483.90,1484,1494,1468,alt=304.19
+2026-04-16T17:17:52,Cruise,50.443911,30.454912,304.21,0.57,488.84,-77.21,-482.71,1484,1494,1468,alt=304.21
+2026-04-16T17:17:52,Cruise,50.443901,30.454904,304.19,0.58,488.09,-76.11,-482.12,1484,1494,1468,alt=304.19
+2026-04-16T17:17:53,Cruise,50.443891,30.454895,304.17,0.58,487.33,-75.01,-481.52,1484,1494,1468,alt=304.17
+2026-04-16T17:17:53,Cruise,50.443872,30.454877,304.20,0.59,485.82,-72.80,-480.34,1484,1495,1468,alt=304.20
+2026-04-16T17:17:53,Cruise,50.443862,30.454868,304.21,0.60,485.08,-71.70,-479.75,1484,1495,1468,alt=304.21
+2026-04-16T17:17:54,Cruise,50.443852,30.454860,304.23,0.59,484.33,-70.61,-479.16,1484,1495,1468,alt=304.23
+2026-04-16T17:17:54,Cruise,50.443833,30.454843,304.33,0.57,482.86,-68.42,-477.99,1484,1495,1468,alt=304.33
+2026-04-16T17:17:54,Cruise,50.443823,30.454834,304.39,0.57,482.12,-67.32,-477.40,1484,1495,1468,alt=304.39
+2026-04-16T17:17:55,Cruise,50.443804,30.454816,304.47,0.56,480.65,-65.15,-476.22,1484,1495,1468,alt=304.47
+2026-04-16T17:17:55,Cruise,50.443794,30.454808,304.52,0.56,479.91,-64.04,-475.61,1484,1495,1468,alt=304.52
+2026-04-16T17:17:56,Cruise,50.443774,30.454790,304.58,0.55,478.43,-61.84,-474.42,1484,1496,1468,alt=304.58
+2026-04-16T17:17:56,Cruise,50.443765,30.454781,304.61,0.55,477.70,-60.73,-473.82,1484,1496,1468,alt=304.61
+2026-04-16T17:17:56,Cruise,50.443755,30.454772,304.62,0.55,476.97,-59.63,-473.23,1484,1496,1468,alt=304.62
+2026-04-16T17:17:57,Cruise,50.443735,30.454755,304.61,0.57,475.51,-57.42,-472.03,1484,1496,1468,alt=304.61
+2026-04-16T17:17:57,Cruise,50.443726,30.454746,304.59,0.58,474.79,-56.33,-471.43,1484,1496,1468,alt=304.59
+2026-04-16T17:17:57,Cruise,50.443706,30.454728,304.61,0.59,473.34,-54.10,-470.23,1484,1496,1468,alt=304.61
+2026-04-16T17:17:58,Cruise,50.443696,30.454719,304.66,0.59,472.63,-53.01,-469.64,1484,1496,1468,alt=304.66
+2026-04-16T17:17:58,Cruise,50.443686,30.454711,304.72,0.59,471.91,-51.90,-469.05,1484,1496,1468,alt=304.72
+2026-04-16T17:17:58,Cruise,50.443667,30.454693,304.85,0.59,470.49,-49.70,-467.86,1484,1497,1468,alt=304.85
+2026-04-16T17:17:59,Cruise,50.443657,30.454684,304.94,0.59,469.79,-48.60,-467.27,1484,1497,1468,alt=304.94
+2026-04-16T17:17:59,Cruise,50.443638,30.454667,305.16,0.59,468.37,-46.39,-466.07,1484,1497,1468,alt=305.16
+2026-04-16T17:17:59,Cruise,50.443628,30.454658,305.25,0.59,467.67,-45.28,-465.47,1484,1497,1468,alt=305.25
+2026-04-16T17:18:00,Cruise,50.443618,30.454649,305.29,0.59,466.97,-44.18,-464.87,1484,1497,1468,alt=305.29
+2026-04-16T17:18:00,Cruise,50.443599,30.454631,305.37,0.60,465.58,-41.99,-463.68,1484,1497,1468,alt=305.37
+2026-04-16T17:18:00,Cruise,50.443589,30.454622,305.42,0.60,464.88,-40.89,-463.08,1484,1497,1468,alt=305.42
+2026-04-16T17:18:01,Cruise,50.443569,30.454605,305.48,0.59,463.50,-38.70,-461.88,1484,1497,1468,alt=305.48
+2026-04-16T17:18:01,Cruise,50.443560,30.454596,305.50,0.58,462.82,-37.60,-461.29,1484,1497,1468,alt=305.50
+2026-04-16T17:18:01,Cruise,50.443550,30.454587,305.51,0.57,462.14,-36.51,-460.69,1484,1498,1468,alt=305.51
+2026-04-16T17:18:02,Cruise,50.443530,30.454570,305.58,0.57,460.78,-34.29,-459.50,1484,1498,1468,alt=305.58
+2026-04-16T17:18:02,Cruise,50.443521,30.454561,305.63,0.56,460.10,-33.20,-458.90,1484,1498,1468,alt=305.63
+2026-04-16T17:18:03,Cruise,50.443501,30.454543,305.74,0.56,458.74,-30.98,-457.70,1484,1498,1468,alt=305.74
+2026-04-16T17:18:03,Cruise,50.443491,30.454534,305.74,0.56,458.07,-29.88,-457.09,1484,1498,1468,alt=305.74
+2026-04-16T17:18:03,Cruise,50.443481,30.454525,305.71,0.56,457.40,-28.77,-456.50,1484,1498,1468,alt=305.71
+2026-04-16T17:18:04,Cruise,50.443462,30.454508,305.59,0.56,456.07,-26.55,-455.30,1484,1498,1468,alt=305.59
+2026-04-16T17:18:04,Cruise,50.443452,30.454499,305.59,0.56,455.42,-25.45,-454.71,1484,1498,1468,alt=305.59
+2026-04-16T17:18:04,Cruise,50.443433,30.454481,305.57,0.57,454.11,-23.24,-453.52,1484,1499,1468,alt=305.57
+2026-04-16T17:18:05,Cruise,50.443423,30.454473,305.55,0.57,453.45,-22.13,-452.91,1484,1499,1468,alt=305.55
+2026-04-16T17:18:05,Cruise,50.443413,30.454464,305.56,0.56,452.80,-21.03,-452.32,1484,1499,1468,alt=305.56
+2026-04-16T17:18:05,Cruise,50.443393,30.454446,305.67,0.56,451.52,-18.82,-451.12,1484,1499,1468,alt=305.67
+2026-04-16T17:18:06,Cruise,50.443383,30.454437,305.71,0.56,450.86,-17.70,-450.51,1484,1499,1468,alt=305.71
+2026-04-16T17:18:06,Cruise,50.443364,30.454419,305.70,0.56,449.58,-15.47,-449.31,1484,1499,1468,alt=305.70
+2026-04-16T17:18:06,Cruise,50.443354,30.454411,305.69,0.56,448.94,-14.37,-448.71,1484,1499,1468,alt=305.69
+2026-04-16T17:18:07,Cruise,50.443344,30.454402,305.65,0.56,448.31,-13.26,-448.12,1484,1499,1468,alt=305.65
+2026-04-16T17:18:07,Cruise,50.443325,30.454384,305.61,0.55,447.05,-11.05,-446.92,1484,1500,1468,alt=305.61
+2026-04-16T17:18:07,Cruise,50.443315,30.454375,305.67,0.55,446.42,-9.94,-446.31,1484,1500,1468,alt=305.67
+2026-04-16T17:18:08,Cruise,50.443295,30.454357,305.81,0.56,445.17,-7.72,-445.10,1484,1500,1468,alt=305.81
+2026-04-16T17:18:08,Cruise,50.443285,30.454348,305.86,0.56,444.54,-6.61,-444.50,1484,1500,1468,alt=305.86
+2026-04-16T17:18:09,Cruise,50.443266,30.454331,305.88,0.56,443.31,-4.39,-443.29,1484,1500,1468,alt=305.88
+2026-04-16T17:18:09,Cruise,50.443256,30.454322,305.86,0.56,442.70,-3.28,-442.69,1484,1500,1468,alt=305.86
+2026-04-16T17:18:09,Cruise,50.443246,30.454313,305.79,0.56,442.10,-2.18,-442.09,1484,1500,1468,alt=305.79
+2026-04-16T17:18:10,Cruise,50.443227,30.454295,305.65,0.57,440.90,0.01,-440.90,1484,1500,1468,alt=305.65
+2026-04-16T17:18:10,Cruise,50.443217,30.454286,305.62,0.57,440.30,1.12,-440.29,1484,1500,1468,alt=305.62
+2026-04-16T17:18:10,Cruise,50.443207,30.454277,305.57,0.57,439.70,2.23,-439.69,1484,1500,1468,alt=305.57
+2026-04-16T17:18:11,Cruise,50.443187,30.454260,305.49,0.58,438.51,4.44,-438.49,1484,1500,1468,alt=305.49
+2026-04-16T17:18:11,Cruise,50.443178,30.454251,305.43,0.58,437.92,5.54,-437.89,1484,1500,1468,alt=305.43
+2026-04-16T17:18:11,Cruise,50.443158,30.454233,305.29,0.59,436.76,7.74,-436.69,1484,1500,1468,alt=305.29
+2026-04-16T17:18:12,Cruise,50.443148,30.454224,305.21,0.60,436.18,8.83,-436.09,1484,1500,1468,alt=305.21
+2026-04-16T17:18:12,Cruise,50.443139,30.454215,305.11,0.60,435.60,9.94,-435.49,1484,1500,1468,alt=305.11
+2026-04-16T17:18:12,Cruise,50.443119,30.454198,304.89,0.57,434.45,12.13,-434.28,1484,1500,1468,alt=304.89
+2026-04-16T17:18:13,Cruise,50.443109,30.454189,304.83,0.56,433.88,13.24,-433.68,1484,1501,1468,alt=304.83
+2026-04-16T17:18:13,Cruise,50.443090,30.454171,304.72,0.55,432.75,15.44,-432.47,1484,1501,1468,alt=304.72
+2026-04-16T17:18:13,Cruise,50.443080,30.454162,304.67,0.55,432.18,16.53,-431.87,1484,1501,1468,alt=304.67
+2026-04-16T17:18:14,Cruise,50.443061,30.454144,304.57,0.56,431.07,18.73,-430.67,1484,1501,1468,alt=304.57
+2026-04-16T17:18:14,Cruise,50.443051,30.454135,304.58,0.56,430.52,19.84,-430.06,1484,1501,1468,alt=304.58
+2026-04-16T17:18:14,Cruise,50.443041,30.454127,304.60,0.56,429.98,20.92,-429.47,1484,1501,1468,alt=304.60
+2026-04-16T17:18:15,Cruise,50.443022,30.454109,304.60,0.57,428.90,23.11,-428.28,1484,1501,1468,alt=304.60
+2026-04-16T17:18:15,Cruise,50.443012,30.454100,304.59,0.57,428.38,24.21,-427.69,1484,1501,1468,alt=304.59
+2026-04-16T17:18:16,Cruise,50.442993,30.454083,304.51,0.57,427.32,26.40,-426.50,1484,1502,1468,alt=304.51
+2026-04-16T17:18:16,Cruise,50.442983,30.454074,304.46,0.57,426.79,27.49,-425.90,1484,1502,1468,alt=304.46
+2026-04-16T17:18:16,Cruise,50.442973,30.454065,304.45,0.56,426.27,28.59,-425.31,1484,1502,1468,alt=304.45
+2026-04-16T17:18:17,Cruise,50.442954,30.454048,304.47,0.56,425.22,30.79,-424.11,1484,1502,1468,alt=304.47
+2026-04-16T17:18:17,Cruise,50.442944,30.454039,304.48,0.56,424.72,31.90,-423.52,1484,1502,1468,alt=304.48
+2026-04-16T17:18:17,Cruise,50.442925,30.454021,304.44,0.55,423.70,34.10,-422.32,1484,1502,1468,alt=304.44
+2026-04-16T17:18:18,Cruise,50.442915,30.454012,304.39,0.55,423.19,35.19,-421.73,1484,1502,1468,alt=304.39
+2026-04-16T17:18:18,Cruise,50.442905,30.454003,304.34,0.56,422.69,36.30,-421.12,1484,1502,1468,alt=304.34
+2026-04-16T17:18:18,Cruise,50.442886,30.453986,304.30,0.59,421.69,38.51,-419.93,1484,1503,1468,alt=304.30
+2026-04-16T17:18:19,Cruise,50.442876,30.453977,304.31,0.59,421.20,39.61,-419.34,1484,1503,1468,alt=304.31
+2026-04-16T17:18:19,Cruise,50.442856,30.453959,304.32,0.59,420.23,41.82,-418.14,1484,1503,1468,alt=304.32
+2026-04-16T17:18:19,Cruise,50.442846,30.453951,304.31,0.59,419.74,42.93,-417.54,1484,1503,1468,alt=304.31
+2026-04-16T17:18:20,Cruise,50.442836,30.453942,304.28,0.58,419.26,44.04,-416.94,1484,1503,1468,alt=304.28
+2026-04-16T17:18:20,Cruise,50.442817,30.453924,304.25,0.58,418.30,46.26,-415.73,1484,1503,1468,alt=304.25
+2026-04-16T17:18:20,Cruise,50.442807,30.453915,304.21,0.57,417.83,47.36,-415.13,1484,1503,1468,alt=304.21
+2026-04-16T17:18:21,Cruise,50.442788,30.453898,304.14,0.57,416.90,49.58,-413.94,1484,1503,1468,alt=304.14
+2026-04-16T17:18:21,Cruise,50.442778,30.453889,304.11,0.57,416.44,50.68,-413.35,1484,1504,1468,alt=304.11
+2026-04-16T17:18:22,Cruise,50.442768,30.453880,304.07,0.57,415.99,51.79,-412.76,1484,1504,1468,alt=304.07
+2026-04-16T17:18:22,Cruise,50.442748,30.453862,304.04,0.56,415.10,53.99,-411.57,1484,1504,1468,alt=304.04
+2026-04-16T17:18:22,Cruise,50.442739,30.453854,303.99,0.56,414.65,55.10,-410.97,1484,1504,1468,alt=303.99
+2026-04-16T17:18:23,Cruise,50.442719,30.453836,303.92,0.56,413.77,57.31,-409.78,1484,1504,1468,alt=303.92
+2026-04-16T17:18:23,Cruise,50.442709,30.453827,303.88,0.56,413.33,58.41,-409.19,1484,1504,1468,alt=303.88
+2026-04-16T17:18:23,Cruise,50.442699,30.453819,303.84,0.57,412.90,59.52,-408.59,1484,1504,1468,alt=303.84
+2026-04-16T17:18:24,Cruise,50.442680,30.453801,303.83,0.57,412.04,61.73,-407.39,1484,1504,1468,alt=303.83
+2026-04-16T17:18:24,Cruise,50.442670,30.453792,303.82,0.56,411.63,62.84,-406.80,1484,1505,1468,alt=303.82
+2026-04-16T17:18:24,Cruise,50.442650,30.453774,303.79,0.56,410.79,65.07,-405.60,1484,1505,1468,alt=303.79
+2026-04-16T17:18:25,Cruise,50.442640,30.453766,303.75,0.56,410.38,66.18,-405.01,1484,1505,1468,alt=303.75
+2026-04-16T17:18:25,Cruise,50.442631,30.453757,303.67,0.56,409.97,67.29,-404.41,1484,1505,1468,alt=303.67
+2026-04-16T17:18:25,Cruise,50.442611,30.453739,303.65,0.56,409.17,69.50,-403.22,1484,1505,1468,alt=303.65
+2026-04-16T17:18:26,Cruise,50.442601,30.453730,303.65,0.56,408.77,70.62,-402.63,1484,1505,1468,alt=303.65
+2026-04-16T17:18:26,Cruise,50.442582,30.453713,303.66,0.56,407.99,72.83,-401.44,1484,1505,1468,alt=303.66
+2026-04-16T17:18:26,Cruise,50.442572,30.453704,303.64,0.57,407.59,73.94,-400.83,1484,1505,1468,alt=303.64
+2026-04-16T17:18:27,Cruise,50.442552,30.453686,303.52,0.57,406.83,76.16,-399.64,1484,1506,1468,alt=303.52
+2026-04-16T17:18:27,Cruise,50.442542,30.453678,303.43,0.57,406.46,77.27,-399.04,1484,1506,1468,alt=303.43
+2026-04-16T17:18:27,Cruise,50.442532,30.453669,303.33,0.58,406.08,78.38,-398.45,1484,1506,1468,alt=303.33
+2026-04-16T17:18:28,Cruise,50.442513,30.453651,303.05,0.58,405.36,80.60,-397.26,1484,1506,1468,alt=303.05
+2026-04-16T17:18:28,Cruise,50.442503,30.453643,302.94,0.58,405.00,81.71,-396.67,1484,1506,1478,alt=302.94
+2026-04-16T17:18:29,Cruise,50.442483,30.453625,302.72,0.59,404.30,83.94,-395.49,1484,1506,1478,alt=302.72
+2026-04-16T17:18:29,Cruise,50.442473,30.453616,302.63,0.59,403.95,85.04,-394.89,1484,1506,1478,alt=302.63
+2026-04-16T17:18:29,Cruise,50.442463,30.453608,302.55,0.60,403.61,86.16,-394.30,1484,1506,1478,alt=302.55
+2026-04-16T17:18:30,Cruise,50.442444,30.453590,302.39,0.60,402.94,88.38,-393.13,1484,1507,1478,alt=302.39
+2026-04-16T17:18:30,Cruise,50.442434,30.453581,302.33,0.60,402.61,89.49,-392.54,1484,1507,1478,alt=302.33
+2026-04-16T17:18:30,Cruise,50.442414,30.453564,302.38,0.59,401.97,91.69,-391.37,1484,1507,1478,alt=302.38
+2026-04-16T17:18:31,Cruise,50.442405,30.453556,302.46,0.58,401.65,92.80,-390.78,1484,1507,1478,alt=302.46
+2026-04-16T17:18:31,Cruise,50.442395,30.453547,302.54,0.57,401.34,93.90,-390.20,1484,1507,1478,alt=302.54
+2026-04-16T17:18:31,Cruise,50.442375,30.453530,302.64,0.57,400.72,96.10,-389.02,1484,1507,1478,alt=302.64
+2026-04-16T17:18:32,Cruise,50.442366,30.453521,302.69,0.57,400.42,97.21,-388.44,1484,1507,1478,alt=302.69
+2026-04-16T17:18:32,Cruise,50.442346,30.453504,302.82,0.57,399.81,99.42,-387.26,1484,1507,1478,alt=302.82
+2026-04-16T17:18:32,Cruise,50.442336,30.453495,302.89,0.57,399.52,100.52,-386.67,1484,1508,1478,alt=302.89
+2026-04-16T17:18:33,Cruise,50.442326,30.453486,302.96,0.57,399.22,101.62,-386.07,1484,1508,1478,alt=302.96
+2026-04-16T17:18:33,Cruise,50.442307,30.453468,303.08,0.56,398.64,103.83,-384.88,1484,1508,1468,alt=303.08
+2026-04-16T17:18:33,Cruise,50.442297,30.453460,303.11,0.57,398.35,104.93,-384.28,1484,1508,1468,alt=303.11
+2026-04-16T17:18:34,Cruise,50.442278,30.453442,303.10,0.58,397.79,107.13,-383.09,1484,1508,1468,alt=303.10
+2026-04-16T17:18:34,Cruise,50.442268,30.453433,303.04,0.59,397.51,108.24,-382.49,1484,1508,1468,alt=303.04
+2026-04-16T17:18:34,Cruise,50.442258,30.453425,302.98,0.59,397.24,109.33,-381.90,1484,1508,1478,alt=302.98
+2026-04-16T17:18:35,Cruise,50.442239,30.453407,302.86,0.58,396.71,111.54,-380.70,1484,1508,1478,alt=302.86
+2026-04-16T17:18:35,Cruise,50.442229,30.453398,302.80,0.57,396.45,112.64,-380.11,1484,1509,1478,alt=302.80
+2026-04-16T17:18:36,Cruise,50.442209,30.453381,302.76,0.57,395.95,114.84,-378.93,1484,1509,1478,alt=302.76
+2026-04-16T17:18:36,Cruise,50.442200,30.453372,302.81,0.57,395.70,115.94,-378.34,1484,1509,1478,alt=302.81
+2026-04-16T17:18:36,Cruise,50.442190,30.453363,302.87,0.56,395.47,117.04,-377.75,1484,1509,1478,alt=302.87
+2026-04-16T17:18:37,Cruise,50.442170,30.453346,303.01,0.56,394.99,119.27,-376.55,1484,1509,1468,alt=303.01
+2026-04-16T17:18:37,Cruise,50.442160,30.453337,303.12,0.56,394.75,120.38,-375.95,1484,1509,1468,alt=303.12
+2026-04-16T17:18:37,Cruise,50.442141,30.453319,303.32,0.58,394.29,122.61,-374.75,1484,1509,1468,alt=303.32
+2026-04-16T17:18:38,Cruise,50.442131,30.453310,303.39,0.58,394.07,123.71,-374.14,1484,1509,1468,alt=303.39
+2026-04-16T17:18:38,Cruise,50.442121,30.453301,303.45,0.58,393.84,124.82,-373.54,1484,1509,1468,alt=303.45
+2026-04-16T17:18:38,Cruise,50.442101,30.453283,303.54,0.58,393.41,127.04,-372.33,1484,1510,1468,alt=303.54
+2026-04-16T17:18:39,Cruise,50.442091,30.453274,303.54,0.58,393.20,128.14,-371.73,1484,1510,1468,alt=303.54
+2026-04-16T17:18:39,Cruise,50.442072,30.453257,303.55,0.58,392.79,130.36,-370.53,1484,1510,1468,alt=303.55
+2026-04-16T17:18:39,Cruise,50.442062,30.453248,303.56,0.58,392.59,131.46,-369.93,1484,1510,1468,alt=303.56
+2026-04-16T17:18:40,Cruise,50.442052,30.453239,303.53,0.59,392.40,132.55,-369.33,1484,1510,1468,alt=303.53
+2026-04-16T17:18:40,Cruise,50.442033,30.453221,303.47,0.58,392.02,134.75,-368.13,1484,1510,1468,alt=303.47
+2026-04-16T17:18:40,Cruise,50.442023,30.453212,303.47,0.57,391.83,135.85,-367.53,1484,1510,1468,alt=303.47
+2026-04-16T17:18:41,Cruise,50.442004,30.453195,303.47,0.56,391.48,138.05,-366.34,1484,1511,1468,alt=303.47
+2026-04-16T17:18:41,Cruise,50.441994,30.453186,303.44,0.56,391.31,139.16,-365.73,1484,1511,1468,alt=303.44
+2026-04-16T17:18:42,Cruise,50.441984,30.453177,303.42,0.56,391.15,140.25,-365.14,1484,1511,1468,alt=303.42
+2026-04-16T17:18:42,Cruise,50.441965,30.453160,303.32,0.56,390.83,142.44,-363.95,1484,1511,1468,alt=303.32
+2026-04-16T17:18:42,Cruise,50.441955,30.453151,303.27,0.56,390.68,143.54,-363.36,1484,1511,1468,alt=303.27
+2026-04-16T17:18:43,Cruise,50.441936,30.453133,303.18,0.56,390.40,145.74,-362.18,1484,1511,1468,alt=303.18
+2026-04-16T17:18:43,Cruise,50.441926,30.453125,303.11,0.56,390.26,146.83,-361.58,1484,1511,1468,alt=303.11
+2026-04-16T17:18:43,Cruise,50.441916,30.453116,303.03,0.56,390.12,147.93,-360.98,1484,1511,1468,alt=303.03
+2026-04-16T17:18:44,Cruise,50.441897,30.453098,302.90,0.55,389.85,150.13,-359.79,1484,1512,1478,alt=302.90
+2026-04-16T17:18:44,Cruise,50.441887,30.453090,302.88,0.56,389.73,151.23,-359.20,1484,1512,1478,alt=302.88
+2026-04-16T17:18:44,Cruise,50.441868,30.453072,302.86,0.57,389.50,153.43,-358.01,1484,1512,1478,alt=302.86
+2026-04-16T17:18:45,Cruise,50.441858,30.453063,302.86,0.57,389.39,154.53,-357.42,1484,1512,1478,alt=302.86
+2026-04-16T17:18:45,Cruise,50.441838,30.453046,302.83,0.58,389.18,156.72,-356.23,1484,1512,1478,alt=302.83
+2026-04-16T17:18:45,Cruise,50.441829,30.453037,302.81,0.57,389.08,157.82,-355.63,1484,1512,1478,alt=302.81
+2026-04-16T17:18:46,Cruise,50.441819,30.453028,302.80,0.57,388.98,158.91,-355.04,1484,1512,1478,alt=302.80
+2026-04-16T17:18:46,Cruise,50.441799,30.453011,302.82,0.57,388.80,161.11,-353.85,1484,1512,1478,alt=302.82
+2026-04-16T17:18:46,Cruise,50.441790,30.453002,302.85,0.56,388.72,162.22,-353.25,1484,1512,1478,alt=302.85
+2026-04-16T17:18:47,Cruise,50.441770,30.452984,302.95,0.56,388.55,164.42,-352.05,1484,1513,1478,alt=302.95
+2026-04-16T17:18:47,Cruise,50.441760,30.452975,303.01,0.55,388.48,165.53,-351.45,1484,1513,1468,alt=303.01
+2026-04-16T17:18:47,Cruise,50.441750,30.452966,303.07,0.55,388.42,166.65,-350.85,1484,1513,1468,alt=303.07
+2026-04-16T17:18:48,Cruise,50.441731,30.452949,303.20,0.58,388.29,168.85,-349.66,1484,1513,1468,alt=303.20
+2026-04-16T17:18:48,Cruise,50.441721,30.452940,303.29,0.59,388.24,169.95,-349.06,1484,1513,1468,alt=303.29
+2026-04-16T17:18:49,Cruise,50.441702,30.452922,303.45,0.58,388.15,172.17,-347.88,1484,1513,1468,alt=303.45
+2026-04-16T17:18:49,Cruise,50.441692,30.452914,303.50,0.57,388.12,173.27,-347.29,1484,1513,1468,alt=303.50
+2026-04-16T17:18:49,Cruise,50.441682,30.452905,303.53,0.56,388.09,174.38,-346.70,1484,1513,1468,alt=303.53
+2026-04-16T17:18:50,Cruise,50.441662,30.452888,303.56,0.58,388.03,176.59,-345.52,1484,1514,1468,alt=303.56
+2026-04-16T17:18:50,Cruise,50.441652,30.452879,303.52,0.58,388.01,177.70,-344.93,1484,1514,1468,alt=303.52
+2026-04-16T17:18:50,Cruise,50.441633,30.452862,303.39,0.58,387.98,179.90,-343.75,1484,1514,1468,alt=303.39
+2026-04-16T17:18:51,Cruise,50.441623,30.452853,303.30,0.58,387.97,181.00,-343.16,1484,1514,1468,alt=303.30
+2026-04-16T17:18:51,Cruise,50.441614,30.452844,303.20,0.58,387.96,182.10,-342.57,1484,1514,1468,alt=303.20
+2026-04-16T17:18:51,Cruise,50.441594,30.452827,303.09,0.57,387.96,184.30,-341.39,1484,1514,1468,alt=303.09
+2026-04-16T17:18:52,Cruise,50.441584,30.452818,303.04,0.57,387.97,185.42,-340.80,1484,1514,1468,alt=303.04
+2026-04-16T17:18:52,Cruise,50.441564,30.452800,302.91,0.56,388.00,187.63,-339.61,1484,1515,1478,alt=302.91
+2026-04-16T17:18:52,Cruise,50.441555,30.452792,302.87,0.56,388.01,188.74,-339.02,1484,1515,1478,alt=302.87
+2026-04-16T17:18:53,Cruise,50.441545,30.452783,302.83,0.56,388.04,189.84,-338.43,1484,1515,1478,alt=302.83
+2026-04-16T17:18:53,Cruise,50.441525,30.452766,302.72,0.56,388.10,192.05,-337.25,1484,1515,1478,alt=302.72
+2026-04-16T17:18:53,Cruise,50.441516,30.452757,302.68,0.55,388.14,193.16,-336.66,1484,1515,1478,alt=302.68
+2026-04-16T17:18:54,Cruise,50.441496,30.452739,302.69,0.55,388.22,195.38,-335.47,1484,1515,1478,alt=302.69
+2026-04-16T17:18:54,Cruise,50.441486,30.452731,302.73,0.55,388.27,196.50,-334.88,1484,1515,1478,alt=302.73
+2026-04-16T17:18:55,Cruise,50.441476,30.452722,302.78,0.55,388.33,197.61,-334.29,1484,1515,1478,alt=302.78
+2026-04-16T17:18:55,Cruise,50.441456,30.452704,302.94,0.55,388.46,199.84,-333.11,1484,1515,1478,alt=302.94
+2026-04-16T17:18:55,Cruise,50.441446,30.452696,303.06,0.56,388.52,200.95,-332.52,1484,1516,1468,alt=303.06
+2026-04-16T17:18:56,Cruise,50.441427,30.452678,303.28,0.58,388.67,203.18,-331.33,1484,1516,1468,alt=303.28
+2026-04-16T17:18:56,Cruise,50.441417,30.452669,303.38,0.59,388.75,204.29,-330.74,1484,1516,1468,alt=303.38
+2026-04-16T17:18:56,Cruise,50.441407,30.452661,303.48,0.59,388.83,205.39,-330.16,1484,1516,1468,alt=303.48
+2026-04-16T17:18:57,Cruise,50.441387,30.452643,303.65,0.57,389.01,207.61,-328.98,1484,1516,1468,alt=303.65
+2026-04-16T17:18:57,Cruise,50.441378,30.452635,303.74,0.56,389.11,208.71,-328.40,1484,1516,1468,alt=303.74
+2026-04-16T17:18:57,Cruise,50.441358,30.452617,303.96,0.58,389.30,210.91,-327.22,1484,1516,1468,alt=303.96
+2026-04-16T17:18:58,Cruise,50.441348,30.452609,304.05,0.58,389.42,212.03,-326.63,1484,1516,1468,alt=304.05
+2026-04-16T17:18:58,Cruise,50.441339,30.452600,304.10,0.59,389.53,213.14,-326.04,1484,1516,1468,alt=304.10
+2026-04-16T17:18:58,Cruise,50.441319,30.452582,304.21,0.59,389.76,215.36,-324.86,1484,1516,1468,alt=304.21
+2026-04-16T17:18:59,Cruise,50.441309,30.452574,304.26,0.59,389.88,216.48,-324.26,1484,1516,1468,alt=304.26
+2026-04-16T17:18:59,Cruise,50.441289,30.452556,304.30,0.60,390.15,218.71,-323.08,1484,1516,1468,alt=304.30
+2026-04-16T17:18:59,Cruise,50.441279,30.452548,304.29,0.60,390.29,219.83,-322.49,1484,1516,1468,alt=304.29
+2026-04-16T17:19:00,Cruise,50.441269,30.452539,304.24,0.58,390.43,220.93,-321.91,1484,1516,1468,alt=304.24
+2026-04-16T17:19:00,Cruise,50.441250,30.452521,304.15,0.57,390.71,223.16,-320.71,1484,1516,1468,alt=304.15
+2026-04-16T17:19:00,Cruise,50.441240,30.452513,304.07,0.56,390.86,224.25,-320.12,1484,1516,1468,alt=304.07
+2026-04-16T17:19:01,Cruise,50.441221,30.452495,303.91,0.57,391.16,226.45,-318.94,1484,1516,1468,alt=303.91
+2026-04-16T17:19:01,Cruise,50.441211,30.452486,303.86,0.58,391.32,227.55,-318.36,1484,1516,1468,alt=303.86
+2026-04-16T17:19:02,Cruise,50.441201,30.452478,303.79,0.58,391.48,228.64,-317.77,1484,1516,1468,alt=303.79
+2026-04-16T17:19:02,Cruise,50.441182,30.452460,303.67,0.59,391.81,230.83,-316.59,1484,1516,1468,alt=303.67
+2026-04-16T17:19:02,Cruise,50.441172,30.452452,303.63,0.59,391.97,231.92,-316.00,1484,1516,1468,alt=303.63
+2026-04-16T17:19:03,Cruise,50.441153,30.452434,303.53,0.57,392.32,234.10,-314.83,1484,1516,1468,alt=303.53
+2026-04-16T17:19:03,Cruise,50.441143,30.452426,303.45,0.57,392.51,235.19,-314.24,1484,1516,1468,alt=303.45
+2026-04-16T17:19:03,Cruise,50.441133,30.452417,303.36,0.56,392.70,236.29,-313.65,1484,1516,1468,alt=303.36
+2026-04-16T17:19:04,Cruise,50.441114,30.452400,303.27,0.57,393.08,238.48,-312.47,1484,1516,1468,alt=303.27
+2026-04-16T17:19:04,Cruise,50.441104,30.452391,303.23,0.58,393.27,239.57,-311.88,1484,1516,1468,alt=303.23
+2026-04-16T17:19:04,Cruise,50.441085,30.452373,303.15,0.58,393.68,241.78,-310.68,1484,1516,1468,alt=303.15
+2026-04-16T17:19:05,Cruise,50.441075,30.452364,303.08,0.57,393.88,242.88,-310.08,1484,1516,1468,alt=303.08
+2026-04-16T17:19:05,Cruise,50.441055,30.452347,302.89,0.57,394.30,245.09,-308.88,1484,1516,1478,alt=302.89
+2026-04-16T17:19:05,Cruise,50.441046,30.452338,302.79,0.56,394.52,246.20,-308.28,1484,1516,1478,alt=302.79
+2026-04-16T17:19:06,Cruise,50.441036,30.452329,302.67,0.56,394.74,247.29,-307.68,1484,1516,1478,alt=302.67
+2026-04-16T17:19:06,Cruise,50.441016,30.452311,302.49,0.56,395.21,249.50,-306.49,1484,1516,1478,alt=302.49
+2026-04-16T17:19:06,Cruise,50.441007,30.452302,302.44,0.56,395.43,250.60,-305.89,1484,1516,1478,alt=302.44
+2026-04-16T17:19:07,Cruise,50.440987,30.452285,302.25,0.55,395.90,252.78,-304.70,1484,1516,1478,alt=302.25
+2026-04-16T17:19:07,Cruise,50.440978,30.452276,302.16,0.55,396.15,253.87,-304.10,1484,1516,1478,alt=302.16
+2026-04-16T17:19:08,Cruise,50.440968,30.452267,302.07,0.55,396.40,254.98,-303.51,1484,1516,1478,alt=302.07
+2026-04-16T17:19:08,Cruise,50.440948,30.452250,301.99,0.55,396.91,257.18,-302.31,1484,1516,1478,alt=301.99
+2026-04-16T17:19:08,Cruise,50.440939,30.452241,301.95,0.55,397.17,258.29,-301.71,1484,1516,1478,alt=301.95
+2026-04-16T17:19:09,Cruise,50.440929,30.452232,301.90,0.54,397.43,259.38,-301.11,1484,1516,1478,alt=301.90
+2026-04-16T17:19:09,Cruise,50.440909,30.452214,301.78,0.54,397.97,261.60,-299.91,1484,1516,1478,alt=301.78
+2026-04-16T17:19:09,Cruise,50.440900,30.452206,301.77,0.55,398.24,262.69,-299.31,1484,1516,1478,alt=301.77
+2026-04-16T17:19:10,Cruise,50.440880,30.452188,301.77,0.58,398.79,264.89,-298.10,1484,1516,1478,alt=301.77
+2026-04-16T17:19:10,Cruise,50.440870,30.452179,301.79,0.58,399.07,265.99,-297.50,1484,1516,1478,alt=301.79
+2026-04-16T17:19:10,Cruise,50.440851,30.452161,301.83,0.58,399.65,268.20,-296.29,1484,1516,1478,alt=301.83
+2026-04-16T17:19:11,Cruise,50.440841,30.452152,301.86,0.58,399.95,269.31,-295.69,1484,1516,1478,alt=301.86
+2026-04-16T17:19:11,Cruise,50.440831,30.452143,301.89,0.58,400.25,270.41,-295.09,1484,1516,1478,alt=301.89
+2026-04-16T17:19:11,Cruise,50.440812,30.452126,301.96,0.58,400.87,272.62,-293.89,1484,1516,1478,alt=301.96
+2026-04-16T17:19:12,Cruise,50.440802,30.452117,301.97,0.58,401.18,273.72,-293.30,1484,1516,1478,alt=301.97
+2026-04-16T17:19:12,Cruise,50.440782,30.452099,302.00,0.59,401.82,275.91,-292.11,1484,1516,1478,alt=302.00
+2026-04-16T17:19:12,Cruise,50.440773,30.452091,302.03,0.59,402.15,277.03,-291.52,1484,1516,1478,alt=302.03
+2026-04-16T17:19:13,Cruise,50.440763,30.452082,302.07,0.59,402.48,278.12,-290.92,1484,1516,1478,alt=302.07
+2026-04-16T17:19:13,Cruise,50.440743,30.452064,302.22,0.59,403.15,280.33,-289.73,1484,1516,1478,alt=302.22
+2026-04-16T17:19:13,Cruise,50.440734,30.452055,302.28,0.59,403.49,281.43,-289.14,1484,1516,1478,alt=302.28
+2026-04-16T17:19:14,Cruise,50.440714,30.452038,302.41,0.60,404.18,283.63,-287.95,1484,1516,1478,alt=302.41
+2026-04-16T17:19:14,Cruise,50.440704,30.452029,302.48,0.58,404.54,284.74,-287.36,1484,1516,1478,alt=302.48
+2026-04-16T17:19:15,Cruise,50.440694,30.452020,302.60,0.57,404.90,285.86,-286.76,1484,1516,1478,alt=302.60
+2026-04-16T17:19:15,Cruise,50.440675,30.452003,302.83,0.56,405.63,288.07,-285.57,1484,1516,1478,alt=302.83
+2026-04-16T17:19:15,Cruise,50.440665,30.451994,302.98,0.56,406.00,289.17,-284.98,1484,1516,1478,alt=302.98
+2026-04-16T17:19:16,Cruise,50.440645,30.451976,303.33,0.56,406.74,291.39,-283.79,1484,1516,1468,alt=303.33
+2026-04-16T17:19:16,Cruise,50.440635,30.451968,303.52,0.57,407.12,292.49,-283.19,1484,1516,1468,alt=303.52
+2026-04-16T17:19:16,Cruise,50.440626,30.451959,303.70,0.58,407.50,293.60,-282.59,1484,1516,1468,alt=303.70
+2026-04-16T17:19:17,Cruise,50.440606,30.451941,304.00,0.58,408.26,295.81,-281.38,1484,1516,1468,alt=304.00
+2026-04-16T17:19:17,Cruise,50.440596,30.451932,304.14,0.59,408.66,296.92,-280.78,1484,1516,1468,alt=304.14
+2026-04-16T17:19:17,Cruise,50.440577,30.451914,304.43,0.59,409.44,299.12,-279.58,1484,1516,1468,alt=304.43
+2026-04-16T17:19:18,Cruise,50.440567,30.451906,304.61,0.58,409.83,300.22,-278.99,1484,1516,1468,alt=304.61
+2026-04-16T17:19:18,Cruise,50.440557,30.451897,304.75,0.58,410.23,301.31,-278.39,1484,1516,1468,alt=304.75
+2026-04-16T17:19:18,Cruise,50.440538,30.451879,304.90,0.57,411.04,303.51,-277.20,1484,1516,1468,alt=304.90
+2026-04-16T17:19:19,Cruise,50.440528,30.451870,304.95,0.57,411.46,304.62,-276.59,1484,1516,1468,alt=304.95
+2026-04-16T17:19:19,Cruise,50.440509,30.451853,305.04,0.57,412.29,306.82,-275.40,1484,1516,1468,alt=305.04
+2026-04-16T17:19:19,Cruise,50.440499,30.451844,305.07,0.57,412.71,307.93,-274.80,1484,1516,1468,alt=305.07
+2026-04-16T17:19:20,Cruise,50.440489,30.451835,305.09,0.57,413.13,309.02,-274.19,1484,1516,1468,alt=305.09
+2026-04-16T17:19:20,Cruise,50.440470,30.451817,305.01,0.56,413.99,311.22,-272.99,1484,1516,1468,alt=305.01
+2026-04-16T17:19:20,Cruise,50.440460,30.451808,304.93,0.56,414.42,312.33,-272.39,1484,1516,1468,alt=304.93
+2026-04-16T17:19:21,Cruise,50.440440,30.451791,304.81,0.56,415.30,314.54,-271.18,1484,1516,1468,alt=304.81
+2026-04-16T17:19:21,Cruise,50.440430,30.451782,304.77,0.56,415.75,315.65,-270.59,1484,1516,1468,alt=304.77
+2026-04-16T17:19:22,Cruise,50.440411,30.451764,304.80,0.56,416.66,317.85,-269.39,1484,1516,1468,alt=304.80
+2026-04-16T17:19:22,Cruise,50.440401,30.451755,304.86,0.56,417.12,318.96,-268.81,1484,1516,1468,alt=304.86
+2026-04-16T17:19:22,Cruise,50.440391,30.451747,304.91,0.56,417.58,320.05,-268.21,1484,1516,1468,alt=304.91
+2026-04-16T17:19:23,Cruise,50.440372,30.451729,304.95,0.56,418.49,322.24,-267.02,1484,1516,1468,alt=304.95
+2026-04-16T17:19:23,Cruise,50.440362,30.451720,304.99,0.56,418.97,323.35,-266.42,1484,1516,1468,alt=304.99
+2026-04-16T17:19:23,Cruise,50.440353,30.451711,305.01,0.56,419.44,324.44,-265.83,1484,1516,1468,alt=305.01
+2026-04-16T17:19:24,Cruise,50.440333,30.451694,304.98,0.56,420.40,326.64,-264.66,1484,1516,1468,alt=304.98
+2026-04-16T17:19:24,Cruise,50.440323,30.451685,304.94,0.56,420.89,327.75,-264.07,1484,1516,1468,alt=304.94
+2026-04-16T17:19:24,Cruise,50.440304,30.451668,304.87,0.55,421.87,329.95,-262.88,1484,1516,1468,alt=304.87
+2026-04-16T17:19:25,Cruise,50.440294,30.451659,304.86,0.57,422.38,331.07,-262.29,1484,1516,1468,alt=304.86
+2026-04-16T17:19:25,Cruise,50.440274,30.451642,304.87,0.58,423.38,333.28,-261.10,1484,1516,1468,alt=304.87
+2026-04-16T17:19:25,Cruise,50.440264,30.451633,304.86,0.58,423.88,334.39,-260.50,1484,1516,1468,alt=304.86
+2026-04-16T17:19:26,Cruise,50.440255,30.451624,304.83,0.58,424.39,335.49,-259.90,1484,1516,1468,alt=304.83
+2026-04-16T17:19:26,Cruise,50.440235,30.451606,304.83,0.58,425.42,337.72,-258.71,1484,1516,1468,alt=304.83
+2026-04-16T17:19:26,Cruise,50.440225,30.451598,304.79,0.58,425.93,338.81,-258.11,1484,1516,1468,alt=304.79
+2026-04-16T17:19:27,Cruise,50.440205,30.451580,304.75,0.58,426.98,341.04,-256.92,1484,1516,1468,alt=304.75
+2026-04-16T17:19:27,Cruise,50.440196,30.451571,304.74,0.58,427.50,342.13,-256.32,1484,1516,1468,alt=304.74
+2026-04-16T17:19:28,Cruise,50.440186,30.451563,304.72,0.58,428.02,343.23,-255.74,1484,1516,1468,alt=304.72
+2026-04-16T17:19:28,Cruise,50.440167,30.451545,304.67,0.59,429.07,345.42,-254.54,1484,1516,1468,alt=304.67
+2026-04-16T17:19:28,Cruise,50.440157,30.451536,304.60,0.59,429.61,346.52,-253.95,1484,1516,1468,alt=304.60
+2026-04-16T17:19:29,Cruise,50.440137,30.451519,304.40,0.59,430.69,348.72,-252.76,1484,1516,1468,alt=304.40
+2026-04-16T17:19:29,Cruise,50.440128,30.451510,304.33,0.59,431.24,349.83,-252.16,1484,1516,1468,alt=304.33
+2026-04-16T17:19:29,Cruise,50.440118,30.451501,304.27,0.58,431.79,350.94,-251.56,1484,1516,1468,alt=304.27
+2026-04-16T17:19:30,Cruise,50.440098,30.451483,304.22,0.56,432.90,353.15,-250.37,1484,1516,1468,alt=304.22
+2026-04-16T17:19:30,Cruise,50.440088,30.451475,304.16,0.57,433.46,354.25,-249.79,1484,1516,1468,alt=304.16
+2026-04-16T17:19:30,Cruise,50.440069,30.451457,303.97,0.57,434.59,356.47,-248.60,1484,1516,1468,alt=303.97
+2026-04-16T17:19:31,Cruise,50.440059,30.451449,303.82,0.58,435.15,357.56,-248.01,1484,1516,1468,alt=303.82
+2026-04-16T17:19:31,Cruise,50.440049,30.451440,303.65,0.58,435.73,358.68,-247.41,1484,1516,1468,alt=303.65
+2026-04-16T17:19:31,Cruise,50.440030,30.451422,303.33,0.58,436.88,360.89,-246.22,1484,1516,1468,alt=303.33
+2026-04-16T17:19:32,Cruise,50.440020,30.451413,303.23,0.58,437.46,362.00,-245.62,1484,1516,1468,alt=303.23
+2026-04-16T17:19:32,Cruise,50.440000,30.451396,303.05,0.58,438.63,364.21,-244.43,1484,1516,1468,alt=303.05
+2026-04-16T17:19:32,Cruise,50.439990,30.451387,302.96,0.58,439.22,365.32,-243.84,1484,1516,1478,alt=302.96
+2026-04-16T17:19:33,Cruise,50.439981,30.451378,302.92,0.57,439.80,366.41,-243.25,1484,1516,1478,alt=302.92
+2026-04-16T17:19:33,Cruise,50.439961,30.451361,302.91,0.57,440.99,368.62,-242.05,1484,1516,1478,alt=302.91
+2026-04-16T17:19:33,Cruise,50.439951,30.451352,302.94,0.58,441.59,369.72,-241.47,1484,1516,1478,alt=302.94
+2026-04-16T17:19:34,Cruise,50.439932,30.451334,303.01,0.58,442.78,371.92,-240.27,1484,1516,1468,alt=303.01
+2026-04-16T17:19:34,Cruise,50.439922,30.451325,303.03,0.57,443.39,373.03,-239.68,1484,1516,1468,alt=303.03
+2026-04-16T17:19:35,Cruise,50.439912,30.451317,303.05,0.56,444.00,374.13,-239.09,1484,1516,1468,alt=303.05
+2026-04-16T17:19:35,Cruise,50.439893,30.451299,303.14,0.56,445.23,376.35,-237.89,1484,1516,1468,alt=303.14
+2026-04-16T17:19:35,Cruise,50.439883,30.451290,303.18,0.57,445.85,377.46,-237.28,1484,1516,1468,alt=303.18
+2026-04-16T17:19:36,Cruise,50.439863,30.451273,303.24,0.58,447.10,379.69,-236.08,1484,1516,1468,alt=303.24
+2026-04-16T17:19:36,Cruise,50.439853,30.451264,303.24,0.58,447.72,380.79,-235.48,1484,1516,1468,alt=303.24
+2026-04-16T17:19:36,Cruise,50.439844,30.451255,303.22,0.58,448.35,381.90,-234.89,1484,1516,1468,alt=303.22
+2026-04-16T17:19:37,Cruise,50.439824,30.451237,303.16,0.58,449.62,384.12,-233.68,1484,1516,1468,alt=303.16
+2026-04-16T17:19:37,Cruise,50.439814,30.451228,303.12,0.58,450.25,385.23,-233.08,1484,1516,1468,alt=303.12
+2026-04-16T17:19:37,Cruise,50.439794,30.451210,302.92,0.58,451.55,387.46,-231.88,1484,1516,1478,alt=302.92
+2026-04-16T17:19:38,Cruise,50.439784,30.451202,302.84,0.58,452.21,388.58,-231.29,1484,1516,1478,alt=302.84
+2026-04-16T17:19:38,Cruise,50.439774,30.451193,302.77,0.57,452.86,389.69,-230.70,1484,1516,1478,alt=302.77
+2026-04-16T17:19:38,Cruise,50.439755,30.451176,302.64,0.58,454.15,391.89,-229.51,1484,1516,1478,alt=302.64
+2026-04-16T17:19:39,Cruise,50.439745,30.451167,302.58,0.58,454.81,393.00,-228.92,1484,1516,1478,alt=302.58
+2026-04-16T17:19:39,Cruise,50.439726,30.451149,302.56,0.58,456.12,395.20,-227.73,1484,1516,1478,alt=302.56
+2026-04-16T17:19:39,Cruise,50.439716,30.451140,302.55,0.59,456.79,396.31,-227.13,1484,1516,1478,alt=302.55
+2026-04-16T17:19:40,Cruise,50.439706,30.451132,302.56,0.59,457.44,397.41,-226.54,1484,1516,1478,alt=302.56
+2026-04-16T17:19:40,Cruise,50.439687,30.451114,302.59,0.58,458.79,399.62,-225.36,1484,1516,1478,alt=302.59
+2026-04-16T17:19:40,Cruise,50.439677,30.451105,302.61,0.57,459.46,400.73,-224.76,1484,1516,1478,alt=302.61
+2026-04-16T17:19:41,Cruise,50.439657,30.451088,302.71,0.57,460.81,402.94,-223.58,1484,1516,1478,alt=302.71
+2026-04-16T17:19:41,Cruise,50.439647,30.451079,302.80,0.57,461.49,404.05,-222.98,1484,1516,1478,alt=302.80
+2026-04-16T17:19:42,Cruise,50.439637,30.451070,302.88,0.56,462.18,405.16,-222.39,1484,1516,1478,alt=302.88
+2026-04-16T17:19:42,Cruise,50.439618,30.451053,303.00,0.56,463.56,407.39,-221.19,1484,1516,1468,alt=303.00
+2026-04-16T17:19:42,Cruise,50.439608,30.451044,303.07,0.56,464.25,408.49,-220.59,1484,1516,1468,alt=303.07
+2026-04-16T17:19:43,Cruise,50.439588,30.451026,303.20,0.56,465.63,410.71,-219.39,1484,1516,1468,alt=303.20
+2026-04-16T17:19:43,Cruise,50.439579,30.451017,303.21,0.56,466.33,411.81,-218.79,1484,1516,1468,alt=303.21
+2026-04-16T17:19:43,Cruise,50.439569,30.451009,303.22,0.56,467.01,412.91,-218.20,1484,1516,1468,alt=303.22
+2026-04-16T17:19:44,Cruise,50.439549,30.450991,303.22,0.56,468.41,415.12,-217.00,1484,1516,1468,alt=303.22
+2026-04-16T17:19:44,Cruise,50.439540,30.450982,303.25,0.56,469.11,416.22,-216.40,1484,1516,1468,alt=303.25
+2026-04-16T17:19:44,Cruise,50.439520,30.450964,303.35,0.57,470.53,418.43,-215.21,1484,1516,1468,alt=303.35
+2026-04-16T17:19:45,Cruise,50.439510,30.450956,303.40,0.57,471.24,419.53,-214.61,1484,1516,1468,alt=303.40
+2026-04-16T17:19:45,Cruise,50.439500,30.450947,303.46,0.57,471.95,420.64,-214.02,1484,1516,1468,alt=303.46
+2026-04-16T17:19:45,Cruise,50.439481,30.450929,303.51,0.57,473.39,422.85,-212.82,1484,1516,1468,alt=303.51
+2026-04-16T17:19:46,Cruise,50.439471,30.450920,303.56,0.56,474.12,423.97,-212.23,1484,1516,1468,alt=303.56
+2026-04-16T17:19:46,Cruise,50.439451,30.450903,303.65,0.56,475.57,426.18,-211.03,1484,1516,1468,alt=303.65
+2026-04-16T17:19:46,Cruise,50.439441,30.450894,303.67,0.56,476.30,427.30,-210.43,1484,1516,1468,alt=303.67
+2026-04-16T17:19:47,Cruise,50.439431,30.450885,303.67,0.56,477.04,428.41,-209.84,1484,1516,1468,alt=303.67
+2026-04-16T17:19:47,Cruise,50.439412,30.450868,303.71,0.56,478.50,430.62,-208.65,1484,1516,1468,alt=303.71
+2026-04-16T17:19:48,Cruise,50.439402,30.450859,303.74,0.56,479.24,431.72,-208.05,1484,1516,1468,alt=303.74
+2026-04-16T17:19:48,Cruise,50.439382,30.450841,303.77,0.56,480.73,433.95,-206.85,1484,1516,1468,alt=303.77
+2026-04-16T17:19:48,Cruise,50.439373,30.450832,303.78,0.56,481.47,435.05,-206.25,1484,1516,1468,alt=303.78
+2026-04-16T17:19:49,Cruise,50.439363,30.450823,303.79,0.57,482.21,436.16,-205.65,1484,1516,1468,alt=303.79
+2026-04-16T17:19:49,Cruise,50.439343,30.450806,303.78,0.57,483.70,438.36,-204.46,1484,1516,1468,alt=303.78
+2026-04-16T17:19:49,Cruise,50.439333,30.450797,303.76,0.57,484.45,439.47,-203.86,1484,1516,1468,alt=303.76
+2026-04-16T17:19:50,Cruise,50.439314,30.450779,303.71,0.57,485.96,441.68,-202.67,1484,1516,1468,alt=303.71
+2026-04-16T17:19:50,Cruise,50.439304,30.450771,303.69,0.57,486.72,442.79,-202.08,1484,1516,1468,alt=303.69
+2026-04-16T17:19:50,Cruise,50.439284,30.450753,303.66,0.58,488.25,445.01,-200.87,1484,1516,1468,alt=303.66
+2026-04-16T17:19:51,Cruise,50.439275,30.450744,303.68,0.58,489.01,446.12,-200.27,1484,1516,1468,alt=303.68
+2026-04-16T17:19:51,Cruise,50.439265,30.450735,303.69,0.58,489.77,447.22,-199.66,1485,1516,1468,alt=303.69
+2026-04-16T17:19:51,Cruise,50.439245,30.450717,303.69,0.58,491.30,449.44,-198.46,1485,1516,1468,alt=303.69
+2026-04-16T17:19:52,Cruise,50.439235,30.450708,303.64,0.58,492.07,450.54,-197.85,1485,1516,1468,alt=303.64
+2026-04-16T17:19:52,Cruise,50.439216,30.450691,303.49,0.57,493.62,452.76,-196.65,1485,1516,1468,alt=303.49
+2026-04-16T17:19:52,Cruise,50.439206,30.450682,303.39,0.57,494.40,453.86,-196.06,1485,1516,1468,alt=303.39
+2026-04-16T17:19:53,Cruise,50.439196,30.450673,303.26,0.58,495.19,454.98,-195.45,1485,1516,1468,alt=303.26
+2026-04-16T17:19:53,Cruise,50.439177,30.450655,303.11,0.58,496.75,457.19,-194.25,1485,1516,1468,alt=303.11
+2026-04-16T17:19:53,Cruise,50.439167,30.450646,303.02,0.58,497.52,458.29,-193.66,1485,1516,1468,alt=303.02
+2026-04-16T17:19:54,Cruise,50.439147,30.450629,302.85,0.59,499.09,460.49,-192.46,1485,1516,1478,alt=302.85
+2026-04-16T17:19:54,Cruise,50.439137,30.450620,302.80,0.57,499.89,461.61,-191.86,1485,1516,1478,alt=302.80
+2026-04-16T17:19:55,Cruise,50.439128,30.450611,302.78,0.57,500.67,462.70,-191.26,1481,1520,1478,alt=302.78
+2026-04-16T17:19:55,Cruise,50.439108,30.450593,302.69,0.57,502.26,464.91,-190.06,1481,1520,1478,alt=302.69
+2026-04-16T17:19:55,Cruise,50.439098,30.450585,302.65,0.57,503.06,466.02,-189.46,1482,1520,1478,alt=302.65
+2026-04-16T17:19:56,Cruise,50.439079,30.450567,302.60,0.57,504.65,468.22,-188.26,1482,1520,1478,alt=302.60
+2026-04-16T17:19:56,Cruise,50.439069,30.450558,302.59,0.58,505.46,469.33,-187.66,1482,1520,1478,alt=302.59
+2026-04-16T17:19:56,Cruise,50.439059,30.450549,302.58,0.58,506.26,470.44,-187.05,1482,1520,1478,alt=302.58
+2026-04-16T17:19:57,Cruise,50.439040,30.450531,302.39,0.58,507.87,472.64,-185.85,1482,1520,1478,alt=302.39
+2026-04-16T17:19:57,Cruise,50.439030,30.450522,302.31,0.59,508.68,473.74,-185.25,1482,1520,1478,alt=302.31
+2026-04-16T17:19:57,Cruise,50.439010,30.450505,302.26,0.57,510.29,475.95,-184.04,1482,1520,1478,alt=302.26
+2026-04-16T17:19:58,Cruise,50.439001,30.450496,302.29,0.57,511.09,477.04,-183.44,1482,1520,1478,alt=302.29
+2026-04-16T17:19:58,Cruise,50.438991,30.450487,302.34,0.57,511.90,478.14,-182.84,1482,1520,1478,alt=302.34
+2026-04-16T17:19:58,Cruise,50.438971,30.450469,302.42,0.57,513.54,480.35,-181.63,1482,1520,1478,alt=302.42
+2026-04-16T17:19:59,Cruise,50.438962,30.450460,302.39,0.57,514.34,481.43,-181.03,1482,1520,1478,alt=302.39
+2026-04-16T17:19:59,Cruise,50.438942,30.450442,302.33,0.58,515.97,483.62,-179.82,1483,1520,1478,alt=302.33
+2026-04-16T17:19:59,Cruise,50.438933,30.450433,302.29,0.58,516.79,484.72,-179.21,1483,1520,1478,alt=302.29
+2026-04-16T17:20:00,Cruise,50.438923,30.450425,302.22,0.59,517.61,485.81,-178.61,1483,1520,1478,alt=302.22
+2026-04-16T17:20:00,Cruise,50.438904,30.450406,302.23,0.59,519.26,488.02,-177.39,1483,1520,1478,alt=302.23
+2026-04-16T17:20:01,Cruise,50.438894,30.450398,302.27,0.57,520.09,489.12,-176.79,1483,1520,1478,alt=302.27
+2026-04-16T17:20:01,Cruise,50.438874,30.450380,302.32,0.55,521.74,491.31,-175.57,1483,1520,1478,alt=302.32
+2026-04-16T17:20:01,Cruise,50.438865,30.450371,302.37,0.55,522.58,492.42,-174.97,1483,1520,1478,alt=302.37
+2026-04-16T17:20:02,Cruise,50.438845,30.450353,302.55,0.56,524.26,494.63,-173.75,1483,1520,1478,alt=302.55
+2026-04-16T17:20:02,Cruise,50.438835,30.450344,302.65,0.56,525.10,495.73,-173.16,1483,1520,1478,alt=302.65
+2026-04-16T17:20:02,Cruise,50.438825,30.450335,302.74,0.56,525.95,496.85,-172.55,1483,1520,1478,alt=302.74
+2026-04-16T17:20:03,Cruise,50.438806,30.450317,302.87,0.57,527.64,499.05,-171.33,1483,1520,1478,alt=302.87
+2026-04-16T17:20:03,Cruise,50.438796,30.450308,302.91,0.58,528.49,500.15,-170.73,1483,1520,1478,alt=302.91
+2026-04-16T17:20:03,Cruise,50.438777,30.450291,303.06,0.59,530.18,502.34,-169.53,1484,1520,1468,alt=303.06
+2026-04-16T17:20:04,Cruise,50.438767,30.450282,303.19,0.58,531.04,503.45,-168.93,1484,1520,1468,alt=303.19
+2026-04-16T17:20:04,Cruise,50.438757,30.450273,303.31,0.57,531.88,504.55,-168.33,1484,1520,1468,alt=303.31
+2026-04-16T17:20:04,Cruise,50.438738,30.450255,303.58,0.55,533.58,506.74,-167.12,1484,1520,1468,alt=303.58
+2026-04-16T17:20:05,Cruise,50.438728,30.450246,303.70,0.55,534.44,507.83,-166.52,1484,1520,1468,alt=303.70
+2026-04-16T17:20:05,Cruise,50.438709,30.450228,303.88,0.55,536.14,510.02,-165.31,1484,1520,1468,alt=303.88
+2026-04-16T17:20:05,Cruise,50.438699,30.450219,303.94,0.55,536.99,511.11,-164.71,1484,1520,1468,alt=303.94
+2026-04-16T17:20:06,Cruise,50.438689,30.450211,304.05,0.56,537.85,512.20,-164.10,1484,1520,1468,alt=304.05
+2026-04-16T17:20:06,Cruise,50.438670,30.450193,304.15,0.57,539.56,514.38,-162.90,1484,1520,1468,alt=304.15
+2026-04-16T17:20:06,Cruise,50.438660,30.450184,304.24,0.57,540.42,515.48,-162.28,1484,1520,1468,alt=304.24
+2026-04-16T17:20:07,Cruise,50.438641,30.450166,304.39,0.58,542.14,517.67,-161.06,1484,1520,1468,alt=304.39
+2026-04-16T17:20:07,Cruise,50.438631,30.450157,304.43,0.58,543.01,518.76,-160.45,1484,1520,1468,alt=304.43
+2026-04-16T17:20:08,Cruise,50.438622,30.450148,304.48,0.58,543.88,519.86,-159.84,1485,1520,1468,alt=304.48
+2026-04-16T17:20:08,Cruise,50.438602,30.450130,304.61,0.56,545.60,522.04,-158.62,1485,1520,1468,alt=304.61
+2026-04-16T17:20:08,Cruise,50.438592,30.450121,304.66,0.56,546.48,523.13,-158.02,1485,1520,1468,alt=304.66
+2026-04-16T17:20:09,Cruise,50.438573,30.450103,304.76,0.56,548.22,525.32,-156.79,1485,1520,1468,alt=304.76
+2026-04-16T17:20:09,Cruise,50.438563,30.450094,304.77,0.56,549.10,526.42,-156.18,1485,1520,1468,alt=304.77
+2026-04-16T17:20:09,Cruise,50.438554,30.450085,304.71,0.56,549.98,527.52,-155.57,1485,1520,1468,alt=304.71
+2026-04-16T17:20:10,Cruise,50.438534,30.450067,304.65,0.57,551.73,529.70,-154.36,1485,1520,1468,alt=304.65
+2026-04-16T17:20:10,Cruise,50.438525,30.450058,304.66,0.57,552.60,530.78,-153.75,1485,1520,1468,alt=304.66
+2026-04-16T17:20:10,Cruise,50.438505,30.450040,304.64,0.58,554.36,532.96,-152.55,1485,1520,1468,alt=304.64
+2026-04-16T17:20:11,Cruise,50.438496,30.450031,304.62,0.58,555.25,534.05,-151.94,1485,1520,1468,alt=304.62
+2026-04-16T17:20:11,Cruise,50.438486,30.450022,304.61,0.59,556.12,535.14,-151.33,1485,1520,1468,alt=304.61
+2026-04-16T17:20:11,Cruise,50.438467,30.450004,304.69,0.56,557.88,537.31,-150.10,1485,1520,1468,alt=304.69
+2026-04-16T17:20:12,Cruise,50.438457,30.449995,304.74,0.56,558.77,538.40,-149.49,1486,1520,1468,alt=304.74
+2026-04-16T17:20:12,Cruise,50.438438,30.449977,304.80,0.56,560.54,540.57,-148.28,1486,1520,1468,alt=304.80
+2026-04-16T17:20:12,Cruise,50.438428,30.449968,304.81,0.56,561.43,541.67,-147.67,1486,1520,1468,alt=304.81
+2026-04-16T17:20:13,Cruise,50.438419,30.449959,304.80,0.56,562.33,542.76,-147.06,1486,1520,1468,alt=304.80
+2026-04-16T17:20:13,Cruise,50.438399,30.449941,304.77,0.57,564.12,544.94,-145.83,1486,1520,1468,alt=304.77
+2026-04-16T17:20:14,Cruise,50.438390,30.449932,304.72,0.57,565.01,546.03,-145.22,1486,1520,1468,alt=304.72
+2026-04-16T17:20:14,Cruise,50.438371,30.449914,304.68,0.58,566.79,548.20,-143.99,1486,1520,1468,alt=304.68
+2026-04-16T17:20:14,Cruise,50.438361,30.449905,304.63,0.59,567.69,549.28,-143.39,1486,1520,1468,alt=304.63
+2026-04-16T17:20:15,Cruise,50.438352,30.449897,304.56,0.58,568.57,550.35,-142.79,1486,1520,1468,alt=304.56
+2026-04-16T17:20:15,Cruise,50.438332,30.449879,304.42,0.55,570.36,552.51,-141.56,1486,1520,1468,alt=304.42
+2026-04-16T17:20:15,Cruise,50.438323,30.449870,304.35,0.55,571.26,553.59,-140.96,1486,1520,1468,alt=304.35
+2026-04-16T17:20:16,Cruise,50.438304,30.449852,304.29,0.55,573.05,555.75,-139.74,1487,1520,1468,alt=304.29
+2026-04-16T17:20:16,Cruise,50.438294,30.449843,304.26,0.55,573.96,556.84,-139.14,1487,1520,1468,alt=304.26
+2026-04-16T17:20:16,Cruise,50.438285,30.449834,304.20,0.56,574.86,557.92,-138.54,1487,1520,1468,alt=304.20
+2026-04-16T17:20:17,Cruise,50.438265,30.449816,304.05,0.57,576.68,560.09,-137.33,1487,1520,1468,alt=304.05
+2026-04-16T17:20:17,Cruise,50.438256,30.449807,304.00,0.57,577.60,561.18,-136.72,1487,1520,1468,alt=304.00
+2026-04-16T17:20:17,Cruise,50.438236,30.449789,303.84,0.58,579.43,563.36,-135.52,1487,1520,1468,alt=303.84
+2026-04-16T17:20:18,Cruise,50.438227,30.449780,303.75,0.57,580.34,564.45,-134.91,1487,1520,1468,alt=303.75
+2026-04-16T17:20:18,Cruise,50.438207,30.449763,303.59,0.56,582.19,566.63,-133.70,1487,1520,1468,alt=303.59
+2026-04-16T17:20:18,Cruise,50.438198,30.449754,303.53,0.56,583.11,567.72,-133.09,1487,1520,1468,alt=303.53
+2026-04-16T17:20:19,Cruise,50.438188,30.449745,303.49,0.56,584.03,568.81,-132.48,1487,1520,1468,alt=303.49
+2026-04-16T17:20:19,Cruise,50.438169,30.449727,303.48,0.57,585.89,571.00,-131.25,1487,1520,1468,alt=303.48
+2026-04-16T17:20:19,Cruise,50.438159,30.449718,303.47,0.58,586.82,572.09,-130.65,1487,1520,1468,alt=303.47
+2026-04-16T17:20:20,Cruise,50.438149,30.449709,303.48,0.57,587.74,573.18,-130.04,1487,1520,1468,alt=303.48
+2026-04-16T17:20:20,Cruise,50.438130,30.449691,303.43,0.56,589.59,575.35,-128.82,1488,1520,1468,alt=303.43
+2026-04-16T17:20:21,Cruise,50.438121,30.449682,303.42,0.57,590.52,576.43,-128.22,1488,1520,1468,alt=303.42
+2026-04-16T17:20:21,Cruise,50.438101,30.449664,303.45,0.57,592.37,578.60,-127.01,1488,1520,1468,alt=303.45
+2026-04-16T17:20:21,Cruise,50.438092,30.449655,303.47,0.58,593.30,579.68,-126.39,1488,1520,1468,alt=303.47
+2026-04-16T17:20:22,Cruise,50.438073,30.449637,303.47,0.57,595.16,581.85,-125.17,1488,1520,1468,alt=303.47
+2026-04-16T17:20:22,Cruise,50.438063,30.449628,303.48,0.56,596.10,582.94,-124.56,1488,1520,1468,alt=303.48
+2026-04-16T17:20:22,Cruise,50.438053,30.449619,303.49,0.55,597.04,584.03,-123.94,1488,1520,1468,alt=303.49
+2026-04-16T17:20:23,Cruise,50.438034,30.449601,303.48,0.56,598.91,586.20,-122.71,1488,1520,1468,alt=303.48
+2026-04-16T17:20:23,Cruise,50.438024,30.449592,303.50,0.57,599.85,587.30,-122.10,1488,1520,1468,alt=303.50
+2026-04-16T17:20:23,Cruise,50.438005,30.449573,303.55,0.56,601.75,589.49,-120.85,1488,1520,1468,alt=303.55
+2026-04-16T17:20:24,Cruise,50.437995,30.449564,303.55,0.56,602.68,590.57,-120.22,1488,1520,1468,alt=303.55
+2026-04-16T17:20:24,Cruise,50.437986,30.449555,303.52,0.56,603.62,591.66,-119.60,1489,1520,1468,alt=303.52
+2026-04-16T17:20:24,Cruise,50.437967,30.449537,303.47,0.57,605.51,593.84,-118.35,1489,1520,1468,alt=303.47
+2026-04-16T17:20:25,Cruise,50.437957,30.449527,303.42,0.57,606.46,594.92,-117.73,1489,1520,1468,alt=303.42
+2026-04-16T17:20:25,Cruise,50.437938,30.449509,303.32,0.58,608.35,597.09,-116.49,1489,1520,1468,alt=303.32
+2026-04-16T17:20:25,Cruise,50.437928,30.449500,303.34,0.58,609.29,598.18,-115.87,1489,1520,1468,alt=303.34
+2026-04-16T17:20:26,Cruise,50.437919,30.449491,303.37,0.58,610.23,599.25,-115.25,1489,1520,1468,alt=303.37
+2026-04-16T17:20:26,Cruise,50.437900,30.449473,303.44,0.55,612.12,601.41,-114.02,1489,1520,1468,alt=303.44
+2026-04-16T17:20:26,Cruise,50.437890,30.449464,303.47,0.54,613.07,602.49,-113.40,1489,1520,1468,alt=303.47
+2026-04-16T17:20:27,Cruise,50.437871,30.449445,303.39,0.54,614.96,604.65,-112.16,1489,1520,1468,alt=303.39
+2026-04-16T17:20:27,Cruise,50.437861,30.449436,303.32,0.54,615.92,605.73,-111.54,1489,1520,1468,alt=303.32
+2026-04-16T17:20:28,Cruise,50.437852,30.449427,303.26,0.55,616.88,606.83,-110.91,1489,1520,1468,alt=303.26
+2026-04-16T17:20:28,Cruise,50.437832,30.449409,303.13,0.56,618.79,609.00,-109.66,1490,1520,1468,alt=303.13
+2026-04-16T17:20:28,Cruise,50.437823,30.449400,303.07,0.56,619.75,610.08,-109.04,1490,1520,1468,alt=303.07
+2026-04-16T17:20:29,Cruise,50.437803,30.449381,302.91,0.57,621.68,612.26,-107.79,1490,1520,1478,alt=302.91
+2026-04-16T17:20:29,Cruise,50.437794,30.449372,302.81,0.57,622.64,613.35,-107.17,1490,1520,1478,alt=302.81
+2026-04-16T17:20:29,Cruise,50.437784,30.449363,302.73,0.58,623.61,614.44,-106.54,1490,1520,1478,alt=302.73
+2026-04-16T17:20:30,Cruise,50.437765,30.449344,302.61,0.56,625.57,616.65,-105.29,1490,1520,1478,alt=302.61
+2026-04-16T17:20:30,Cruise,50.437755,30.449335,302.56,0.56,626.54,617.73,-104.67,1490,1520,1478,alt=302.56
+2026-04-16T17:20:30,Cruise,50.437736,30.449317,302.50,0.55,628.48,619.91,-103.43,1490,1520,1478,alt=302.50
+2026-04-16T17:20:31,Cruise,50.437726,30.449308,302.48,0.55,629.45,621.00,-102.81,1490,1520,1478,alt=302.48
+2026-04-16T17:20:31,Cruise,50.437717,30.449299,302.41,0.56,630.42,622.08,-102.20,1490,1520,1478,alt=302.41
+2026-04-16T17:20:31,Cruise,50.437697,30.449281,302.38,0.56,632.36,624.25,-100.97,1490,1520,1478,alt=302.38
+2026-04-16T17:20:32,Cruise,50.437688,30.449272,302.39,0.56,633.34,625.33,-100.36,1490,1520,1478,alt=302.39
+2026-04-16T17:20:32,Cruise,50.437668,30.449254,302.52,0.57,635.30,627.51,-99.13,1491,1520,1478,alt=302.52
+2026-04-16T17:20:32,Cruise,50.437659,30.449245,302.63,0.58,636.27,628.60,-98.52,1491,1520,1478,alt=302.63
+2026-04-16T17:20:33,Cruise,50.437649,30.449236,302.72,0.58,637.26,629.69,-97.90,1491,1520,1478,alt=302.72
+2026-04-16T17:20:33,Cruise,50.437630,30.449217,302.96,0.57,639.21,631.85,-96.68,1491,1520,1478,alt=302.96
+2026-04-16T17:20:34,Cruise,50.437620,30.449209,303.08,0.56,640.20,632.95,-96.06,1491,1520,1468,alt=303.08
+2026-04-16T17:20:34,Cruise,50.437601,30.449191,303.31,0.56,642.16,635.12,-94.84,1491,1520,1468,alt=303.31
+2026-04-16T17:20:34,Cruise,50.437592,30.449182,303.39,0.56,643.14,636.20,-94.23,1491,1520,1468,alt=303.39
+2026-04-16T17:20:35,Cruise,50.437582,30.449172,303.46,0.56,644.12,637.29,-93.62,1491,1520,1468,alt=303.46
+2026-04-16T17:20:35,Cruise,50.437563,30.449154,303.56,0.57,646.09,639.45,-92.39,1491,1520,1468,alt=303.56
+2026-04-16T17:20:35,Cruise,50.437553,30.449145,303.61,0.57,647.08,640.54,-91.78,1491,1520,1468,alt=303.61
+2026-04-16T17:20:36,Cruise,50.437534,30.449127,303.62,0.56,649.05,642.71,-90.55,1491,1520,1468,alt=303.62
+2026-04-16T17:20:36,Cruise,50.437524,30.449118,303.57,0.55,650.04,643.79,-89.93,1492,1520,1468,alt=303.57
+2026-04-16T17:20:36,Cruise,50.437515,30.449109,303.48,0.55,651.04,644.89,-89.32,1492,1520,1468,alt=303.48
+2026-04-16T17:20:37,Cruise,50.437495,30.449091,303.32,0.55,653.04,647.07,-88.09,1492,1520,1468,alt=303.32
+2026-04-16T17:20:37,Cruise,50.437486,30.449082,303.22,0.55,654.03,648.15,-87.48,1492,1520,1468,alt=303.22
+2026-04-16T17:20:37,Cruise,50.437466,30.449064,303.06,0.56,656.03,650.33,-86.26,1492,1520,1468,alt=303.06
+2026-04-16T17:20:38,Cruise,50.437457,30.449055,302.98,0.56,657.03,651.43,-85.65,1492,1520,1478,alt=302.98
+2026-04-16T17:20:38,Cruise,50.437437,30.449037,302.89,0.57,659.05,653.62,-84.43,1492,1520,1478,alt=302.89
+2026-04-16T17:20:38,Cruise,50.437428,30.449028,302.87,0.57,660.04,654.70,-83.81,1492,1520,1478,alt=302.87
+2026-04-16T17:20:39,Cruise,50.437418,30.449019,302.85,0.58,661.05,655.80,-83.19,1492,1520,1478,alt=302.85
+2026-04-16T17:20:39,Cruise,50.437399,30.449001,302.83,0.58,663.06,657.98,-81.96,1492,1520,1478,alt=302.83
+2026-04-16T17:20:39,Cruise,50.437389,30.448992,302.87,0.57,664.06,659.06,-81.35,1492,1520,1478,alt=302.87
+2026-04-16T17:20:40,Cruise,50.437379,30.448983,302.90,0.55,665.06,660.15,-80.73,1492,1520,1478,alt=302.90
+2026-04-16T17:20:40,Cruise,50.437360,30.448964,302.91,0.54,667.06,662.30,-79.50,1493,1520,1478,alt=302.91
+2026-04-16T17:20:41,Cruise,50.437342,30.448946,302.90,0.54,669.03,664.44,-78.27,1493,1520,1478,alt=302.90
+2026-04-16T17:20:41,Cruise,50.437332,30.448937,302.91,0.55,670.04,665.52,-77.65,1493,1520,1478,alt=302.91
+2026-04-16T17:20:41,Cruise,50.437322,30.448928,302.98,0.55,671.04,666.60,-77.04,1493,1520,1478,alt=302.98
+2026-04-16T17:20:42,Cruise,50.437303,30.448910,303.11,0.55,673.04,668.76,-75.82,1493,1520,1468,alt=303.11
+2026-04-16T17:20:42,Cruise,50.437294,30.448901,303.13,0.56,674.05,669.84,-75.20,1493,1520,1468,alt=303.13
+2026-04-16T17:20:42,Cruise,50.437275,30.448883,303.21,0.56,676.06,672.00,-73.97,1493,1520,1468,alt=303.21
+2026-04-16T17:20:43,Cruise,50.437265,30.448874,303.27,0.57,677.07,673.08,-73.36,1493,1520,1468,alt=303.27
+2026-04-16T17:20:43,Cruise,50.437255,30.448865,303.31,0.57,678.08,674.17,-72.74,1493,1520,1468,alt=303.31
+2026-04-16T17:20:43,Cruise,50.437236,30.448847,303.42,0.57,680.11,676.34,-71.51,1493,1520,1468,alt=303.42
+2026-04-16T17:20:44,Cruise,50.437227,30.448838,303.48,0.58,681.12,677.42,-70.90,1493,1520,1468,alt=303.48
+2026-04-16T17:20:44,Cruise,50.437217,30.448829,303.54,0.56,682.13,678.50,-70.28,1493,1520,1468,alt=303.54
+2026-04-16T17:20:44,Cruise,50.437198,30.448811,303.59,0.54,684.15,680.66,-69.04,1494,1520,1468,alt=303.59
+2026-04-16T17:20:45,Cruise,50.437188,30.448801,303.61,0.54,685.17,681.75,-68.42,1494,1520,1468,alt=303.61
+2026-04-16T17:20:45,Cruise,50.437169,30.448783,303.63,0.54,687.20,683.90,-67.19,1494,1520,1468,alt=303.63
+2026-04-16T17:20:45,Cruise,50.437160,30.448774,303.63,0.54,688.22,684.99,-66.58,1494,1520,1468,alt=303.63
+2026-04-16T17:20:46,Cruise,50.437140,30.448756,303.60,0.55,690.26,687.16,-65.35,1494,1520,1468,alt=303.60
+2026-04-16T17:20:46,Cruise,50.437131,30.448747,303.56,0.55,691.28,688.24,-64.74,1494,1520,1468,alt=303.56
+2026-04-16T17:20:47,Cruise,50.437121,30.448738,303.52,0.56,692.30,689.33,-64.13,1494,1520,1468,alt=303.52
+2026-04-16T17:20:47,Cruise,50.437102,30.448720,303.35,0.57,694.34,691.48,-62.91,1494,1520,1468,alt=303.35
+2026-04-16T17:20:47,Cruise,50.437093,30.448711,303.26,0.57,695.35,692.56,-62.30,1494,1520,1468,alt=303.26
+2026-04-16T17:20:48,Cruise,50.437073,30.448693,303.04,0.57,697.39,694.71,-61.08,1494,1520,1468,alt=303.04
+2026-04-16T17:20:48,Cruise,50.437064,30.448684,302.93,0.56,698.42,695.80,-60.47,1494,1520,1478,alt=302.93
+2026-04-16T17:20:48,Cruise,50.437054,30.448675,302.84,0.55,699.46,696.89,-59.86,1495,1520,1478,alt=302.84
+2026-04-16T17:20:49,Cruise,50.437035,30.448657,302.72,0.54,701.54,699.09,-58.64,1495,1520,1478,alt=302.72
+2026-04-16T17:20:49,Cruise,50.437025,30.448648,302.63,0.55,702.58,700.18,-58.03,1495,1520,1478,alt=302.63
+2026-04-16T17:20:49,Cruise,50.437006,30.448630,302.44,0.55,704.67,702.37,-56.81,1495,1520,1478,alt=302.44
+2026-04-16T17:20:50,Cruise,50.436996,30.448621,302.37,0.55,705.70,703.46,-56.19,1495,1520,1478,alt=302.37
+2026-04-16T17:20:50,Cruise,50.436987,30.448612,302.31,0.56,706.73,704.54,-55.58,1495,1520,1478,alt=302.31
+2026-04-16T17:20:50,Cruise,50.436967,30.448594,302.25,0.56,708.82,706.73,-54.36,1495,1520,1478,alt=302.25
+2026-04-16T17:20:51,Cruise,50.436957,30.448585,302.22,0.56,709.85,707.82,-53.75,1495,1520,1478,alt=302.22
+2026-04-16T17:20:51,Cruise,50.436938,30.448567,302.26,0.55,711.94,710.00,-52.53,1495,1520,1478,alt=302.26
+2026-04-16T17:20:51,Cruise,50.436929,30.448559,302.33,0.55,712.97,711.08,-51.93,1495,1520,1478,alt=302.33
+2026-04-16T17:20:52,Cruise,50.436919,30.448549,302.44,0.55,714.01,712.16,-51.31,1495,1520,1478,alt=302.44
+2026-04-16T17:20:52,Cruise,50.436900,30.448532,302.64,0.55,716.10,714.34,-50.09,1495,1520,1478,alt=302.64
+2026-04-16T17:20:53,Cruise,50.436890,30.448522,302.74,0.56,717.14,715.43,-49.48,1496,1520,1478,alt=302.74
+2026-04-16T17:20:53,Cruise,50.436871,30.448505,302.88,0.56,719.23,717.61,-48.27,1496,1520,1478,alt=302.88
+2026-04-16T17:20:53,Cruise,50.436861,30.448496,302.95,0.56,720.28,718.70,-47.66,1496,1520,1478,alt=302.95
+2026-04-16T17:20:54,Cruise,50.436852,30.448487,303.03,0.56,721.32,719.79,-47.06,1496,1520,1468,alt=303.03
+2026-04-16T17:20:54,Cruise,50.436832,30.448469,303.22,0.56,723.41,721.96,-45.84,1496,1520,1468,alt=303.22
+2026-04-16T17:20:54,Cruise,50.436823,30.448460,303.31,0.56,724.45,723.04,-45.23,1496,1520,1468,alt=303.31
+2026-04-16T17:20:55,Cruise,50.436803,30.448442,303.47,0.55,726.55,725.22,-44.00,1496,1520,1468,alt=303.47
+2026-04-16T17:20:55,Cruise,50.436794,30.448433,303.51,0.55,727.60,726.30,-43.39,1496,1520,1468,alt=303.51
+2026-04-16T17:20:55,Cruise,50.436784,30.448424,303.52,0.55,728.65,727.39,-42.78,1496,1520,1468,alt=303.52
+2026-04-16T17:20:56,Cruise,50.436765,30.448406,303.42,0.55,730.73,729.55,-41.57,1496,1520,1468,alt=303.42
+2026-04-16T17:20:56,Cruise,50.436756,30.448397,303.39,0.56,731.77,730.62,-40.96,1496,1520,1468,alt=303.39
+2026-04-16T17:20:56,Cruise,50.436737,30.448379,303.34,0.56,733.85,732.78,-39.74,1497,1520,1468,alt=303.34
+2026-04-16T17:20:57,Cruise,50.436727,30.448370,303.31,0.56,734.89,733.85,-39.13,1497,1520,1468,alt=303.31
+2026-04-16T17:20:57,Cruise,50.436717,30.448361,303.27,0.57,735.94,734.93,-38.52,1497,1520,1468,alt=303.27
+2026-04-16T17:20:57,Cruise,50.436698,30.448343,303.15,0.57,738.05,737.10,-37.29,1497,1520,1468,alt=303.15
+2026-04-16T17:20:58,Cruise,50.436689,30.448334,303.06,0.57,739.10,738.19,-36.68,1497,1520,1468,alt=303.06
+2026-04-16T17:20:58,Cruise,50.436669,30.448316,302.92,0.55,741.20,740.36,-35.45,1497,1520,1478,alt=302.92
+2026-04-16T17:20:58,Cruise,50.436660,30.448307,302.86,0.55,742.27,741.45,-34.84,1497,1520,1478,alt=302.86
+2026-04-16T17:20:59,Cruise,50.436650,30.448298,302.84,0.55,743.34,742.55,-34.22,1497,1520,1478,alt=302.84
+2026-04-16T17:20:59,Cruise,50.436631,30.448280,302.90,0.55,745.46,744.73,-33.00,1497,1520,1478,alt=302.90
+2026-04-16T17:21:00,Cruise,50.436621,30.448271,302.95,0.56,746.53,745.82,-32.38,1497,1520,1478,alt=302.95
+2026-04-16T17:21:00,Cruise,50.436602,30.448252,303.00,0.56,748.65,748.00,-31.14,1497,1520,1478,alt=303.00
+2026-04-16T17:21:00,Cruise,50.436592,30.448243,303.04,0.56,749.72,749.10,-30.52,1497,1520,1468,alt=303.04
+2026-04-16T17:21:01,Cruise,50.436582,30.448234,303.10,0.57,750.78,750.18,-29.91,1498,1520,1468,alt=303.10
+2026-04-16T17:21:01,Cruise,50.436563,30.448216,303.20,0.57,752.92,752.37,-28.68,1498,1520,1468,alt=303.20
+2026-04-16T17:21:01,Cruise,50.436553,30.448207,303.19,0.55,753.98,753.46,-28.06,1498,1520,1468,alt=303.19
+2026-04-16T17:21:02,Cruise,50.436534,30.448189,303.08,0.54,756.10,755.63,-26.83,1498,1520,1468,alt=303.08
+2026-04-16T17:21:02,Cruise,50.436524,30.448180,303.05,0.54,757.18,756.72,-26.22,1498,1520,1468,alt=303.05
+2026-04-16T17:21:02,Cruise,50.436505,30.448162,302.94,0.54,759.30,758.89,-25.00,1498,1520,1478,alt=302.94
+2026-04-16T17:21:03,Cruise,50.436496,30.448153,302.93,0.55,760.38,759.99,-24.38,1498,1520,1478,alt=302.93
+2026-04-16T17:21:03,Cruise,50.436486,30.448144,302.95,0.55,761.45,761.08,-23.77,1498,1520,1478,alt=302.95
+2026-04-16T17:21:03,Cruise,50.436467,30.448126,302.92,0.56,763.60,763.26,-22.55,1498,1520,1478,alt=302.92
+2026-04-16T17:21:04,Cruise,50.436457,30.448117,302.90,0.56,764.67,764.36,-21.93,1498,1520,1478,alt=302.90
+2026-04-16T17:21:04,Cruise,50.436437,30.448099,302.91,0.56,766.83,766.55,-20.71,1498,1520,1478,alt=302.91
+2026-04-16T17:21:04,Cruise,50.436428,30.448090,302.90,0.56,767.91,767.65,-20.10,1498,1520,1478,alt=302.90
+2026-04-16T17:21:05,Cruise,50.436418,30.448081,302.89,0.56,768.99,768.74,-19.48,1499,1520,1478,alt=302.89
+2026-04-16T17:21:05,Cruise,50.436399,30.448062,302.83,0.56,771.15,770.93,-18.25,1499,1520,1478,alt=302.83
+2026-04-16T17:21:06,Cruise,50.436389,30.448053,302.81,0.56,772.24,772.04,-17.63,1499,1520,1478,alt=302.81
+2026-04-16T17:21:06,Cruise,50.436369,30.448035,302.81,0.57,774.40,774.23,-16.39,1499,1520,1478,alt=302.81
+2026-04-16T17:21:06,Cruise,50.436360,30.448026,302.80,0.57,775.49,775.33,-15.78,1499,1520,1478,alt=302.80
+2026-04-16T17:21:07,Cruise,50.436350,30.448017,302.77,0.57,776.56,776.41,-15.16,1499,1520,1478,alt=302.77
+2026-04-16T17:21:07,Cruise,50.436331,30.447999,302.71,0.58,778.74,778.61,-13.91,1499,1520,1478,alt=302.71
+2026-04-16T17:21:07,Cruise,50.436321,30.447989,302.70,0.58,779.81,779.70,-13.29,1499,1520,1478,alt=302.70
+2026-04-16T17:21:08,Cruise,50.436302,30.447971,302.72,0.55,781.97,781.88,-12.05,1499,1520,1478,alt=302.72
+2026-04-16T17:21:08,Cruise,50.436292,30.447962,302.75,0.54,783.05,782.96,-11.44,1499,1520,1478,alt=302.75
+2026-04-16T17:21:08,Cruise,50.436283,30.447953,302.81,0.53,784.12,784.05,-10.82,1499,1520,1478,alt=302.81
+2026-04-16T17:21:09,Cruise,50.436263,30.447935,302.97,0.54,786.29,786.23,-9.60,1500,1520,1478,alt=302.97
+2026-04-16T17:21:09,Cruise,50.436254,30.447926,303.09,0.55,787.37,787.32,-8.98,1500,1520,1468,alt=303.09
+2026-04-16T17:21:09,Cruise,50.436234,30.447908,303.28,0.55,789.54,789.50,-7.76,1500,1520,1468,alt=303.28
+2026-04-16T17:21:10,Cruise,50.436225,30.447899,303.36,0.55,790.62,790.59,-7.15,1500,1520,1468,alt=303.36
+2026-04-16T17:21:10,Cruise,50.436215,30.447890,303.42,0.55,791.70,791.67,-6.54,1500,1520,1468,alt=303.42
+2026-04-16T17:21:10,Cruise,50.436196,30.447872,303.44,0.55,793.85,793.83,-5.32,1500,1520,1468,alt=303.44
+2026-04-16T17:21:11,Cruise,50.436186,30.447863,303.45,0.55,794.93,794.91,-4.71,1500,1520,1468,alt=303.45
+2026-04-16T17:21:11,Cruise,50.436167,30.447845,303.47,0.55,797.08,797.07,-3.47,1500,1520,1468,alt=303.47
+2026-04-16T17:21:11,Cruise,50.436158,30.447836,303.51,0.56,798.16,798.15,-2.85,1500,1520,1468,alt=303.51
+2026-04-16T17:21:12,Cruise,50.436148,30.447827,303.57,0.56,799.24,799.24,-2.23,1500,1520,1468,alt=303.57
+2026-04-16T17:21:12,Cruise,50.436129,30.447809,303.67,0.56,801.40,801.40,-1.00,1500,1520,1468,alt=303.67
+2026-04-16T17:21:13,Cruise,50.436119,30.447799,303.71,0.57,802.48,802.48,-0.37,1500,1520,1468,alt=303.71
+2026-04-16T17:21:13,Cruise,50.436100,30.447781,303.84,0.58,804.66,804.66,0.86,1500,1520,1468,alt=303.84
+2026-04-16T17:21:13,Cruise,50.436090,30.447772,303.89,0.57,805.76,805.76,1.49,1500,1520,1468,alt=303.89
+2026-04-16T17:21:14,Cruise,50.436071,30.447754,303.91,0.55,807.94,807.94,2.74,1500,1520,1468,alt=303.91
+2026-04-16T17:21:14,Cruise,50.436062,30.447744,303.90,0.55,809.03,809.02,3.36,1500,1520,1468,alt=303.90
+2026-04-16T17:21:14,Cruise,50.436052,30.447735,303.88,0.55,810.13,810.12,3.98,1500,1520,1468,alt=303.88
+2026-04-16T17:21:15,Cruise,50.436033,30.447717,303.77,0.56,812.29,812.28,5.23,1500,1520,1468,alt=303.77
+2026-04-16T17:21:15,Cruise,50.436023,30.447708,303.69,0.56,813.38,813.36,5.84,1500,1520,1468,alt=303.69
+2026-04-16T17:21:15,Cruise,50.436004,30.447689,303.51,0.56,815.56,815.53,7.09,1500,1520,1468,alt=303.51
+2026-04-16T17:21:16,Cruise,50.435994,30.447680,303.41,0.56,816.65,816.62,7.71,1500,1520,1468,alt=303.41
+2026-04-16T17:21:16,Cruise,50.435975,30.447662,303.22,0.56,818.83,818.78,8.95,1500,1520,1468,alt=303.22
+2026-04-16T17:21:16,Cruise,50.435966,30.447653,303.13,0.56,819.92,819.87,9.57,1500,1520,1468,alt=303.13
+2026-04-16T17:21:17,Cruise,50.435956,30.447644,303.07,0.57,821.01,820.94,10.19,1501,1520,1468,alt=303.07
+2026-04-16T17:21:17,Cruise,50.435937,30.447626,302.97,0.56,823.18,823.10,11.42,1501,1520,1478,alt=302.97
+2026-04-16T17:21:18,Cruise,50.435927,30.447616,302.95,0.55,824.26,824.17,12.05,1501,1520,1478,alt=302.95
+2026-04-16T17:21:18,Cruise,50.435908,30.447598,303.01,0.54,826.45,826.34,13.29,1501,1520,1468,alt=303.01
+2026-04-16T17:21:18,Cruise,50.435899,30.447589,303.06,0.54,827.54,827.43,13.91,1501,1520,1468,alt=303.06
+2026-04-16T17:21:19,Cruise,50.435889,30.447580,303.12,0.54,828.64,828.51,14.54,1501,1520,1468,alt=303.12
+2026-04-16T17:21:19,Cruise,50.435870,30.447562,303.16,0.54,830.83,830.68,15.78,1501,1520,1468,alt=303.16
+2026-04-16T17:21:19,Cruise,50.435860,30.447553,303.15,0.54,831.94,831.78,16.40,1501,1520,1468,alt=303.15
+2026-04-16T17:21:20,Cruise,50.435841,30.447534,303.06,0.55,834.16,833.97,17.65,1501,1520,1468,alt=303.06
+2026-04-16T17:21:20,Cruise,50.435831,30.447525,303.03,0.55,835.26,835.06,18.27,1501,1520,1468,alt=303.03
+2026-04-16T17:21:20,Cruise,50.435821,30.447516,303.03,0.55,836.36,836.15,18.90,1501,1520,1468,alt=303.03
+2026-04-16T17:21:21,Cruise,50.435802,30.447497,302.96,0.55,838.58,838.34,20.15,1502,1520,1478,alt=302.96
+2026-04-16T17:21:21,Cruise,50.435792,30.447488,302.95,0.56,839.69,839.44,20.77,1502,1520,1478,alt=302.95
+2026-04-16T17:21:21,Cruise,50.435773,30.447470,302.96,0.56,841.92,841.63,22.02,1502,1520,1478,alt=302.96
+2026-04-16T17:21:22,Cruise,50.435763,30.447461,302.94,0.56,843.02,842.71,22.63,1502,1520,1478,alt=302.94
+2026-04-16T17:21:22,Cruise,50.435754,30.447452,302.94,0.56,844.13,843.81,23.25,1502,1520,1478,alt=302.94
+2026-04-16T17:21:22,Cruise,50.435735,30.447433,303.00,0.56,846.32,845.97,24.50,1502,1520,1478,alt=303.00
+2026-04-16T17:21:23,Cruise,50.435725,30.447424,303.07,0.55,847.42,847.05,25.11,1502,1520,1468,alt=303.07
+2026-04-16T17:21:23,Cruise,50.435706,30.447406,303.24,0.55,849.62,849.21,26.34,1502,1520,1468,alt=303.24
+2026-04-16T17:21:23,Cruise,50.435696,30.447397,303.33,0.54,850.71,850.28,26.97,1502,1520,1468,alt=303.33
+2026-04-16T17:21:24,Cruise,50.435687,30.447388,303.39,0.54,851.81,851.37,27.59,1502,1520,1468,alt=303.39
+2026-04-16T17:21:24,Cruise,50.435668,30.447370,303.58,0.53,854.02,853.54,28.82,1502,1520,1468,alt=303.58
+2026-04-16T17:21:25,Cruise,50.435658,30.447361,303.66,0.53,855.13,854.62,29.43,1502,1520,1468,alt=303.66
+2026-04-16T17:21:25,Cruise,50.435639,30.447343,303.78,0.55,857.34,856.79,30.65,1503,1520,1468,alt=303.78
+2026-04-16T17:21:25,Cruise,50.435629,30.447334,303.82,0.56,858.44,857.87,31.26,1503,1520,1468,alt=303.82
+2026-04-16T17:21:26,Cruise,50.435619,30.447325,303.86,0.57,859.56,858.97,31.87,1503,1520,1468,alt=303.86
+2026-04-16T17:21:26,Cruise,50.435600,30.447307,303.88,0.56,861.78,861.15,33.10,1503,1520,1468,alt=303.88
+2026-04-16T17:21:26,Cruise,50.435591,30.447298,303.89,0.55,862.89,862.23,33.72,1503,1520,1468,alt=303.89
+2026-04-16T17:21:27,Cruise,50.435571,30.447280,303.97,0.54,865.12,864.41,34.94,1503,1520,1468,alt=303.97
+2026-04-16T17:21:27,Cruise,50.435562,30.447270,304.01,0.54,866.23,865.50,35.55,1503,1520,1468,alt=304.01
+2026-04-16T17:21:27,Cruise,50.435552,30.447261,304.06,0.54,867.34,866.58,36.16,1503,1520,1468,alt=304.06
+2026-04-16T17:21:28,Cruise,50.435533,30.447244,304.14,0.55,869.58,868.77,37.38,1503,1520,1468,alt=304.14
+2026-04-16T17:21:28,Cruise,50.435523,30.447235,304.18,0.55,870.69,869.86,37.98,1503,1520,1468,alt=304.18
+2026-04-16T17:21:28,Cruise,50.435504,30.447217,304.29,0.55,872.91,872.03,39.20,1503,1520,1468,alt=304.29
+2026-04-16T17:21:29,Cruise,50.435494,30.447208,304.35,0.55,874.03,873.12,39.81,1503,1520,1468,alt=304.35
+2026-04-16T17:21:29,Cruise,50.435475,30.447190,304.46,0.55,876.25,875.29,41.02,1504,1520,1468,alt=304.46
+2026-04-16T17:21:29,Cruise,50.435465,30.447181,304.46,0.55,877.37,876.38,41.63,1504,1520,1468,alt=304.46
+2026-04-16T17:21:30,Cruise,50.435456,30.447172,304.44,0.55,878.48,877.47,42.24,1504,1520,1468,alt=304.44
+2026-04-16T17:21:30,Cruise,50.435436,30.447154,304.33,0.55,880.72,879.65,43.45,1504,1520,1468,alt=304.33
+2026-04-16T17:21:30,Cruise,50.435427,30.447145,304.27,0.55,881.84,880.74,44.05,1504,1520,1468,alt=304.27
+2026-04-16T17:21:31,Cruise,50.435407,30.447128,304.17,0.55,884.08,882.92,45.26,1504,1520,1468,alt=304.17
+2026-04-16T17:21:31,Cruise,50.435398,30.447118,304.12,0.54,885.21,884.02,45.87,1504,1520,1468,alt=304.12
+2026-04-16T17:21:32,Cruise,50.435388,30.447110,304.04,0.54,886.32,885.10,46.47,1504,1520,1468,alt=304.04
+2026-04-16T17:21:32,Cruise,50.435369,30.447092,303.89,0.54,888.59,887.30,47.69,1504,1520,1468,alt=303.89
+2026-04-16T17:21:32,Cruise,50.435359,30.447083,303.81,0.54,889.70,888.39,48.31,1504,1520,1468,alt=303.81
+2026-04-16T17:21:33,Cruise,50.435340,30.447065,303.51,0.54,891.93,890.56,49.53,1504,1520,1468,alt=303.51
+2026-04-16T17:21:33,Cruise,50.435330,30.447056,303.36,0.54,893.06,891.65,50.15,1505,1520,1468,alt=303.36
+2026-04-16T17:21:33,Cruise,50.435320,30.447046,303.21,0.54,894.19,892.75,50.76,1505,1520,1468,alt=303.21
+2026-04-16T17:21:34,Cruise,50.435301,30.447028,303.06,0.54,896.43,894.92,52.00,1505,1520,1468,alt=303.06
+2026-04-16T17:21:34,Cruise,50.435291,30.447019,303.07,0.54,897.56,896.01,52.62,1505,1520,1468,alt=303.07
+2026-04-16T17:21:34,Cruise,50.435272,30.447001,303.10,0.54,899.82,898.21,53.85,1505,1520,1468,alt=303.10
+2026-04-16T17:21:35,Cruise,50.435262,30.446992,303.09,0.54,900.95,899.30,54.48,1505,1520,1468,alt=303.09
+2026-04-16T17:21:35,Cruise,50.435253,30.446983,303.07,0.54,902.07,900.39,55.10,1505,1520,1468,alt=303.07
+2026-04-16T17:21:35,Cruise,50.435234,30.446964,303.01,0.57,904.31,902.56,56.36,1505,1520,1468,alt=303.01
+2026-04-16T17:21:36,Cruise,50.435224,30.446955,302.96,0.57,905.43,903.64,56.97,1505,1520,1478,alt=302.96
+2026-04-16T17:21:36,Cruise,50.435205,30.446937,302.83,0.55,907.68,905.81,58.22,1505,1520,1478,alt=302.83
+2026-04-16T17:21:36,Cruise,50.435195,30.446928,302.78,0.55,908.80,906.89,58.84,1505,1520,1478,alt=302.78
+2026-04-16T17:21:37,Cruise,50.435186,30.446918,302.75,0.54,909.92,907.98,59.47,1505,1520,1478,alt=302.75
+2026-04-16T17:21:37,Cruise,50.435166,30.446900,302.76,0.54,912.17,910.15,60.71,1506,1520,1478,alt=302.76
+2026-04-16T17:21:38,Cruise,50.435157,30.446891,302.81,0.54,913.29,911.23,61.33,1506,1520,1478,alt=302.81
+2026-04-16T17:21:38,Cruise,50.435138,30.446873,302.96,0.54,915.53,913.39,62.57,1506,1520,1478,alt=302.96
+2026-04-16T17:21:38,Cruise,50.435128,30.446863,303.07,0.54,916.66,914.47,63.20,1506,1520,1468,alt=303.07
+2026-04-16T17:21:39,Cruise,50.435118,30.446854,303.15,0.54,917.78,915.56,63.82,1506,1520,1468,alt=303.15
+2026-04-16T17:21:39,Cruise,50.435099,30.446836,303.34,0.57,920.03,917.73,65.05,1506,1520,1468,alt=303.34
+2026-04-16T17:21:39,Cruise,50.435090,30.446827,303.45,0.58,921.16,918.81,65.67,1506,1520,1468,alt=303.45
+2026-04-16T17:21:40,Cruise,50.435071,30.446809,303.64,0.56,923.40,920.97,66.91,1506,1520,1468,alt=303.64
+2026-04-16T17:21:40,Cruise,50.435061,30.446800,303.71,0.55,924.52,922.06,67.53,1506,1520,1468,alt=303.71
+2026-04-16T17:21:40,Cruise,50.435051,30.446790,303.72,0.55,925.65,923.14,68.15,1506,1520,1468,alt=303.72
+2026-04-16T17:21:41,Cruise,50.435032,30.446772,303.69,0.54,927.90,925.30,69.39,1506,1520,1468,alt=303.69
+2026-04-16T17:21:41,Cruise,50.435023,30.446763,303.69,0.56,929.02,926.38,70.01,1507,1520,1468,alt=303.69
+2026-04-16T17:21:41,Cruise,50.435004,30.446745,303.67,0.58,931.27,928.54,71.26,1507,1520,1468,alt=303.67
+2026-04-16T17:21:42,Cruise,50.434994,30.446736,303.63,0.58,932.39,929.61,71.88,1507,1520,1468,alt=303.63
+2026-04-16T17:21:42,Cruise,50.434984,30.446727,303.57,0.58,933.51,930.69,72.50,1507,1520,1468,alt=303.57
+2026-04-16T17:21:42,Cruise,50.434965,30.446708,303.44,0.57,935.77,932.86,73.75,1507,1520,1468,alt=303.44
+2026-04-16T17:21:43,Cruise,50.434956,30.446699,303.44,0.55,936.89,933.93,74.37,1507,1520,1468,alt=303.44
+2026-04-16T17:21:43,Cruise,50.434937,30.446681,303.47,0.56,939.14,936.09,75.60,1507,1520,1468,alt=303.47
+2026-04-16T17:21:43,Cruise,50.434927,30.446672,303.48,0.57,940.26,937.16,76.22,1507,1520,1468,alt=303.48
+2026-04-16T17:21:44,Cruise,50.434918,30.446663,303.48,0.57,941.39,938.25,76.83,1507,1520,1468,alt=303.48
+2026-04-16T17:21:44,Cruise,50.434899,30.446645,303.43,0.57,943.63,940.39,78.06,1507,1520,1468,alt=303.43
+2026-04-16T17:21:45,Cruise,50.434889,30.446636,303.40,0.55,944.77,941.49,78.68,1507,1520,1468,alt=303.40
+2026-04-16T17:21:45,Cruise,50.434870,30.446617,303.29,0.54,947.03,943.66,79.91,1507,1520,1468,alt=303.29
+2026-04-16T17:21:45,Cruise,50.434860,30.446608,303.24,0.55,948.18,944.75,80.53,1508,1520,1468,alt=303.24
+2026-04-16T17:21:46,Cruise,50.434841,30.446590,303.21,0.57,950.45,946.92,81.76,1508,1520,1468,alt=303.21
+2026-04-16T17:21:46,Cruise,50.434831,30.446581,303.21,0.57,951.57,948.00,82.38,1508,1520,1468,alt=303.21
+2026-04-16T17:21:46,Cruise,50.434822,30.446572,303.19,0.56,952.70,949.08,83.00,1508,1520,1468,alt=303.19
+2026-04-16T17:21:47,Cruise,50.434803,30.446554,303.17,0.55,954.97,951.25,84.24,1508,1520,1468,alt=303.17

@@ -1,0 +1,1020 @@
+2026-04-16 18:05:25,049 | Connecting to vehicle...
+2026-04-16 18:05:26,054 | Connected successfully
+2026-04-16 18:05:26,054 | Connection string: tcp:127.0.0.1:5762
+2026-04-16 18:05:26,055 | Connected | lat=50.450739 lon=30.461242 alt=0.00m yaw=0.38deg | initial connection ok
+2026-04-16 18:05:26,055 | Checking if vehicle is armable...
+2026-04-16 18:05:26,055 | Vehicle is armable
+2026-04-16 18:05:26,055 | Start check | expected A=50.450739,30.461242 | current=50.450739,30.461242 | dist=0.0m
+2026-04-16 18:05:26,056 | Switching mode to STABILIZE...
+2026-04-16 18:05:26,056 | Waiting for STABILIZE mode...
+2026-04-16 18:05:27,057 | Mode switched to STABILIZE
+2026-04-16 18:05:27,057 | Arming vehicle...
+2026-04-16 18:05:27,058 | Waiting for arming...
+2026-04-16 18:05:28,060 | Vehicle armed successfully
+2026-04-16 18:05:28,060 | Armed | lat=50.450739 lon=30.461242 alt=0.00m yaw=0.38deg | vehicle armed
+2026-04-16 18:05:28,061 | Fixed yaw captured for the whole flight: 0.38 deg
+2026-04-16 18:05:28,061 | Climb to calibration alt to 20.00 m
+2026-04-16 18:05:28,062 | Climb to calibration alt | lat=50.450739 lon=30.461242 alt=0.00m yaw=0.38deg | roll=- pitch=- throttle=1520
+2026-04-16 18:05:28,414 | Climb to calibration alt | lat=50.450739 lon=30.461242 alt=0.00m yaw=0.38deg | roll=- pitch=- throttle=1520
+2026-04-16 18:05:28,765 | Climb to calibration alt | lat=50.450739 lon=30.461242 alt=0.00m yaw=0.38deg | roll=- pitch=- throttle=1520
+2026-04-16 18:05:29,117 | Climb to calibration alt | lat=50.450739 lon=30.461242 alt=0.00m yaw=0.38deg | roll=- pitch=- throttle=1520
+2026-04-16 18:05:29,472 | Climb to calibration alt | lat=50.450739 lon=30.461242 alt=0.00m yaw=0.38deg | roll=- pitch=- throttle=1520
+2026-04-16 18:05:29,824 | Climb to calibration alt | lat=50.450739 lon=30.461242 alt=0.00m yaw=0.38deg | roll=- pitch=- throttle=1520
+2026-04-16 18:05:30,175 | Climb to calibration alt | lat=50.450739 lon=30.461242 alt=0.02m yaw=0.38deg | roll=- pitch=- throttle=1520
+2026-04-16 18:05:30,527 | Climb to calibration alt | lat=50.450739 lon=30.461242 alt=0.06m yaw=0.38deg | roll=- pitch=- throttle=1520
+2026-04-16 18:05:30,878 | Climb to calibration alt | lat=50.450739 lon=30.461242 alt=0.08m yaw=0.38deg | roll=- pitch=- throttle=1520
+2026-04-16 18:05:31,229 | Climb to calibration alt | lat=50.450739 lon=30.461242 alt=0.11m yaw=0.38deg | roll=- pitch=- throttle=1520
+2026-04-16 18:05:31,581 | Climb to calibration alt | lat=50.450739 lon=30.461242 alt=0.12m yaw=0.38deg | roll=- pitch=- throttle=1520
+2026-04-16 18:05:31,932 | Climb to calibration alt | lat=50.450739 lon=30.461242 alt=0.22m yaw=0.38deg | roll=- pitch=- throttle=1520
+2026-04-16 18:05:32,284 | Climb to calibration alt | lat=50.450739 lon=30.461242 alt=0.85m yaw=0.38deg | roll=- pitch=- throttle=1520
+2026-04-16 18:05:32,636 | Climb to calibration alt | lat=50.450739 lon=30.461242 alt=1.13m yaw=0.38deg | roll=- pitch=- throttle=1520
+2026-04-16 18:05:32,988 | Climb to calibration alt | lat=50.450739 lon=30.461242 alt=1.76m yaw=0.38deg | roll=- pitch=- throttle=1520
+2026-04-16 18:05:33,340 | Climb to calibration alt | lat=50.450739 lon=30.461242 alt=2.12m yaw=0.38deg | roll=- pitch=- throttle=1520
+2026-04-16 18:05:33,693 | Climb to calibration alt | lat=50.450739 lon=30.461241 alt=2.53m yaw=0.38deg | roll=- pitch=- throttle=1520
+2026-04-16 18:05:34,045 | Climb to calibration alt | lat=50.450739 lon=30.461241 alt=3.39m yaw=359.31deg | roll=- pitch=- throttle=1520
+2026-04-16 18:05:34,397 | Climb to calibration alt | lat=50.450739 lon=30.461241 alt=3.79m yaw=359.31deg | roll=- pitch=- throttle=1520
+2026-04-16 18:05:34,748 | Climb to calibration alt | lat=50.450739 lon=30.461240 alt=4.67m yaw=359.28deg | roll=- pitch=- throttle=1520
+2026-04-16 18:05:35,099 | Climb to calibration alt | lat=50.450739 lon=30.461240 alt=5.13m yaw=359.28deg | roll=- pitch=- throttle=1520
+2026-04-16 18:05:35,451 | Climb to calibration alt | lat=50.450740 lon=30.461240 alt=6.14m yaw=359.27deg | roll=- pitch=- throttle=1520
+2026-04-16 18:05:35,803 | Climb to calibration alt | lat=50.450740 lon=30.461240 alt=6.66m yaw=359.27deg | roll=- pitch=- throttle=1520
+2026-04-16 18:05:36,155 | Climb to calibration alt | lat=50.450740 lon=30.461239 alt=7.18m yaw=359.26deg | roll=- pitch=- throttle=1520
+2026-04-16 18:05:36,506 | Climb to calibration alt reached pre-target zone at 8.16 m
+2026-04-16 18:05:37,506 | Calibration altitude stabilize at 20.00 m
+2026-04-16 18:05:37,507 | Calibration altitude stabilize | lat=50.450741 lon=30.461238 alt=10.07m yaw=359.31deg | dist=1245.5m | roll=- pitch=- throttle=1504 | alt_err=9.93 vz_down=-1.76 stable=0/4
+2026-04-16 18:05:37,859 | Calibration altitude stabilize | lat=50.450741 lon=30.461237 alt=10.51m yaw=359.30deg | dist=1245.5m | roll=- pitch=- throttle=1504 | alt_err=9.49 vz_down=-1.80 stable=0/4
+2026-04-16 18:05:38,210 | Calibration altitude stabilize | lat=50.450741 lon=30.461237 alt=10.94m yaw=359.28deg | dist=1245.5m | roll=- pitch=- throttle=1504 | alt_err=9.06 vz_down=-1.59 stable=0/4
+2026-04-16 18:05:38,561 | Calibration altitude stabilize | lat=50.450741 lon=30.461237 alt=11.73m yaw=359.29deg | dist=1245.5m | roll=- pitch=- throttle=1504 | alt_err=8.27 vz_down=-1.48 stable=0/4
+2026-04-16 18:05:38,914 | Calibration altitude stabilize | lat=50.450741 lon=30.461236 alt=12.07m yaw=359.29deg | dist=1245.5m | roll=- pitch=- throttle=1504 | alt_err=7.93 vz_down=-1.36 stable=0/4
+2026-04-16 18:05:39,266 | Calibration altitude stabilize | lat=50.450741 lon=30.461236 alt=12.71m yaw=359.28deg | dist=1245.5m | roll=- pitch=- throttle=1504 | alt_err=7.29 vz_down=-1.32 stable=0/4
+2026-04-16 18:05:39,618 | Calibration altitude stabilize | lat=50.450741 lon=30.461236 alt=13.01m yaw=359.28deg | dist=1245.5m | roll=- pitch=- throttle=1498 | alt_err=6.99 vz_down=-1.02 stable=0/4
+2026-04-16 18:05:39,969 | Calibration altitude stabilize | lat=50.450742 lon=30.461235 alt=13.47m yaw=359.29deg | dist=1245.5m | roll=- pitch=- throttle=1498 | alt_err=6.53 vz_down=-0.93 stable=0/4
+2026-04-16 18:05:40,321 | Calibration altitude stabilize | lat=50.450742 lon=30.461235 alt=13.70m yaw=359.29deg | dist=1245.5m | roll=- pitch=- throttle=1498 | alt_err=6.30 vz_down=-0.85 stable=0/4
+2026-04-16 18:05:40,672 | Calibration altitude stabilize | lat=50.450742 lon=30.461235 alt=13.90m yaw=359.29deg | dist=1245.5m | roll=- pitch=- throttle=1498 | alt_err=6.10 vz_down=-0.72 stable=0/4
+2026-04-16 18:05:41,023 | Calibration altitude stabilize | lat=50.450742 lon=30.461234 alt=14.23m yaw=359.28deg | dist=1245.5m | roll=- pitch=- throttle=1498 | alt_err=5.77 vz_down=-0.69 stable=0/4
+2026-04-16 18:05:41,375 | Calibration altitude stabilize | lat=50.450742 lon=30.461234 alt=14.41m yaw=359.28deg | dist=1245.5m | roll=- pitch=- throttle=1498 | alt_err=5.59 vz_down=-0.79 stable=0/4
+2026-04-16 18:05:41,726 | Calibration altitude stabilize | lat=50.450742 lon=30.461233 alt=14.80m yaw=359.27deg | dist=1245.4m | roll=- pitch=- throttle=1498 | alt_err=5.20 vz_down=-0.78 stable=0/4
+2026-04-16 18:05:42,077 | Calibration altitude stabilize | lat=50.450743 lon=30.461233 alt=15.03m yaw=359.27deg | dist=1245.4m | roll=- pitch=- throttle=1498 | alt_err=4.97 vz_down=-0.99 stable=0/4
+2026-04-16 18:05:42,428 | Calibration altitude stabilize | lat=50.450743 lon=30.461233 alt=15.28m yaw=359.27deg | dist=1245.4m | roll=- pitch=- throttle=1498 | alt_err=4.72 vz_down=-1.00 stable=0/4
+2026-04-16 18:05:42,780 | Calibration altitude stabilize | lat=50.450743 lon=30.461232 alt=15.80m yaw=359.26deg | dist=1245.4m | roll=- pitch=- throttle=1498 | alt_err=4.20 vz_down=-1.05 stable=0/4
+2026-04-16 18:05:43,131 | Calibration altitude stabilize | lat=50.450743 lon=30.461232 alt=16.06m yaw=359.24deg | dist=1245.4m | roll=- pitch=- throttle=1498 | alt_err=3.94 vz_down=-1.06 stable=0/4
+2026-04-16 18:05:43,483 | Calibration altitude stabilize | lat=50.450744 lon=30.461231 alt=16.57m yaw=359.25deg | dist=1245.4m | roll=- pitch=- throttle=1498 | alt_err=3.43 vz_down=-0.90 stable=0/4
+2026-04-16 18:05:43,835 | Calibration altitude stabilize | lat=50.450744 lon=30.461231 alt=16.77m yaw=359.24deg | dist=1245.4m | roll=- pitch=- throttle=1498 | alt_err=3.23 vz_down=-0.80 stable=0/4
+2026-04-16 18:05:44,186 | Calibration altitude stabilize | lat=50.450744 lon=30.461231 alt=16.97m yaw=359.25deg | dist=1245.4m | roll=- pitch=- throttle=1498 | alt_err=3.03 vz_down=-0.74 stable=0/4
+2026-04-16 18:05:44,539 | Calibration altitude stabilize | lat=50.450745 lon=30.461230 alt=17.43m yaw=359.25deg | dist=1245.4m | roll=- pitch=- throttle=1492 | alt_err=2.57 vz_down=-0.88 stable=0/4
+2026-04-16 18:05:44,890 | Calibration altitude stabilize | lat=50.450745 lon=30.461230 alt=17.63m yaw=359.24deg | dist=1245.4m | roll=- pitch=- throttle=1492 | alt_err=2.37 vz_down=-0.82 stable=0/4
+2026-04-16 18:05:45,241 | Calibration altitude stabilize | lat=50.450745 lon=30.461229 alt=18.00m yaw=359.24deg | dist=1245.4m | roll=- pitch=- throttle=1492 | alt_err=2.00 vz_down=-0.74 stable=0/4
+2026-04-16 18:05:45,592 | Calibration altitude stabilize | lat=50.450746 lon=30.461229 alt=18.18m yaw=359.27deg | dist=1245.4m | roll=- pitch=- throttle=1492 | alt_err=1.82 vz_down=-0.85 stable=0/4
+2026-04-16 18:05:45,943 | Calibration altitude stabilize | lat=50.450746 lon=30.461229 alt=18.39m yaw=359.29deg | dist=1245.5m | roll=- pitch=- throttle=1492 | alt_err=1.61 vz_down=-0.78 stable=0/4
+2026-04-16 18:05:46,295 | Calibration altitude stabilize | lat=50.450746 lon=30.461228 alt=18.79m yaw=359.29deg | dist=1245.5m | roll=- pitch=- throttle=1492 | alt_err=1.21 vz_down=-0.75 stable=1/4
+2026-04-16 18:05:46,647 | Calibration altitude stabilize | lat=50.450747 lon=30.461228 alt=18.95m yaw=359.29deg | dist=1245.5m | roll=- pitch=- throttle=1492 | alt_err=1.05 vz_down=-0.64 stable=2/4
+2026-04-16 18:05:46,998 | Calibration altitude stabilize | lat=50.450747 lon=30.461228 alt=19.22m yaw=359.29deg | dist=1245.5m | roll=- pitch=- throttle=1488 | alt_err=0.78 vz_down=-0.44 stable=3/4
+2026-04-16 18:05:47,349 | Calibration altitude stabilize stabilized
+2026-04-16 18:05:47,350 | Calibrating pitch/roll signs with best-effort probes...
+2026-04-16 18:05:47,350 | Pitch sign probe...
+2026-04-16 18:05:51,352 | pitch probe | delta_lat=-0.0000136 | delta_lon=-0.0000022
+2026-04-16 18:05:52,853 | PITCH_SIGN now -1
+2026-04-16 18:05:52,853 | Roll sign probe...
+2026-04-16 18:05:56,854 | roll probe | delta_lat=-0.0000044 | delta_lon=0.0000027
+2026-04-16 18:05:58,356 | Roll probe inconclusive; keeping current sign
+2026-04-16 18:05:58,357 | ROLL_SIGN now 1
+2026-04-16 18:05:58,357 | RC overrides cleared
+2026-04-16 18:05:59,358 | Calibration done | PITCH_SIGN=-1 ROLL_SIGN=1
+2026-04-16 18:05:59,359 | Climb to mission altitude to 300.00 m
+2026-04-16 18:05:59,359 | Climb to mission altitude | lat=50.450722 lon=30.461228 alt=0.06m yaw=358.97deg | roll=- pitch=- throttle=1548
+2026-04-16 18:05:59,711 | Climb to mission altitude | lat=50.450722 lon=30.461228 alt=0.07m yaw=359.00deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:00,062 | Climb to mission altitude | lat=50.450722 lon=30.461228 alt=0.11m yaw=359.07deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:00,414 | Climb to mission altitude | lat=50.450722 lon=30.461228 alt=0.23m yaw=359.07deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:00,765 | Climb to mission altitude | lat=50.450722 lon=30.461227 alt=1.02m yaw=359.03deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:01,117 | Climb to mission altitude | lat=50.450722 lon=30.461227 alt=1.49m yaw=359.04deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:01,469 | Climb to mission altitude | lat=50.450722 lon=30.461227 alt=2.53m yaw=359.04deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:01,820 | Climb to mission altitude | lat=50.450722 lon=30.461227 alt=3.10m yaw=359.02deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:02,171 | Climb to mission altitude | lat=50.450722 lon=30.461227 alt=3.69m yaw=359.03deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:02,523 | Climb to mission altitude | lat=50.450723 lon=30.461228 alt=4.98m yaw=359.03deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:02,874 | Climb to mission altitude | lat=50.450723 lon=30.461228 alt=5.65m yaw=359.01deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:03,225 | Climb to mission altitude | lat=50.450723 lon=30.461228 alt=6.86m yaw=359.02deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:03,577 | Climb to mission altitude | lat=50.450723 lon=30.461228 alt=7.46m yaw=359.00deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:03,928 | Climb to mission altitude | lat=50.450723 lon=30.461228 alt=8.10m yaw=359.01deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:04,280 | Climb to mission altitude | lat=50.450723 lon=30.461228 alt=9.47m yaw=359.01deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:04,632 | Climb to mission altitude | lat=50.450723 lon=30.461228 alt=10.13m yaw=359.01deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:04,983 | Climb to mission altitude | lat=50.450724 lon=30.461228 alt=11.55m yaw=359.02deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:05,335 | Climb to mission altitude | lat=50.450724 lon=30.461228 alt=12.31m yaw=359.02deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:05,686 | Climb to mission altitude | lat=50.450724 lon=30.461227 alt=13.08m yaw=359.03deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:06,037 | Climb to mission altitude | lat=50.450724 lon=30.461227 alt=14.54m yaw=359.02deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:06,389 | Climb to mission altitude | lat=50.450724 lon=30.461227 alt=15.27m yaw=359.02deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:06,740 | Climb to mission altitude | lat=50.450724 lon=30.461227 alt=16.88m yaw=359.01deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:07,092 | Climb to mission altitude | lat=50.450724 lon=30.461227 alt=17.73m yaw=359.00deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:07,444 | Climb to mission altitude | lat=50.450725 lon=30.461227 alt=18.55m yaw=359.00deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:07,796 | Climb to mission altitude | lat=50.450725 lon=30.461226 alt=20.31m yaw=359.02deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:08,148 | Climb to mission altitude | lat=50.450725 lon=30.461226 alt=21.21m yaw=359.03deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:08,499 | Climb to mission altitude | lat=50.450725 lon=30.461226 alt=23.01m yaw=359.02deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:08,850 | Climb to mission altitude | lat=50.450725 lon=30.461225 alt=23.89m yaw=359.02deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:09,201 | Climb to mission altitude | lat=50.450725 lon=30.461225 alt=24.81m yaw=359.02deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:09,553 | Climb to mission altitude | lat=50.450725 lon=30.461224 alt=26.40m yaw=359.02deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:09,905 | Climb to mission altitude | lat=50.450725 lon=30.461224 alt=27.17m yaw=359.03deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:10,256 | Climb to mission altitude | lat=50.450725 lon=30.461223 alt=28.65m yaw=359.03deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:10,607 | Climb to mission altitude | lat=50.450725 lon=30.461223 alt=29.41m yaw=359.02deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:10,958 | Climb to mission altitude | lat=50.450725 lon=30.461222 alt=30.21m yaw=359.02deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:11,309 | Climb to mission altitude | lat=50.450726 lon=30.461222 alt=31.90m yaw=358.99deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:11,661 | Climb to mission altitude | lat=50.450726 lon=30.461222 alt=32.75m yaw=358.98deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:12,013 | Climb to mission altitude | lat=50.450726 lon=30.461221 alt=34.35m yaw=358.95deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:12,364 | Climb to mission altitude | lat=50.450726 lon=30.461221 alt=35.12m yaw=358.95deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:12,716 | Climb to mission altitude | lat=50.450726 lon=30.461220 alt=35.93m yaw=358.97deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:13,067 | Climb to mission altitude | lat=50.450727 lon=30.461220 alt=37.60m yaw=358.96deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:13,419 | Climb to mission altitude | lat=50.450727 lon=30.461220 alt=38.47m yaw=358.98deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:13,770 | Climb to mission altitude | lat=50.450727 lon=30.461219 alt=40.09m yaw=358.98deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:14,121 | Climb to mission altitude | lat=50.450727 lon=30.461219 alt=40.89m yaw=358.99deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:14,472 | Climb to mission altitude | lat=50.450727 lon=30.461219 alt=42.51m yaw=358.98deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:14,824 | Climb to mission altitude | lat=50.450727 lon=30.461218 alt=43.29m yaw=358.99deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:15,176 | Climb to mission altitude | lat=50.450727 lon=30.461218 alt=44.11m yaw=358.99deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:15,527 | Climb to mission altitude | lat=50.450728 lon=30.461218 alt=45.94m yaw=358.99deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:15,878 | Climb to mission altitude | lat=50.450728 lon=30.461218 alt=46.93m yaw=358.99deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:16,230 | Climb to mission altitude | lat=50.450728 lon=30.461217 alt=48.92m yaw=358.99deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:16,581 | Climb to mission altitude | lat=50.450728 lon=30.461217 alt=49.88m yaw=358.99deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:16,933 | Climb to mission altitude | lat=50.450728 lon=30.461217 alt=50.75m yaw=358.99deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:17,284 | Climb to mission altitude | lat=50.450729 lon=30.461217 alt=52.58m yaw=359.00deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:17,636 | Climb to mission altitude | lat=50.450729 lon=30.461217 alt=53.51m yaw=358.99deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:17,988 | Climb to mission altitude | lat=50.450729 lon=30.461216 alt=55.22m yaw=358.99deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:18,339 | Climb to mission altitude | lat=50.450729 lon=30.461216 alt=56.08m yaw=359.00deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:18,691 | Climb to mission altitude | lat=50.450729 lon=30.461216 alt=56.90m yaw=359.00deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:19,043 | Climb to mission altitude | lat=50.450730 lon=30.461216 alt=58.44m yaw=359.01deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:19,394 | Climb to mission altitude | lat=50.450730 lon=30.461216 alt=59.19m yaw=359.01deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:19,746 | Climb to mission altitude | lat=50.450730 lon=30.461216 alt=60.77m yaw=359.01deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:20,097 | Climb to mission altitude | lat=50.450730 lon=30.461216 alt=61.54m yaw=359.02deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:20,448 | Climb to mission altitude | lat=50.450730 lon=30.461216 alt=62.32m yaw=359.02deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:20,799 | Climb to mission altitude | lat=50.450731 lon=30.461216 alt=63.88m yaw=359.03deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:21,151 | Climb to mission altitude | lat=50.450731 lon=30.461216 alt=64.64m yaw=359.03deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:21,502 | Climb to mission altitude | lat=50.450730 lon=30.461215 alt=66.13m yaw=359.04deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:21,853 | Climb to mission altitude | lat=50.450730 lon=30.461215 alt=66.85m yaw=359.04deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:22,205 | Climb to mission altitude | lat=50.450730 lon=30.461214 alt=67.57m yaw=359.04deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:22,556 | Climb to mission altitude | lat=50.450728 lon=30.461213 alt=68.96m yaw=359.02deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:22,907 | Climb to mission altitude | lat=50.450727 lon=30.461212 alt=69.65m yaw=359.07deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:23,258 | Climb to mission altitude | lat=50.450725 lon=30.461209 alt=71.12m yaw=359.08deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:23,610 | Climb to mission altitude | lat=50.450724 lon=30.461208 alt=71.84m yaw=359.03deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:23,961 | Climb to mission altitude | lat=50.450722 lon=30.461206 alt=72.56m yaw=359.03deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:24,312 | Climb to mission altitude | lat=50.450719 lon=30.461202 alt=73.94m yaw=359.06deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:24,663 | Climb to mission altitude | lat=50.450716 lon=30.461200 alt=74.65m yaw=359.05deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:25,015 | Climb to mission altitude | lat=50.450712 lon=30.461195 alt=76.02m yaw=359.07deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:25,367 | Climb to mission altitude | lat=50.450709 lon=30.461193 alt=76.72m yaw=359.07deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:25,719 | Climb to mission altitude | lat=50.450707 lon=30.461190 alt=77.50m yaw=359.06deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:26,071 | Climb to mission altitude | lat=50.450701 lon=30.461184 alt=79.09m yaw=359.05deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:26,423 | Climb to mission altitude | lat=50.450698 lon=30.461181 alt=79.86m yaw=359.05deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:26,775 | Climb to mission altitude | lat=50.450691 lon=30.461175 alt=81.40m yaw=359.02deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:27,126 | Climb to mission altitude | lat=50.450687 lon=30.461171 alt=82.22m yaw=359.02deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:27,478 | Climb to mission altitude | lat=50.450680 lon=30.461164 alt=83.88m yaw=359.01deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:27,829 | Climb to mission altitude | lat=50.450676 lon=30.461160 alt=84.72m yaw=359.02deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:28,180 | Climb to mission altitude | lat=50.450672 lon=30.461156 alt=85.56m yaw=359.02deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:28,531 | Climb to mission altitude | lat=50.450663 lon=30.461148 alt=87.23m yaw=359.01deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:28,883 | Climb to mission altitude | lat=50.450659 lon=30.461143 alt=88.09m yaw=359.01deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:29,235 | Climb to mission altitude | lat=50.450654 lon=30.461139 alt=88.98m yaw=359.01deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:29,586 | Climb to mission altitude | lat=50.450645 lon=30.461129 alt=90.81m yaw=359.01deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:29,937 | Climb to mission altitude | lat=50.450640 lon=30.461124 alt=91.75m yaw=359.00deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:30,288 | Climb to mission altitude | lat=50.450629 lon=30.461114 alt=93.66m yaw=358.97deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:30,640 | Climb to mission altitude | lat=50.450624 lon=30.461109 alt=94.63m yaw=358.96deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:30,991 | Climb to mission altitude | lat=50.450613 lon=30.461098 alt=96.56m yaw=358.92deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:31,343 | Climb to mission altitude | lat=50.450607 lon=30.461093 alt=97.45m yaw=358.94deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:31,695 | Climb to mission altitude | lat=50.450602 lon=30.461087 alt=98.36m yaw=358.94deg | roll=- pitch=- throttle=1548
+2026-04-16 18:06:32,046 | Climb to mission altitude | lat=50.450590 lon=30.461075 alt=100.15m yaw=358.94deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:32,398 | Climb to mission altitude | lat=50.450584 lon=30.461070 alt=101.05m yaw=358.95deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:32,749 | Climb to mission altitude | lat=50.450571 lon=30.461057 alt=102.81m yaw=358.97deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:33,101 | Climb to mission altitude | lat=50.450565 lon=30.461051 alt=103.71m yaw=358.97deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:33,452 | Climb to mission altitude | lat=50.450558 lon=30.461045 alt=104.60m yaw=358.97deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:33,803 | Climb to mission altitude | lat=50.450545 lon=30.461032 alt=106.39m yaw=358.96deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:34,154 | Climb to mission altitude | lat=50.450538 lon=30.461025 alt=107.28m yaw=358.96deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:34,505 | Climb to mission altitude | lat=50.450524 lon=30.461012 alt=109.06m yaw=358.96deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:34,856 | Climb to mission altitude | lat=50.450517 lon=30.461005 alt=109.92m yaw=358.96deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:35,207 | Climb to mission altitude | lat=50.450510 lon=30.460998 alt=110.75m yaw=358.96deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:35,584 | Climb to mission altitude | lat=50.450495 lon=30.460984 alt=112.40m yaw=358.97deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:35,939 | Climb to mission altitude | lat=50.450487 lon=30.460977 alt=113.22m yaw=358.98deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:36,292 | Climb to mission altitude | lat=50.450472 lon=30.460962 alt=114.96m yaw=358.97deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:36,643 | Climb to mission altitude | lat=50.450464 lon=30.460955 alt=115.82m yaw=358.97deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:36,994 | Climb to mission altitude | lat=50.450448 lon=30.460940 alt=117.31m yaw=358.96deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:37,346 | Climb to mission altitude | lat=50.450440 lon=30.460932 alt=118.06m yaw=358.97deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:37,697 | Climb to mission altitude | lat=50.450432 lon=30.460925 alt=118.82m yaw=358.97deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:38,049 | Climb to mission altitude | lat=50.450415 lon=30.460909 alt=120.31m yaw=358.94deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:38,401 | Climb to mission altitude | lat=50.450407 lon=30.460901 alt=121.06m yaw=358.95deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:38,753 | Climb to mission altitude | lat=50.450390 lon=30.460885 alt=122.44m yaw=358.97deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:39,104 | Climb to mission altitude | lat=50.450382 lon=30.460877 alt=123.14m yaw=358.96deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:39,455 | Climb to mission altitude | lat=50.450373 lon=30.460869 alt=123.87m yaw=358.95deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:39,807 | Climb to mission altitude | lat=50.450356 lon=30.460852 alt=125.29m yaw=358.95deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:40,158 | Climb to mission altitude | lat=50.450347 lon=30.460844 alt=125.91m yaw=358.94deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:40,509 | Climb to mission altitude | lat=50.450329 lon=30.460827 alt=127.30m yaw=358.94deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:40,861 | Climb to mission altitude | lat=50.450320 lon=30.460818 alt=127.94m yaw=358.95deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:41,212 | Climb to mission altitude | lat=50.450311 lon=30.460810 alt=128.59m yaw=358.95deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:41,564 | Climb to mission altitude | lat=50.450293 lon=30.460793 alt=129.86m yaw=358.97deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:41,916 | Climb to mission altitude | lat=50.450283 lon=30.460784 alt=130.49m yaw=358.97deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:42,268 | Climb to mission altitude | lat=50.450265 lon=30.460766 alt=131.82m yaw=358.98deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:42,619 | Climb to mission altitude | lat=50.450256 lon=30.460758 alt=132.51m yaw=358.97deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:42,971 | Climb to mission altitude | lat=50.450246 lon=30.460749 alt=133.18m yaw=358.95deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:43,321 | Climb to mission altitude | lat=50.450228 lon=30.460732 alt=134.55m yaw=358.96deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:43,672 | Climb to mission altitude | lat=50.450218 lon=30.460723 alt=135.18m yaw=358.98deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:44,024 | Climb to mission altitude | lat=50.450199 lon=30.460705 alt=136.44m yaw=358.97deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:44,375 | Climb to mission altitude | lat=50.450190 lon=30.460697 alt=137.11m yaw=358.98deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:44,726 | Climb to mission altitude | lat=50.450171 lon=30.460679 alt=138.43m yaw=358.97deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:45,077 | Climb to mission altitude | lat=50.450161 lon=30.460670 alt=139.06m yaw=358.96deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:45,429 | Climb to mission altitude | lat=50.450151 lon=30.460662 alt=139.74m yaw=358.96deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:45,781 | Climb to mission altitude | lat=50.450132 lon=30.460644 alt=141.19m yaw=358.97deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:46,132 | Climb to mission altitude | lat=50.450123 lon=30.460635 alt=141.89m yaw=358.97deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:46,483 | Climb to mission altitude | lat=50.450103 lon=30.460618 alt=143.29m yaw=358.97deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:46,835 | Climb to mission altitude | lat=50.450094 lon=30.460609 alt=144.00m yaw=358.96deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:47,186 | Climb to mission altitude | lat=50.450084 lon=30.460600 alt=144.69m yaw=358.98deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:47,537 | Climb to mission altitude | lat=50.450065 lon=30.460582 alt=146.17m yaw=358.97deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:47,888 | Climb to mission altitude | lat=50.450055 lon=30.460573 alt=146.94m yaw=358.98deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:48,240 | Climb to mission altitude | lat=50.450036 lon=30.460555 alt=148.56m yaw=358.98deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:48,592 | Climb to mission altitude | lat=50.450026 lon=30.460546 alt=149.44m yaw=358.97deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:48,943 | Climb to mission altitude | lat=50.450016 lon=30.460537 alt=150.32m yaw=358.99deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:49,295 | Climb to mission altitude | lat=50.449997 lon=30.460520 alt=152.05m yaw=358.99deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:49,647 | Climb to mission altitude | lat=50.449987 lon=30.460511 alt=152.85m yaw=358.99deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:49,998 | Climb to mission altitude | lat=50.449968 lon=30.460493 alt=154.44m yaw=358.99deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:50,349 | Climb to mission altitude | lat=50.449959 lon=30.460484 alt=155.19m yaw=358.99deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:50,701 | Climb to mission altitude | lat=50.449949 lon=30.460475 alt=155.96m yaw=358.99deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:51,053 | Climb to mission altitude | lat=50.449930 lon=30.460457 alt=157.53m yaw=358.97deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:51,404 | Climb to mission altitude | lat=50.449920 lon=30.460448 alt=158.29m yaw=358.97deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:51,755 | Climb to mission altitude | lat=50.449901 lon=30.460430 alt=159.72m yaw=358.98deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:52,107 | Climb to mission altitude | lat=50.449891 lon=30.460421 alt=160.44m yaw=358.99deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:52,458 | Climb to mission altitude | lat=50.449881 lon=30.460412 alt=161.19m yaw=358.99deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:52,809 | Climb to mission altitude | lat=50.449862 lon=30.460394 alt=162.79m yaw=359.00deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:53,161 | Climb to mission altitude | lat=50.449852 lon=30.460385 alt=163.58m yaw=359.00deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:53,512 | Climb to mission altitude | lat=50.449833 lon=30.460367 alt=165.07m yaw=359.00deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:53,864 | Climb to mission altitude | lat=50.449823 lon=30.460359 alt=165.83m yaw=359.00deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:54,216 | Climb to mission altitude | lat=50.449814 lon=30.460350 alt=166.62m yaw=359.00deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:54,567 | Climb to mission altitude | lat=50.449795 lon=30.460332 alt=168.32m yaw=359.00deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:54,919 | Climb to mission altitude | lat=50.449785 lon=30.460323 alt=169.23m yaw=359.00deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:55,271 | Climb to mission altitude | lat=50.449766 lon=30.460305 alt=170.91m yaw=359.00deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:55,623 | Climb to mission altitude | lat=50.449756 lon=30.460296 alt=171.68m yaw=359.01deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:55,974 | Climb to mission altitude | lat=50.449737 lon=30.460278 alt=173.14m yaw=359.01deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:56,325 | Climb to mission altitude | lat=50.449727 lon=30.460269 alt=173.87m yaw=359.01deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:56,676 | Climb to mission altitude | lat=50.449718 lon=30.460260 alt=174.57m yaw=359.01deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:57,027 | Climb to mission altitude | lat=50.449698 lon=30.460242 alt=175.84m yaw=359.01deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:57,378 | Climb to mission altitude | lat=50.449689 lon=30.460233 alt=176.54m yaw=359.01deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:57,730 | Climb to mission altitude | lat=50.449679 lon=30.460224 alt=177.25m yaw=359.01deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:58,082 | Climb to mission altitude | lat=50.449660 lon=30.460206 alt=178.67m yaw=359.01deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:58,433 | Climb to mission altitude | lat=50.449650 lon=30.460197 alt=179.40m yaw=359.00deg | roll=- pitch=- throttle=1542
+2026-04-16 18:06:58,784 | Climb to mission altitude | lat=50.449631 lon=30.460179 alt=181.10m yaw=359.00deg | roll=- pitch=- throttle=1538
+2026-04-16 18:06:59,135 | Climb to mission altitude | lat=50.449621 lon=30.460170 alt=182.01m yaw=359.00deg | roll=- pitch=- throttle=1538
+2026-04-16 18:06:59,486 | Climb to mission altitude | lat=50.449602 lon=30.460152 alt=183.73m yaw=358.99deg | roll=- pitch=- throttle=1538
+2026-04-16 18:06:59,837 | Climb to mission altitude | lat=50.449592 lon=30.460143 alt=184.53m yaw=358.99deg | roll=- pitch=- throttle=1538
+2026-04-16 18:07:00,189 | Climb to mission altitude | lat=50.449582 lon=30.460134 alt=185.34m yaw=358.98deg | roll=- pitch=- throttle=1538
+2026-04-16 18:07:00,541 | Climb to mission altitude | lat=50.449563 lon=30.460116 alt=187.01m yaw=358.97deg | roll=- pitch=- throttle=1538
+2026-04-16 18:07:00,895 | Climb to mission altitude | lat=50.449553 lon=30.460107 alt=187.83m yaw=358.97deg | roll=- pitch=- throttle=1538
+2026-04-16 18:07:01,247 | Climb to mission altitude | lat=50.449534 lon=30.460089 alt=189.51m yaw=359.00deg | roll=- pitch=- throttle=1538
+2026-04-16 18:07:01,598 | Climb to mission altitude | lat=50.449524 lon=30.460081 alt=190.35m yaw=359.00deg | roll=- pitch=- throttle=1538
+2026-04-16 18:07:01,949 | Climb to mission altitude | lat=50.449515 lon=30.460072 alt=191.22m yaw=359.01deg | roll=- pitch=- throttle=1538
+2026-04-16 18:07:02,300 | Climb to mission altitude | lat=50.449495 lon=30.460054 alt=192.77m yaw=359.00deg | roll=- pitch=- throttle=1538
+2026-04-16 18:07:02,652 | Climb to mission altitude | lat=50.449485 lon=30.460045 alt=193.56m yaw=359.00deg | roll=- pitch=- throttle=1538
+2026-04-16 18:07:03,004 | Climb to mission altitude | lat=50.449466 lon=30.460027 alt=195.07m yaw=359.00deg | roll=- pitch=- throttle=1538
+2026-04-16 18:07:03,355 | Climb to mission altitude | lat=50.449456 lon=30.460018 alt=195.83m yaw=359.01deg | roll=- pitch=- throttle=1538
+2026-04-16 18:07:03,706 | Climb to mission altitude | lat=50.449447 lon=30.460009 alt=196.56m yaw=359.00deg | roll=- pitch=- throttle=1538
+2026-04-16 18:07:04,058 | Climb to mission altitude | lat=50.449427 lon=30.459991 alt=197.88m yaw=359.01deg | roll=- pitch=- throttle=1538
+2026-04-16 18:07:04,409 | Climb to mission altitude | lat=50.449418 lon=30.459983 alt=198.52m yaw=359.00deg | roll=- pitch=- throttle=1538
+2026-04-16 18:07:04,761 | Climb to mission altitude | lat=50.449398 lon=30.459965 alt=199.87m yaw=359.00deg | roll=- pitch=- throttle=1538
+2026-04-16 18:07:05,112 | Climb to mission altitude | lat=50.449388 lon=30.459957 alt=200.58m yaw=359.00deg | roll=- pitch=- throttle=1538
+2026-04-16 18:07:05,463 | Climb to mission altitude | lat=50.449379 lon=30.459948 alt=201.34m yaw=359.00deg | roll=- pitch=- throttle=1538
+2026-04-16 18:07:05,814 | Climb to mission altitude | lat=50.449359 lon=30.459931 alt=202.84m yaw=359.00deg | roll=- pitch=- throttle=1538
+2026-04-16 18:07:06,166 | Climb to mission altitude | lat=50.449350 lon=30.459922 alt=203.59m yaw=359.01deg | roll=- pitch=- throttle=1538
+2026-04-16 18:07:06,518 | Climb to mission altitude | lat=50.449330 lon=30.459905 alt=205.05m yaw=359.00deg | roll=- pitch=- throttle=1538
+2026-04-16 18:07:06,869 | Climb to mission altitude | lat=50.449321 lon=30.459896 alt=205.73m yaw=359.01deg | roll=- pitch=- throttle=1538
+2026-04-16 18:07:07,221 | Climb to mission altitude | lat=50.449311 lon=30.459887 alt=206.43m yaw=359.01deg | roll=- pitch=- throttle=1538
+2026-04-16 18:07:07,572 | Climb to mission altitude | lat=50.449291 lon=30.459870 alt=207.92m yaw=359.01deg | roll=- pitch=- throttle=1538
+2026-04-16 18:07:07,923 | Climb to mission altitude | lat=50.449282 lon=30.459861 alt=208.63m yaw=359.01deg | roll=- pitch=- throttle=1538
+2026-04-16 18:07:08,275 | Climb to mission altitude | lat=50.449262 lon=30.459844 alt=209.96m yaw=359.01deg | roll=- pitch=- throttle=1538
+2026-04-16 18:07:08,626 | Climb to mission altitude | lat=50.449253 lon=30.459835 alt=210.65m yaw=359.01deg | roll=- pitch=- throttle=1538
+2026-04-16 18:07:08,977 | Climb to mission altitude | lat=50.449233 lon=30.459818 alt=212.06m yaw=359.00deg | roll=- pitch=- throttle=1538
+2026-04-16 18:07:09,328 | Climb to mission altitude | lat=50.449224 lon=30.459809 alt=212.79m yaw=358.99deg | roll=- pitch=- throttle=1538
+2026-04-16 18:07:09,681 | Climb to mission altitude | lat=50.449214 lon=30.459801 alt=213.56m yaw=358.99deg | roll=- pitch=- throttle=1538
+2026-04-16 18:07:10,032 | Climb to mission altitude | lat=50.449194 lon=30.459783 alt=214.95m yaw=358.97deg | roll=- pitch=- throttle=1538
+2026-04-16 18:07:10,383 | Climb to mission altitude | lat=50.449185 lon=30.459774 alt=215.62m yaw=358.96deg | roll=- pitch=- throttle=1538
+2026-04-16 18:07:10,734 | Climb to mission altitude | lat=50.449165 lon=30.459757 alt=217.01m yaw=358.98deg | roll=- pitch=- throttle=1538
+2026-04-16 18:07:11,086 | Climb to mission altitude | lat=50.449156 lon=30.459748 alt=217.75m yaw=358.98deg | roll=- pitch=- throttle=1538
+2026-04-16 18:07:11,437 | Climb to mission altitude | lat=50.449146 lon=30.459739 alt=218.52m yaw=358.98deg | roll=- pitch=- throttle=1538
+2026-04-16 18:07:11,789 | Climb to mission altitude | lat=50.449126 lon=30.459722 alt=220.14m yaw=358.97deg | roll=- pitch=- throttle=1532
+2026-04-16 18:07:12,140 | Climb to mission altitude | lat=50.449117 lon=30.459713 alt=220.91m yaw=358.98deg | roll=- pitch=- throttle=1532
+2026-04-16 18:07:12,492 | Climb to mission altitude | lat=50.449098 lon=30.459695 alt=222.40m yaw=359.00deg | roll=- pitch=- throttle=1532
+2026-04-16 18:07:12,844 | Climb to mission altitude | lat=50.449088 lon=30.459686 alt=223.14m yaw=359.00deg | roll=- pitch=- throttle=1532
+2026-04-16 18:07:13,195 | Climb to mission altitude | lat=50.449078 lon=30.459678 alt=223.86m yaw=359.00deg | roll=- pitch=- throttle=1532
+2026-04-16 18:07:13,547 | Climb to mission altitude | lat=50.449059 lon=30.459660 alt=225.23m yaw=358.99deg | roll=- pitch=- throttle=1532
+2026-04-16 18:07:13,898 | Climb to mission altitude | lat=50.449049 lon=30.459651 alt=225.87m yaw=358.99deg | roll=- pitch=- throttle=1532
+2026-04-16 18:07:14,249 | Climb to mission altitude | lat=50.449030 lon=30.459634 alt=227.11m yaw=358.98deg | roll=- pitch=- throttle=1532
+2026-04-16 18:07:14,600 | Climb to mission altitude | lat=50.449020 lon=30.459625 alt=227.78m yaw=358.98deg | roll=- pitch=- throttle=1532
+2026-04-16 18:07:14,952 | Climb to mission altitude | lat=50.449011 lon=30.459617 alt=228.47m yaw=358.99deg | roll=- pitch=- throttle=1532
+2026-04-16 18:07:15,304 | Climb to mission altitude | lat=50.448991 lon=30.459599 alt=229.87m yaw=359.01deg | roll=- pitch=- throttle=1532
+2026-04-16 18:07:15,655 | Climb to mission altitude | lat=50.448982 lon=30.459590 alt=230.60m yaw=359.00deg | roll=- pitch=- throttle=1532
+2026-04-16 18:07:16,006 | Climb to mission altitude | lat=50.448962 lon=30.459573 alt=232.00m yaw=359.00deg | roll=- pitch=- throttle=1532
+2026-04-16 18:07:16,357 | Climb to mission altitude | lat=50.448953 lon=30.459564 alt=232.63m yaw=358.99deg | roll=- pitch=- throttle=1532
+2026-04-16 18:07:16,709 | Climb to mission altitude | lat=50.448943 lon=30.459555 alt=233.22m yaw=359.00deg | roll=- pitch=- throttle=1532
+2026-04-16 18:07:17,060 | Climb to mission altitude | lat=50.448924 lon=30.459538 alt=234.40m yaw=359.02deg | roll=- pitch=- throttle=1532
+2026-04-16 18:07:17,412 | Climb to mission altitude | lat=50.448914 lon=30.459529 alt=235.00m yaw=359.00deg | roll=- pitch=- throttle=1532
+2026-04-16 18:07:17,763 | Climb to mission altitude | lat=50.448895 lon=30.459511 alt=236.22m yaw=359.02deg | roll=- pitch=- throttle=1532
+2026-04-16 18:07:18,115 | Climb to mission altitude | lat=50.448885 lon=30.459502 alt=236.86m yaw=359.01deg | roll=- pitch=- throttle=1532
+2026-04-16 18:07:18,467 | Climb to mission altitude | lat=50.448875 lon=30.459494 alt=237.55m yaw=359.01deg | roll=- pitch=- throttle=1532
+2026-04-16 18:07:18,818 | Climb to mission altitude | lat=50.448856 lon=30.459476 alt=239.01m yaw=359.01deg | roll=- pitch=- throttle=1532
+2026-04-16 18:07:19,181 | Climb to mission altitude | lat=50.448846 lon=30.459467 alt=239.76m yaw=359.01deg | roll=- pitch=- throttle=1532
+2026-04-16 18:07:19,531 | Climb to mission altitude | lat=50.448827 lon=30.459450 alt=241.21m yaw=359.01deg | roll=- pitch=- throttle=1532
+2026-04-16 18:07:19,882 | Climb to mission altitude | lat=50.448817 lon=30.459441 alt=241.86m yaw=359.01deg | roll=- pitch=- throttle=1532
+2026-04-16 18:07:20,234 | Climb to mission altitude | lat=50.448807 lon=30.459432 alt=242.48m yaw=359.01deg | roll=- pitch=- throttle=1532
+2026-04-16 18:07:20,585 | Climb to mission altitude | lat=50.448788 lon=30.459414 alt=243.70m yaw=359.01deg | roll=- pitch=- throttle=1532
+2026-04-16 18:07:20,937 | Climb to mission altitude | lat=50.448778 lon=30.459406 alt=244.30m yaw=359.02deg | roll=- pitch=- throttle=1532
+2026-04-16 18:07:21,288 | Climb to mission altitude | lat=50.448759 lon=30.459388 alt=245.52m yaw=359.01deg | roll=- pitch=- throttle=1532
+2026-04-16 18:07:21,639 | Climb to mission altitude | lat=50.448749 lon=30.459379 alt=246.05m yaw=359.01deg | roll=- pitch=- throttle=1532
+2026-04-16 18:07:21,992 | Climb to mission altitude | lat=50.448740 lon=30.459370 alt=246.56m yaw=359.01deg | roll=- pitch=- throttle=1532
+2026-04-16 18:07:22,343 | Climb to mission altitude | lat=50.448720 lon=30.459352 alt=247.64m yaw=359.01deg | roll=- pitch=- throttle=1532
+2026-04-16 18:07:22,694 | Climb to mission altitude | lat=50.448710 lon=30.459343 alt=248.17m yaw=359.01deg | roll=- pitch=- throttle=1532
+2026-04-16 18:07:23,046 | Climb to mission altitude | lat=50.448691 lon=30.459326 alt=249.27m yaw=359.01deg | roll=- pitch=- throttle=1532
+2026-04-16 18:07:23,397 | Climb to mission altitude | lat=50.448681 lon=30.459317 alt=249.89m yaw=359.01deg | roll=- pitch=- throttle=1532
+2026-04-16 18:07:23,748 | Climb to mission altitude | lat=50.448662 lon=30.459299 alt=251.00m yaw=359.01deg | roll=- pitch=- throttle=1526
+2026-04-16 18:07:24,100 | Climb to mission altitude | lat=50.448652 lon=30.459290 alt=251.57m yaw=359.01deg | roll=- pitch=- throttle=1526
+2026-04-16 18:07:24,452 | Climb to mission altitude | lat=50.448642 lon=30.459281 alt=252.13m yaw=359.01deg | roll=- pitch=- throttle=1526
+2026-04-16 18:07:24,803 | Climb to mission altitude | lat=50.448623 lon=30.459264 alt=253.19m yaw=359.02deg | roll=- pitch=- throttle=1526
+2026-04-16 18:07:25,155 | Climb to mission altitude | lat=50.448613 lon=30.459255 alt=253.68m yaw=359.01deg | roll=- pitch=- throttle=1526
+2026-04-16 18:07:25,506 | Climb to mission altitude | lat=50.448593 lon=30.459237 alt=254.67m yaw=359.02deg | roll=- pitch=- throttle=1526
+2026-04-16 18:07:25,857 | Climb to mission altitude | lat=50.448584 lon=30.459228 alt=255.16m yaw=359.03deg | roll=- pitch=- throttle=1526
+2026-04-16 18:07:26,209 | Climb to mission altitude | lat=50.448574 lon=30.459219 alt=255.62m yaw=359.03deg | roll=- pitch=- throttle=1526
+2026-04-16 18:07:26,560 | Climb to mission altitude | lat=50.448554 lon=30.459201 alt=256.48m yaw=359.03deg | roll=- pitch=- throttle=1526
+2026-04-16 18:07:26,911 | Climb to mission altitude | lat=50.448544 lon=30.459192 alt=256.89m yaw=359.03deg | roll=- pitch=- throttle=1526
+2026-04-16 18:07:27,263 | Climb to mission altitude | lat=50.448525 lon=30.459175 alt=257.75m yaw=359.02deg | roll=- pitch=- throttle=1526
+2026-04-16 18:07:27,614 | Climb to mission altitude | lat=50.448515 lon=30.459166 alt=258.20m yaw=359.02deg | roll=- pitch=- throttle=1526
+2026-04-16 18:07:27,966 | Climb to mission altitude | lat=50.448505 lon=30.459157 alt=258.66m yaw=359.02deg | roll=- pitch=- throttle=1526
+2026-04-16 18:07:28,317 | Climb to mission altitude | lat=50.448485 lon=30.459139 alt=259.79m yaw=359.01deg | roll=- pitch=- throttle=1526
+2026-04-16 18:07:28,669 | Climb to mission altitude | lat=50.448476 lon=30.459130 alt=260.38m yaw=359.00deg | roll=- pitch=- throttle=1526
+2026-04-16 18:07:29,020 | Climb to mission altitude | lat=50.448456 lon=30.459113 alt=261.54m yaw=358.99deg | roll=- pitch=- throttle=1526
+2026-04-16 18:07:29,372 | Climb to mission altitude | lat=50.448447 lon=30.459104 alt=262.11m yaw=358.99deg | roll=- pitch=- throttle=1526
+2026-04-16 18:07:29,723 | Climb to mission altitude | lat=50.448437 lon=30.459095 alt=262.61m yaw=358.98deg | roll=- pitch=- throttle=1526
+2026-04-16 18:07:30,074 | Climb to mission altitude | lat=50.448417 lon=30.459078 alt=263.53m yaw=358.97deg | roll=- pitch=- throttle=1526
+2026-04-16 18:07:30,426 | Climb to mission altitude | lat=50.448407 lon=30.459069 alt=264.00m yaw=358.98deg | roll=- pitch=- throttle=1526
+2026-04-16 18:07:30,777 | Climb to mission altitude | lat=50.448388 lon=30.459051 alt=264.94m yaw=359.00deg | roll=- pitch=- throttle=1526
+2026-04-16 18:07:31,128 | Climb to mission altitude | lat=50.448378 lon=30.459042 alt=265.42m yaw=359.00deg | roll=- pitch=- throttle=1526
+2026-04-16 18:07:31,479 | Climb to mission altitude | lat=50.448369 lon=30.459034 alt=265.92m yaw=359.00deg | roll=- pitch=- throttle=1526
+2026-04-16 18:07:31,831 | Climb to mission altitude | lat=50.448349 lon=30.459016 alt=267.00m yaw=358.99deg | roll=- pitch=- throttle=1526
+2026-04-16 18:07:32,182 | Climb to mission altitude | lat=50.448339 lon=30.459007 alt=267.58m yaw=358.98deg | roll=- pitch=- throttle=1526
+2026-04-16 18:07:32,534 | Climb to mission altitude | lat=50.448320 lon=30.458990 alt=268.82m yaw=358.99deg | roll=- pitch=- throttle=1526
+2026-04-16 18:07:32,885 | Climb to mission altitude | lat=50.448310 lon=30.458981 alt=269.40m yaw=359.00deg | roll=- pitch=- throttle=1526
+2026-04-16 18:07:33,237 | Climb to mission altitude | lat=50.448300 lon=30.458972 alt=269.97m yaw=359.00deg | roll=- pitch=- throttle=1526
+2026-04-16 18:07:33,589 | Climb to mission altitude | lat=50.448281 lon=30.458955 alt=271.22m yaw=359.00deg | roll=- pitch=- throttle=1526
+2026-04-16 18:07:33,940 | Climb to mission altitude | lat=50.448271 lon=30.458946 alt=271.87m yaw=358.99deg | roll=- pitch=- throttle=1526
+2026-04-16 18:07:34,292 | Climb to mission altitude | lat=50.448251 lon=30.458928 alt=273.12m yaw=359.01deg | roll=- pitch=- throttle=1526
+2026-04-16 18:07:34,644 | Climb to mission altitude | lat=50.448241 lon=30.458919 alt=273.80m yaw=359.01deg | roll=- pitch=- throttle=1526
+2026-04-16 18:07:34,996 | Climb to mission altitude | lat=50.448231 lon=30.458911 alt=274.50m yaw=359.01deg | roll=- pitch=- throttle=1526
+2026-04-16 18:07:35,347 | Climb to mission altitude | lat=50.448212 lon=30.458893 alt=275.87m yaw=359.01deg | roll=- pitch=- throttle=1526
+2026-04-16 18:07:35,698 | Climb to mission altitude | lat=50.448202 lon=30.458884 alt=276.55m yaw=359.02deg | roll=- pitch=- throttle=1526
+2026-04-16 18:07:36,049 | Climb to mission altitude | lat=50.448183 lon=30.458867 alt=277.80m yaw=359.01deg | roll=- pitch=- throttle=1526
+2026-04-16 18:07:36,401 | Climb to mission altitude | lat=50.448173 lon=30.458859 alt=278.41m yaw=359.02deg | roll=- pitch=- throttle=1526
+2026-04-16 18:07:36,753 | Climb to mission altitude | lat=50.448153 lon=30.458841 alt=279.64m yaw=359.02deg | roll=- pitch=- throttle=1526
+2026-04-16 18:07:37,104 | Climb to mission altitude | lat=50.448144 lon=30.458832 alt=280.27m yaw=359.02deg | roll=- pitch=- throttle=1520
+2026-04-16 18:07:37,456 | Climb to mission altitude | lat=50.448134 lon=30.458824 alt=280.92m yaw=359.02deg | roll=- pitch=- throttle=1520
+2026-04-16 18:07:37,807 | Climb to mission altitude | lat=50.448114 lon=30.458807 alt=282.20m yaw=359.01deg | roll=- pitch=- throttle=1520
+2026-04-16 18:07:38,159 | Climb to mission altitude | lat=50.448105 lon=30.458798 alt=282.80m yaw=359.01deg | roll=- pitch=- throttle=1520
+2026-04-16 18:07:38,510 | Climb to mission altitude | lat=50.448085 lon=30.458781 alt=284.12m yaw=359.01deg | roll=- pitch=- throttle=1520
+2026-04-16 18:07:38,862 | Climb to mission altitude | lat=50.448075 lon=30.458772 alt=284.75m yaw=359.02deg | roll=- pitch=- throttle=1520
+2026-04-16 18:07:39,214 | Climb to mission altitude | lat=50.448065 lon=30.458763 alt=285.32m yaw=359.01deg | roll=- pitch=- throttle=1520
+2026-04-16 18:07:39,565 | Climb to mission altitude | lat=50.448046 lon=30.458746 alt=286.50m yaw=359.02deg | roll=- pitch=- throttle=1520
+2026-04-16 18:07:39,917 | Climb to mission altitude | lat=50.448036 lon=30.458737 alt=287.14m yaw=359.01deg | roll=- pitch=- throttle=1520
+2026-04-16 18:07:40,269 | Climb to mission altitude reached pre-target zone at 288.49 m
+2026-04-16 18:07:41,271 | Mission altitude stabilize at 300.00 m
+2026-04-16 18:07:41,272 | Mission altitude stabilize | lat=50.447977 lon=30.458685 alt=290.64m yaw=359.02deg | dist=912.9m | roll=- pitch=- throttle=1504 | alt_err=9.36 vz_down=-1.81 stable=0/6
+2026-04-16 18:07:41,624 | Mission altitude stabilize | lat=50.447967 lon=30.458677 alt=291.09m yaw=359.02deg | dist=911.8m | roll=- pitch=- throttle=1504 | alt_err=8.91 vz_down=-1.82 stable=0/6
+2026-04-16 18:07:41,975 | Mission altitude stabilize | lat=50.447958 lon=30.458668 alt=291.53m yaw=359.02deg | dist=910.7m | roll=- pitch=- throttle=1504 | alt_err=8.47 vz_down=-1.71 stable=0/6
+2026-04-16 18:07:42,327 | Mission altitude stabilize | lat=50.447938 lon=30.458651 alt=292.38m yaw=359.02deg | dist=908.4m | roll=- pitch=- throttle=1504 | alt_err=7.62 vz_down=-1.73 stable=0/6
+2026-04-16 18:07:42,679 | Mission altitude stabilize | lat=50.447928 lon=30.458642 alt=292.80m yaw=359.02deg | dist=907.3m | roll=- pitch=- throttle=1504 | alt_err=7.20 vz_down=-1.68 stable=0/6
+2026-04-16 18:07:43,030 | Mission altitude stabilize | lat=50.447908 lon=30.458625 alt=293.55m yaw=359.02deg | dist=905.1m | roll=- pitch=- throttle=1498 | alt_err=6.45 vz_down=-1.38 stable=0/6
+2026-04-16 18:07:43,382 | Mission altitude stabilize | lat=50.447899 lon=30.458616 alt=293.87m yaw=359.02deg | dist=903.9m | roll=- pitch=- throttle=1498 | alt_err=6.13 vz_down=-1.17 stable=0/6
+2026-04-16 18:07:43,733 | Mission altitude stabilize | lat=50.447889 lon=30.458608 alt=294.17m yaw=359.01deg | dist=902.8m | roll=- pitch=- throttle=1498 | alt_err=5.83 vz_down=-1.14 stable=0/6
+2026-04-16 18:07:44,084 | Mission altitude stabilize | lat=50.447869 lon=30.458590 alt=294.74m yaw=359.01deg | dist=900.6m | roll=- pitch=- throttle=1498 | alt_err=5.26 vz_down=-1.18 stable=0/6
+2026-04-16 18:07:44,436 | Mission altitude stabilize | lat=50.447859 lon=30.458582 alt=295.03m yaw=359.01deg | dist=899.4m | roll=- pitch=- throttle=1498 | alt_err=4.97 vz_down=-1.22 stable=0/6
+2026-04-16 18:07:44,787 | Mission altitude stabilize | lat=50.447839 lon=30.458564 alt=295.60m yaw=359.01deg | dist=897.2m | roll=- pitch=- throttle=1498 | alt_err=4.40 vz_down=-1.02 stable=0/6
+2026-04-16 18:07:45,139 | Mission altitude stabilize | lat=50.447829 lon=30.458555 alt=295.85m yaw=359.02deg | dist=896.1m | roll=- pitch=- throttle=1498 | alt_err=4.15 vz_down=-1.05 stable=0/6
+2026-04-16 18:07:45,491 | Mission altitude stabilize | lat=50.447820 lon=30.458547 alt=296.10m yaw=359.01deg | dist=894.9m | roll=- pitch=- throttle=1498 | alt_err=3.90 vz_down=-0.95 stable=0/6
+2026-04-16 18:07:45,842 | Mission altitude stabilize | lat=50.447800 lon=30.458530 alt=296.59m yaw=359.02deg | dist=892.7m | roll=- pitch=- throttle=1498 | alt_err=3.41 vz_down=-0.88 stable=0/6
+2026-04-16 18:07:46,193 | Mission altitude stabilize | lat=50.447790 lon=30.458521 alt=296.80m yaw=359.01deg | dist=891.6m | roll=- pitch=- throttle=1498 | alt_err=3.20 vz_down=-0.80 stable=0/6
+2026-04-16 18:07:46,545 | Mission altitude stabilize | lat=50.447770 lon=30.458503 alt=297.09m yaw=359.01deg | dist=889.4m | roll=- pitch=- throttle=1492 | alt_err=2.91 vz_down=-0.49 stable=0/6
+2026-04-16 18:07:46,896 | Mission altitude stabilize | lat=50.447761 lon=30.458495 alt=297.19m yaw=359.01deg | dist=888.2m | roll=- pitch=- throttle=1492 | alt_err=2.81 vz_down=-0.41 stable=0/6
+2026-04-16 18:07:47,247 | Mission altitude stabilize | lat=50.447751 lon=30.458486 alt=297.30m yaw=359.01deg | dist=887.1m | roll=- pitch=- throttle=1492 | alt_err=2.70 vz_down=-0.47 stable=0/6
+2026-04-16 18:07:47,598 | Mission altitude stabilize | lat=50.447731 lon=30.458468 alt=297.50m yaw=359.00deg | dist=884.8m | roll=- pitch=- throttle=1492 | alt_err=2.50 vz_down=-0.42 stable=0/6
+2026-04-16 18:07:47,949 | Mission altitude stabilize | lat=50.447721 lon=30.458460 alt=297.60m yaw=358.99deg | dist=883.7m | roll=- pitch=- throttle=1492 | alt_err=2.40 vz_down=-0.40 stable=0/6
+2026-04-16 18:07:48,300 | Mission altitude stabilize | lat=50.447702 lon=30.458442 alt=297.77m yaw=358.98deg | dist=881.5m | roll=- pitch=- throttle=1492 | alt_err=2.23 vz_down=-0.33 stable=0/6
+2026-04-16 18:07:48,652 | Mission altitude stabilize | lat=50.447692 lon=30.458434 alt=297.84m yaw=358.98deg | dist=880.4m | roll=- pitch=- throttle=1492 | alt_err=2.16 vz_down=-0.25 stable=0/6
+2026-04-16 18:07:49,003 | Mission altitude stabilize | lat=50.447682 lon=30.458425 alt=297.88m yaw=358.98deg | dist=879.3m | roll=- pitch=- throttle=1492 | alt_err=2.12 vz_down=-0.06 stable=0/6
+2026-04-16 18:07:49,355 | Mission altitude stabilize | lat=50.447662 lon=30.458407 alt=297.89m yaw=358.98deg | dist=877.0m | roll=- pitch=- throttle=1492 | alt_err=2.11 vz_down=-0.06 stable=0/6
+2026-04-16 18:07:49,728 | Mission altitude stabilize | lat=50.447652 lon=30.458399 alt=297.91m yaw=358.99deg | dist=875.9m | roll=- pitch=- throttle=1492 | alt_err=2.09 vz_down=-0.17 stable=0/6
+2026-04-16 18:07:50,142 | Mission altitude stabilize | lat=50.447632 lon=30.458381 alt=297.94m yaw=359.00deg | dist=873.6m | roll=- pitch=- throttle=1492 | alt_err=2.06 vz_down=0.03 stable=0/6
+2026-04-16 18:07:50,492 | Mission altitude stabilize | lat=50.447623 lon=30.458373 alt=297.93m yaw=359.00deg | dist=872.5m | roll=- pitch=- throttle=1492 | alt_err=2.07 vz_down=0.00 stable=0/6
+2026-04-16 18:07:50,844 | Mission altitude stabilize | lat=50.447603 lon=30.458355 alt=297.93m yaw=358.99deg | dist=870.3m | roll=- pitch=- throttle=1492 | alt_err=2.07 vz_down=0.00 stable=0/6
+2026-04-16 18:07:51,195 | Mission altitude stabilize | lat=50.447593 lon=30.458347 alt=297.94m yaw=358.99deg | dist=869.2m | roll=- pitch=- throttle=1492 | alt_err=2.06 vz_down=-0.12 stable=0/6
+2026-04-16 18:07:51,547 | Mission altitude stabilize | lat=50.447573 lon=30.458329 alt=298.11m yaw=358.98deg | dist=866.9m | roll=- pitch=- throttle=1492 | alt_err=1.89 vz_down=-0.44 stable=0/6
+2026-04-16 18:07:51,899 | Mission altitude stabilize | lat=50.447563 lon=30.458320 alt=298.24m yaw=358.99deg | dist=865.8m | roll=- pitch=- throttle=1492 | alt_err=1.76 vz_down=-0.62 stable=1/6
+2026-04-16 18:07:52,250 | Mission altitude stabilize | lat=50.447553 lon=30.458312 alt=298.38m yaw=359.00deg | dist=864.7m | roll=- pitch=- throttle=1492 | alt_err=1.62 vz_down=-0.61 stable=2/6
+2026-04-16 18:07:52,601 | Mission altitude stabilize | lat=50.447533 lon=30.458294 alt=298.71m yaw=358.99deg | dist=862.5m | roll=- pitch=- throttle=1492 | alt_err=1.29 vz_down=-0.50 stable=3/6
+2026-04-16 18:07:52,953 | Mission altitude stabilize | lat=50.447524 lon=30.458285 alt=298.85m yaw=358.99deg | dist=861.3m | roll=- pitch=- throttle=1492 | alt_err=1.15 vz_down=-0.59 stable=4/6
+2026-04-16 18:07:53,304 | Mission altitude stabilize | lat=50.447504 lon=30.458268 alt=299.13m yaw=358.99deg | dist=859.1m | roll=- pitch=- throttle=1488 | alt_err=0.87 vz_down=-0.36 stable=5/6
+2026-04-16 18:07:53,655 | Mission altitude stabilize stabilized
+2026-04-16 18:07:53,656 | Cruising toward target B at target altitude...
+2026-04-16 18:07:53,657 | Cruise | lat=50.447494 lon=30.458259 alt=299.21m yaw=358.99deg | dist=858.0m | north=-463.9 | east=-721.7 | roll=1482 pitch=1500 throttle=1488 | alt=299.21
+2026-04-16 18:07:54,008 | Cruise | lat=50.447474 lon=30.458242 alt=299.35m yaw=359.01deg | dist=855.8m | north=-461.7 | east=-720.5 | roll=1482 pitch=1500 throttle=1488 | alt=299.35
+2026-04-16 18:07:54,359 | Cruise | lat=50.447464 lon=30.458233 alt=299.41m yaw=359.02deg | dist=854.6m | north=-460.6 | east=-719.9 | roll=1482 pitch=1500 throttle=1488 | alt=299.41
+2026-04-16 18:07:54,710 | Cruise | lat=50.447454 lon=30.458225 alt=299.48m yaw=359.02deg | dist=853.5m | north=-459.5 | east=-719.3 | roll=1482 pitch=1500 throttle=1488 | alt=299.48
+2026-04-16 18:07:55,063 | Cruise | lat=50.447434 lon=30.458207 alt=299.52m yaw=359.03deg | dist=851.3m | north=-457.3 | east=-718.0 | roll=1482 pitch=1500 throttle=1488 | alt=299.52
+2026-04-16 18:07:55,414 | Cruise | lat=50.447424 lon=30.458198 alt=299.50m yaw=359.03deg | dist=850.2m | north=-456.2 | east=-717.4 | roll=1482 pitch=1500 throttle=1488 | alt=299.50
+2026-04-16 18:07:55,765 | Cruise | lat=50.447404 lon=30.458181 alt=299.49m yaw=359.03deg | dist=847.9m | north=-454.0 | east=-716.2 | roll=1482 pitch=1500 throttle=1488 | alt=299.49
+2026-04-16 18:07:56,117 | Cruise | lat=50.447395 lon=30.458172 alt=299.49m yaw=359.03deg | dist=846.8m | north=-452.9 | east=-715.6 | roll=1482 pitch=1500 throttle=1488 | alt=299.49
+2026-04-16 18:07:56,468 | Cruise | lat=50.447385 lon=30.458164 alt=299.46m yaw=359.03deg | dist=845.7m | north=-451.8 | east=-714.9 | roll=1482 pitch=1500 throttle=1488 | alt=299.46
+2026-04-16 18:07:56,819 | Cruise | lat=50.447365 lon=30.458146 alt=299.38m yaw=359.03deg | dist=843.5m | north=-449.6 | east=-713.7 | roll=1482 pitch=1500 throttle=1488 | alt=299.38
+2026-04-16 18:07:57,170 | Cruise | lat=50.447355 lon=30.458137 alt=299.36m yaw=359.02deg | dist=842.4m | north=-448.5 | east=-713.1 | roll=1482 pitch=1500 throttle=1488 | alt=299.36
+2026-04-16 18:07:57,521 | Cruise | lat=50.447336 lon=30.458119 alt=299.32m yaw=359.02deg | dist=840.2m | north=-446.3 | east=-711.8 | roll=1482 pitch=1500 throttle=1488 | alt=299.32
+2026-04-16 18:07:57,873 | Cruise | lat=50.447326 lon=30.458111 alt=299.32m yaw=359.02deg | dist=839.1m | north=-445.2 | east=-711.2 | roll=1482 pitch=1500 throttle=1488 | alt=299.32
+2026-04-16 18:07:58,224 | Cruise | lat=50.447316 lon=30.458102 alt=299.32m yaw=359.02deg | dist=838.0m | north=-444.2 | east=-710.6 | roll=1482 pitch=1500 throttle=1488 | alt=299.32
+2026-04-16 18:07:58,575 | Cruise | lat=50.447296 lon=30.458085 alt=299.26m yaw=359.02deg | dist=835.8m | north=-442.0 | east=-709.3 | roll=1482 pitch=1500 throttle=1488 | alt=299.26
+2026-04-16 18:07:58,927 | Cruise | lat=50.447286 lon=30.458076 alt=299.26m yaw=359.02deg | dist=834.7m | north=-440.9 | east=-708.7 | roll=1482 pitch=1500 throttle=1488 | alt=299.26
+2026-04-16 18:07:59,278 | Cruise | lat=50.447267 lon=30.458058 alt=299.26m yaw=359.02deg | dist=832.4m | north=-438.7 | east=-707.5 | roll=1482 pitch=1500 throttle=1488 | alt=299.26
+2026-04-16 18:07:59,630 | Cruise | lat=50.447257 lon=30.458049 alt=299.26m yaw=359.01deg | dist=831.3m | north=-437.6 | east=-706.8 | roll=1482 pitch=1500 throttle=1488 | alt=299.26
+2026-04-16 18:07:59,982 | Cruise | lat=50.447247 lon=30.458041 alt=299.30m yaw=359.01deg | dist=830.2m | north=-436.5 | east=-706.2 | roll=1482 pitch=1500 throttle=1488 | alt=299.30
+2026-04-16 18:08:00,333 | Cruise | lat=50.447228 lon=30.458023 alt=299.21m yaw=359.01deg | dist=828.0m | north=-434.3 | east=-705.0 | roll=1482 pitch=1500 throttle=1488 | alt=299.21
+2026-04-16 18:08:00,685 | Cruise | lat=50.447218 lon=30.458014 alt=299.14m yaw=359.01deg | dist=826.9m | north=-433.2 | east=-704.4 | roll=1482 pitch=1500 throttle=1488 | alt=299.14
+2026-04-16 18:08:01,036 | Cruise | lat=50.447198 lon=30.457997 alt=299.04m yaw=359.01deg | dist=824.7m | north=-431.1 | east=-703.1 | roll=1482 pitch=1500 throttle=1488 | alt=299.04
+2026-04-16 18:08:01,387 | Cruise | lat=50.447189 lon=30.457988 alt=298.97m yaw=359.01deg | dist=823.7m | north=-430.0 | east=-702.5 | roll=1482 pitch=1500 throttle=1492 | alt=298.97
+2026-04-16 18:08:01,738 | Cruise | lat=50.447179 lon=30.457979 alt=298.89m yaw=359.01deg | dist=822.5m | north=-428.9 | east=-701.9 | roll=1482 pitch=1500 throttle=1492 | alt=298.89
+2026-04-16 18:08:02,089 | Cruise | lat=50.447159 lon=30.457962 alt=298.68m yaw=359.00deg | dist=820.4m | north=-426.7 | east=-700.6 | roll=1482 pitch=1500 throttle=1492 | alt=298.68
+2026-04-16 18:08:02,441 | Cruise | lat=50.447150 lon=30.457953 alt=298.57m yaw=358.99deg | dist=819.3m | north=-425.7 | east=-700.0 | roll=1482 pitch=1500 throttle=1492 | alt=298.57
+2026-04-16 18:08:02,793 | Cruise | lat=50.447130 lon=30.457936 alt=298.35m yaw=358.99deg | dist=817.1m | north=-423.5 | east=-698.8 | roll=1482 pitch=1500 throttle=1492 | alt=298.35
+2026-04-16 18:08:03,144 | Cruise | lat=50.447121 lon=30.457927 alt=298.23m yaw=358.98deg | dist=816.0m | north=-422.4 | east=-698.2 | roll=1482 pitch=1500 throttle=1492 | alt=298.23
+2026-04-16 18:08:03,495 | Cruise | lat=50.447111 lon=30.457918 alt=298.17m yaw=358.99deg | dist=814.9m | north=-421.3 | east=-697.5 | roll=1482 pitch=1500 throttle=1492 | alt=298.17
+2026-04-16 18:08:03,846 | Cruise | lat=50.447091 lon=30.457901 alt=298.07m yaw=359.01deg | dist=812.8m | north=-419.2 | east=-696.3 | roll=1482 pitch=1500 throttle=1492 | alt=298.07
+2026-04-16 18:08:04,198 | Cruise | lat=50.447082 lon=30.457892 alt=298.05m yaw=359.01deg | dist=811.7m | north=-418.1 | east=-695.7 | roll=1482 pitch=1500 throttle=1492 | alt=298.05
+2026-04-16 18:08:04,549 | Cruise | lat=50.447063 lon=30.457875 alt=298.05m yaw=359.01deg | dist=809.5m | north=-415.9 | east=-694.5 | roll=1482 pitch=1500 throttle=1492 | alt=298.05
+2026-04-16 18:08:04,901 | Cruise | lat=50.447053 lon=30.457866 alt=298.03m yaw=359.01deg | dist=808.4m | north=-414.9 | east=-693.9 | roll=1482 pitch=1500 throttle=1492 | alt=298.03
+2026-04-16 18:08:05,252 | Cruise | lat=50.447033 lon=30.457849 alt=297.97m yaw=359.00deg | dist=806.3m | north=-412.7 | east=-692.6 | roll=1482 pitch=1500 throttle=1492 | alt=297.97
+2026-04-16 18:08:05,603 | Cruise | lat=50.447024 lon=30.457840 alt=297.93m yaw=359.00deg | dist=805.2m | north=-411.6 | east=-692.0 | roll=1482 pitch=1500 throttle=1492 | alt=297.93
+2026-04-16 18:08:05,955 | Cruise | lat=50.447014 lon=30.457832 alt=297.90m yaw=358.99deg | dist=804.1m | north=-410.5 | east=-691.4 | roll=1482 pitch=1500 throttle=1492 | alt=297.90
+2026-04-16 18:08:06,306 | Cruise | lat=50.446994 lon=30.457814 alt=297.91m yaw=358.99deg | dist=801.9m | north=-408.4 | east=-690.2 | roll=1482 pitch=1500 throttle=1492 | alt=297.91
+2026-04-16 18:08:06,657 | Cruise | lat=50.446985 lon=30.457805 alt=297.92m yaw=359.00deg | dist=800.9m | north=-407.3 | east=-689.6 | roll=1482 pitch=1500 throttle=1492 | alt=297.92
+2026-04-16 18:08:07,008 | Cruise | lat=50.446965 lon=30.457788 alt=297.96m yaw=359.00deg | dist=798.7m | north=-405.1 | east=-688.3 | roll=1482 pitch=1500 throttle=1492 | alt=297.96
+2026-04-16 18:08:07,360 | Cruise | lat=50.446955 lon=30.457779 alt=297.98m yaw=359.00deg | dist=797.6m | north=-404.0 | east=-687.7 | roll=1482 pitch=1500 throttle=1492 | alt=297.98
+2026-04-16 18:08:07,711 | Cruise | lat=50.446946 lon=30.457770 alt=297.97m yaw=359.00deg | dist=796.5m | north=-402.9 | east=-687.1 | roll=1482 pitch=1500 throttle=1492 | alt=297.97
+2026-04-16 18:08:08,063 | Cruise | lat=50.446926 lon=30.457753 alt=297.89m yaw=358.99deg | dist=794.3m | north=-400.7 | east=-685.8 | roll=1482 pitch=1500 throttle=1492 | alt=297.89
+2026-04-16 18:08:08,414 | Cruise | lat=50.446916 lon=30.457744 alt=297.86m yaw=358.99deg | dist=793.2m | north=-399.7 | east=-685.2 | roll=1482 pitch=1500 throttle=1492 | alt=297.86
+2026-04-16 18:08:08,766 | Cruise | lat=50.446897 lon=30.457727 alt=297.75m yaw=358.99deg | dist=791.1m | north=-397.5 | east=-684.0 | roll=1482 pitch=1500 throttle=1492 | alt=297.75
+2026-04-16 18:08:09,118 | Cruise | lat=50.446887 lon=30.457718 alt=297.70m yaw=359.01deg | dist=790.0m | north=-396.4 | east=-683.4 | roll=1482 pitch=1500 throttle=1492 | alt=297.70
+2026-04-16 18:08:09,470 | Cruise | lat=50.446877 lon=30.457709 alt=297.66m yaw=359.01deg | dist=788.9m | north=-395.3 | east=-682.7 | roll=1482 pitch=1500 throttle=1492 | alt=297.66
+2026-04-16 18:08:09,821 | Cruise | lat=50.446858 lon=30.457692 alt=297.60m yaw=359.02deg | dist=786.8m | north=-393.1 | east=-681.5 | roll=1482 pitch=1500 throttle=1492 | alt=297.60
+2026-04-16 18:08:10,172 | Cruise | lat=50.446848 lon=30.457683 alt=297.57m yaw=359.02deg | dist=785.7m | north=-392.0 | east=-680.9 | roll=1482 pitch=1500 throttle=1492 | alt=297.57
+2026-04-16 18:08:10,523 | Cruise | lat=50.446828 lon=30.457666 alt=297.45m yaw=359.02deg | dist=783.5m | north=-389.9 | east=-679.6 | roll=1482 pitch=1500 throttle=1492 | alt=297.45
+2026-04-16 18:08:10,874 | Cruise | lat=50.446818 lon=30.457657 alt=297.40m yaw=359.02deg | dist=782.5m | north=-388.8 | east=-679.0 | roll=1482 pitch=1500 throttle=1492 | alt=297.40
+2026-04-16 18:08:11,226 | Cruise | lat=50.446809 lon=30.457648 alt=297.34m yaw=359.01deg | dist=781.4m | north=-387.7 | east=-678.4 | roll=1482 pitch=1500 throttle=1492 | alt=297.34
+2026-04-16 18:08:11,578 | Cruise | lat=50.446789 lon=30.457631 alt=297.26m yaw=359.01deg | dist=779.2m | north=-385.5 | east=-677.2 | roll=1482 pitch=1500 throttle=1492 | alt=297.26
+2026-04-16 18:08:11,930 | Cruise | lat=50.446779 lon=30.457622 alt=297.27m yaw=359.01deg | dist=778.1m | north=-384.4 | east=-676.5 | roll=1482 pitch=1500 throttle=1492 | alt=297.27
+2026-04-16 18:08:12,281 | Cruise | lat=50.446760 lon=30.457604 alt=297.43m yaw=359.01deg | dist=776.0m | north=-382.2 | east=-675.3 | roll=1482 pitch=1500 throttle=1492 | alt=297.43
+2026-04-16 18:08:12,633 | Cruise | lat=50.446750 lon=30.457595 alt=297.52m yaw=359.01deg | dist=774.9m | north=-381.1 | east=-674.7 | roll=1482 pitch=1500 throttle=1492 | alt=297.52
+2026-04-16 18:08:12,985 | Cruise | lat=50.446740 lon=30.457587 alt=297.63m yaw=359.01deg | dist=773.8m | north=-380.1 | east=-674.0 | roll=1482 pitch=1500 throttle=1492 | alt=297.63
+2026-04-16 18:08:13,336 | Cruise | lat=50.446720 lon=30.457569 alt=297.89m yaw=359.01deg | dist=771.6m | north=-377.9 | east=-672.8 | roll=1482 pitch=1500 throttle=1492 | alt=297.89
+2026-04-16 18:08:13,688 | Cruise | lat=50.446711 lon=30.457560 alt=298.06m yaw=359.01deg | dist=770.6m | north=-376.8 | east=-672.2 | roll=1482 pitch=1500 throttle=1492 | alt=298.06
+2026-04-16 18:08:14,039 | Cruise | lat=50.446691 lon=30.457542 alt=298.37m yaw=359.00deg | dist=768.4m | north=-374.6 | east=-670.9 | roll=1482 pitch=1500 throttle=1492 | alt=298.37
+2026-04-16 18:08:14,390 | Cruise | lat=50.446681 lon=30.457534 alt=298.48m yaw=359.00deg | dist=767.3m | north=-373.5 | east=-670.3 | roll=1482 pitch=1500 throttle=1492 | alt=298.48
+2026-04-16 18:08:14,741 | Cruise | lat=50.446671 lon=30.457525 alt=298.58m yaw=359.00deg | dist=766.2m | north=-372.4 | east=-669.7 | roll=1482 pitch=1500 throttle=1492 | alt=298.58
+2026-04-16 18:08:15,093 | Cruise | lat=50.446652 lon=30.457507 alt=298.84m yaw=358.99deg | dist=764.1m | north=-370.2 | east=-668.4 | roll=1482 pitch=1500 throttle=1492 | alt=298.84
+2026-04-16 18:08:15,444 | Cruise | lat=50.446642 lon=30.457498 alt=298.99m yaw=358.99deg | dist=763.0m | north=-369.1 | east=-667.8 | roll=1482 pitch=1500 throttle=1492 | alt=298.99
+2026-04-16 18:08:15,796 | Cruise | lat=50.446622 lon=30.457480 alt=299.32m yaw=359.02deg | dist=760.8m | north=-366.9 | east=-666.5 | roll=1482 pitch=1500 throttle=1488 | alt=299.32
+2026-04-16 18:08:16,147 | Cruise | lat=50.446612 lon=30.457472 alt=299.51m yaw=359.03deg | dist=759.8m | north=-365.8 | east=-665.9 | roll=1482 pitch=1500 throttle=1476 | alt=299.51
+2026-04-16 18:08:16,499 | Cruise | lat=50.446602 lon=30.457463 alt=299.74m yaw=359.04deg | dist=758.7m | north=-364.7 | east=-665.3 | roll=1482 pitch=1500 throttle=1476 | alt=299.74
+2026-04-16 18:08:16,850 | Cruise | lat=50.446583 lon=30.457445 alt=300.08m yaw=359.05deg | dist=756.6m | north=-362.6 | east=-664.0 | roll=1482 pitch=1500 throttle=1488 | alt=300.08
+2026-04-16 18:08:17,201 | Cruise | lat=50.446573 lon=30.457437 alt=300.22m yaw=359.05deg | dist=755.5m | north=-361.5 | east=-663.4 | roll=1482 pitch=1500 throttle=1488 | alt=300.22
+2026-04-16 18:08:17,553 | Cruise | lat=50.446554 lon=30.457419 alt=300.51m yaw=359.05deg | dist=753.4m | north=-359.3 | east=-662.2 | roll=1482 pitch=1500 throttle=1488 | alt=300.51
+2026-04-16 18:08:17,904 | Cruise | lat=50.446544 lon=30.457410 alt=300.66m yaw=359.05deg | dist=752.3m | north=-358.2 | east=-661.6 | roll=1482 pitch=1500 throttle=1488 | alt=300.66
+2026-04-16 18:08:18,256 | Cruise | lat=50.446534 lon=30.457402 alt=300.80m yaw=359.05deg | dist=751.3m | north=-357.1 | east=-660.9 | roll=1482 pitch=1500 throttle=1488 | alt=300.80
+2026-04-16 18:08:18,607 | Cruise | lat=50.446514 lon=30.457384 alt=301.13m yaw=359.06deg | dist=749.1m | north=-354.9 | east=-659.7 | roll=1482 pitch=1500 throttle=1478 | alt=301.13
+2026-04-16 18:08:18,959 | Cruise | lat=50.446505 lon=30.457376 alt=301.31m yaw=359.05deg | dist=748.1m | north=-353.9 | east=-659.1 | roll=1482 pitch=1500 throttle=1478 | alt=301.31
+2026-04-16 18:08:19,310 | Cruise | lat=50.446485 lon=30.457358 alt=301.55m yaw=359.03deg | dist=746.0m | north=-351.7 | east=-657.9 | roll=1482 pitch=1500 throttle=1478 | alt=301.55
+2026-04-16 18:08:19,662 | Cruise | lat=50.446475 lon=30.457350 alt=301.64m yaw=359.03deg | dist=744.9m | north=-350.6 | east=-657.3 | roll=1482 pitch=1500 throttle=1478 | alt=301.64
+2026-04-16 18:08:20,013 | Cruise | lat=50.446466 lon=30.457341 alt=301.71m yaw=359.02deg | dist=743.9m | north=-349.5 | east=-656.6 | roll=1482 pitch=1500 throttle=1478 | alt=301.71
+2026-04-16 18:08:20,364 | Cruise | lat=50.446446 lon=30.457323 alt=301.79m yaw=359.02deg | dist=741.7m | north=-347.3 | east=-655.4 | roll=1482 pitch=1500 throttle=1478 | alt=301.79
+2026-04-16 18:08:20,715 | Cruise | lat=50.446436 lon=30.457315 alt=301.81m yaw=359.01deg | dist=740.7m | north=-346.2 | east=-654.8 | roll=1482 pitch=1500 throttle=1478 | alt=301.81
+2026-04-16 18:08:21,067 | Cruise | lat=50.446416 lon=30.457297 alt=301.72m yaw=359.01deg | dist=738.6m | north=-344.0 | east=-653.5 | roll=1482 pitch=1500 throttle=1478 | alt=301.72
+2026-04-16 18:08:21,419 | Cruise | lat=50.446407 lon=30.457289 alt=301.68m yaw=359.01deg | dist=737.5m | north=-342.9 | east=-652.9 | roll=1482 pitch=1500 throttle=1478 | alt=301.68
+2026-04-16 18:08:21,770 | Cruise | lat=50.446387 lon=30.457271 alt=301.51m yaw=359.01deg | dist=735.4m | north=-340.8 | east=-651.7 | roll=1482 pitch=1500 throttle=1478 | alt=301.51
+2026-04-16 18:08:22,121 | Cruise | lat=50.446377 lon=30.457263 alt=301.42m yaw=359.00deg | dist=734.4m | north=-339.7 | east=-651.1 | roll=1482 pitch=1500 throttle=1478 | alt=301.42
+2026-04-16 18:08:22,473 | Cruise | lat=50.446367 lon=30.457254 alt=301.37m yaw=359.00deg | dist=733.3m | north=-338.6 | east=-650.5 | roll=1482 pitch=1500 throttle=1478 | alt=301.37
+2026-04-16 18:08:22,824 | Cruise | lat=50.446348 lon=30.457236 alt=301.18m yaw=359.02deg | dist=731.2m | north=-336.4 | east=-649.2 | roll=1482 pitch=1500 throttle=1478 | alt=301.18
+2026-04-16 18:08:23,176 | Cruise | lat=50.446338 lon=30.457228 alt=301.03m yaw=359.02deg | dist=730.1m | north=-335.3 | east=-648.6 | roll=1482 pitch=1500 throttle=1478 | alt=301.03
+2026-04-16 18:08:23,527 | Cruise | lat=50.446318 lon=30.457210 alt=300.71m yaw=359.02deg | dist=728.0m | north=-333.1 | east=-647.4 | roll=1482 pitch=1500 throttle=1488 | alt=300.71
+2026-04-16 18:08:23,878 | Cruise | lat=50.446309 lon=30.457202 alt=300.51m yaw=359.02deg | dist=727.0m | north=-332.0 | east=-646.8 | roll=1482 pitch=1500 throttle=1498 | alt=300.51
+2026-04-16 18:08:24,230 | Cruise | lat=50.446299 lon=30.457193 alt=300.30m yaw=359.02deg | dist=725.9m | north=-330.9 | east=-646.1 | roll=1482 pitch=1500 throttle=1488 | alt=300.30
+2026-04-16 18:08:24,581 | Cruise | lat=50.446279 lon=30.457175 alt=300.00m yaw=359.04deg | dist=723.8m | north=-328.7 | east=-644.9 | roll=1482 pitch=1500 throttle=1488 | alt=300.00
+2026-04-16 18:08:24,932 | Cruise | lat=50.446269 lon=30.457167 alt=299.90m yaw=359.04deg | dist=722.8m | north=-327.6 | east=-644.3 | roll=1482 pitch=1500 throttle=1488 | alt=299.90
+2026-04-16 18:08:25,283 | Cruise | lat=50.446250 lon=30.457149 alt=299.72m yaw=359.03deg | dist=720.7m | north=-325.5 | east=-643.1 | roll=1482 pitch=1500 throttle=1488 | alt=299.72
+2026-04-16 18:08:25,634 | Cruise | lat=50.446240 lon=30.457141 alt=299.66m yaw=359.03deg | dist=719.7m | north=-324.4 | east=-642.4 | roll=1482 pitch=1500 throttle=1488 | alt=299.66
+2026-04-16 18:08:25,985 | Cruise | lat=50.446230 lon=30.457132 alt=299.62m yaw=359.03deg | dist=718.6m | north=-323.3 | east=-641.8 | roll=1482 pitch=1500 throttle=1488 | alt=299.62
+2026-04-16 18:08:26,337 | Cruise | lat=50.446210 lon=30.457115 alt=299.65m yaw=359.03deg | dist=716.6m | north=-321.1 | east=-640.6 | roll=1482 pitch=1500 throttle=1488 | alt=299.65
+2026-04-16 18:08:26,689 | Cruise | lat=50.446200 lon=30.457106 alt=299.65m yaw=359.02deg | dist=715.5m | north=-320.0 | east=-640.0 | roll=1482 pitch=1500 throttle=1488 | alt=299.65
+2026-04-16 18:08:27,040 | Cruise | lat=50.446181 lon=30.457089 alt=299.60m yaw=359.02deg | dist=713.4m | north=-317.8 | east=-638.8 | roll=1482 pitch=1500 throttle=1488 | alt=299.60
+2026-04-16 18:08:27,392 | Cruise | lat=50.446171 lon=30.457080 alt=299.60m yaw=359.02deg | dist=712.4m | north=-316.7 | east=-638.2 | roll=1482 pitch=1500 throttle=1488 | alt=299.60
+2026-04-16 18:08:27,744 | Cruise | lat=50.446161 lon=30.457072 alt=299.62m yaw=359.02deg | dist=711.4m | north=-315.6 | east=-637.5 | roll=1482 pitch=1500 throttle=1488 | alt=299.62
+2026-04-16 18:08:28,095 | Cruise | lat=50.446142 lon=30.457054 alt=299.73m yaw=359.02deg | dist=709.3m | north=-313.4 | east=-636.3 | roll=1482 pitch=1500 throttle=1488 | alt=299.73
+2026-04-16 18:08:28,447 | Cruise | lat=50.446132 lon=30.457046 alt=299.77m yaw=359.02deg | dist=708.3m | north=-312.3 | east=-635.7 | roll=1482 pitch=1500 throttle=1488 | alt=299.77
+2026-04-16 18:08:28,800 | Cruise | lat=50.446112 lon=30.457028 alt=299.89m yaw=359.03deg | dist=706.2m | north=-310.1 | east=-634.5 | roll=1482 pitch=1500 throttle=1488 | alt=299.89
+2026-04-16 18:08:29,152 | Cruise | lat=50.446102 lon=30.457020 alt=299.94m yaw=359.03deg | dist=705.2m | north=-309.0 | east=-633.9 | roll=1482 pitch=1500 throttle=1488 | alt=299.94
+2026-04-16 18:08:29,503 | Cruise | lat=50.446092 lon=30.457011 alt=299.96m yaw=359.03deg | dist=704.2m | north=-308.0 | east=-633.3 | roll=1482 pitch=1500 throttle=1488 | alt=299.96
+2026-04-16 18:08:29,854 | Cruise | lat=50.446073 lon=30.456994 alt=300.05m yaw=359.03deg | dist=702.1m | north=-305.8 | east=-632.0 | roll=1482 pitch=1500 throttle=1488 | alt=300.05
+2026-04-16 18:08:30,205 | Cruise | lat=50.446063 lon=30.456985 alt=300.10m yaw=359.03deg | dist=701.1m | north=-304.7 | east=-631.4 | roll=1482 pitch=1500 throttle=1488 | alt=300.10
+2026-04-16 18:08:30,557 | Cruise | lat=50.446044 lon=30.456967 alt=300.25m yaw=359.03deg | dist=699.0m | north=-302.5 | east=-630.2 | roll=1482 pitch=1500 throttle=1488 | alt=300.25
+2026-04-16 18:08:30,908 | Cruise | lat=50.446034 lon=30.456959 alt=300.33m yaw=359.03deg | dist=698.0m | north=-301.4 | east=-629.5 | roll=1482 pitch=1500 throttle=1488 | alt=300.33
+2026-04-16 18:08:31,260 | Cruise | lat=50.446024 lon=30.456950 alt=300.41m yaw=359.03deg | dist=696.9m | north=-300.3 | east=-628.9 | roll=1482 pitch=1500 throttle=1488 | alt=300.41
+2026-04-16 18:08:31,611 | Cruise | lat=50.446005 lon=30.456932 alt=300.54m yaw=359.03deg | dist=694.9m | north=-298.2 | east=-627.7 | roll=1482 pitch=1500 throttle=1488 | alt=300.54
+2026-04-16 18:08:31,962 | Cruise | lat=50.445995 lon=30.456924 alt=300.59m yaw=359.03deg | dist=693.9m | north=-297.1 | east=-627.1 | roll=1482 pitch=1500 throttle=1488 | alt=300.59
+2026-04-16 18:08:32,314 | Cruise | lat=50.445976 lon=30.456906 alt=300.69m yaw=359.04deg | dist=691.9m | north=-295.0 | east=-625.8 | roll=1482 pitch=1500 throttle=1488 | alt=300.69
+2026-04-16 18:08:32,665 | Cruise | lat=50.445966 lon=30.456898 alt=300.76m yaw=359.04deg | dist=690.8m | north=-293.9 | east=-625.2 | roll=1482 pitch=1500 throttle=1488 | alt=300.76
+2026-04-16 18:08:33,017 | Cruise | lat=50.445956 lon=30.456889 alt=300.82m yaw=359.04deg | dist=689.8m | north=-292.8 | east=-624.6 | roll=1482 pitch=1500 throttle=1488 | alt=300.82
+2026-04-16 18:08:33,369 | Cruise | lat=50.445937 lon=30.456871 alt=300.95m yaw=359.04deg | dist=687.8m | north=-290.6 | east=-623.4 | roll=1482 pitch=1500 throttle=1488 | alt=300.95
+2026-04-16 18:08:33,721 | Cruise | lat=50.445927 lon=30.456863 alt=301.00m yaw=359.05deg | dist=686.8m | north=-289.6 | east=-622.8 | roll=1482 pitch=1500 throttle=1488 | alt=301.00
+2026-04-16 18:08:34,072 | Cruise | lat=50.445908 lon=30.456846 alt=301.13m yaw=359.05deg | dist=684.8m | north=-287.4 | east=-621.5 | roll=1482 pitch=1500 throttle=1478 | alt=301.13
+2026-04-16 18:08:34,423 | Cruise | lat=50.445898 lon=30.456837 alt=301.22m yaw=359.04deg | dist=683.7m | north=-286.3 | east=-620.9 | roll=1482 pitch=1500 throttle=1478 | alt=301.22
+2026-04-16 18:08:34,774 | Cruise | lat=50.445888 lon=30.456828 alt=301.30m yaw=359.02deg | dist=682.7m | north=-285.2 | east=-620.3 | roll=1482 pitch=1500 throttle=1478 | alt=301.30
+2026-04-16 18:08:35,126 | Cruise | lat=50.445869 lon=30.456811 alt=301.38m yaw=359.01deg | dist=680.7m | north=-283.1 | east=-619.0 | roll=1482 pitch=1500 throttle=1478 | alt=301.38
+2026-04-16 18:08:35,477 | Cruise | lat=50.445859 lon=30.456802 alt=301.40m yaw=359.00deg | dist=679.7m | north=-282.0 | east=-618.4 | roll=1482 pitch=1500 throttle=1478 | alt=301.40
+2026-04-16 18:08:35,829 | Cruise | lat=50.445840 lon=30.456784 alt=301.38m yaw=358.99deg | dist=677.7m | north=-279.8 | east=-617.2 | roll=1482 pitch=1500 throttle=1478 | alt=301.38
+2026-04-16 18:08:36,181 | Cruise | lat=50.445830 lon=30.456775 alt=301.38m yaw=358.99deg | dist=676.6m | north=-278.7 | east=-616.6 | roll=1482 pitch=1500 throttle=1478 | alt=301.38
+2026-04-16 18:08:36,532 | Cruise | lat=50.445811 lon=30.456758 alt=301.34m yaw=359.01deg | dist=674.6m | north=-276.6 | east=-615.3 | roll=1482 pitch=1500 throttle=1478 | alt=301.34
+2026-04-16 18:08:36,884 | Cruise | lat=50.445801 lon=30.456749 alt=301.36m yaw=359.01deg | dist=673.6m | north=-275.5 | east=-614.7 | roll=1482 pitch=1500 throttle=1478 | alt=301.36
+2026-04-16 18:08:37,235 | Cruise | lat=50.445791 lon=30.456740 alt=301.37m yaw=359.01deg | dist=672.6m | north=-274.4 | east=-614.0 | roll=1482 pitch=1500 throttle=1478 | alt=301.37
+2026-04-16 18:08:37,587 | Cruise | lat=50.445771 lon=30.456723 alt=301.21m yaw=359.01deg | dist=670.6m | north=-272.2 | east=-612.8 | roll=1482 pitch=1500 throttle=1478 | alt=301.21
+2026-04-16 18:08:37,938 | Cruise | lat=50.445762 lon=30.456714 alt=301.10m yaw=359.02deg | dist=669.6m | north=-271.2 | east=-612.2 | roll=1482 pitch=1500 throttle=1478 | alt=301.10
+2026-04-16 18:08:38,289 | Cruise | lat=50.445743 lon=30.456696 alt=300.90m yaw=359.03deg | dist=667.5m | north=-269.0 | east=-610.9 | roll=1482 pitch=1500 throttle=1488 | alt=300.90
+2026-04-16 18:08:38,641 | Cruise | lat=50.445733 lon=30.456688 alt=300.80m yaw=359.03deg | dist=666.5m | north=-267.9 | east=-610.3 | roll=1482 pitch=1500 throttle=1488 | alt=300.80
+2026-04-16 18:08:38,992 | Cruise | lat=50.445723 lon=30.456679 alt=300.74m yaw=359.03deg | dist=665.5m | north=-266.9 | east=-609.7 | roll=1482 pitch=1500 throttle=1488 | alt=300.74
+2026-04-16 18:08:39,344 | Cruise | lat=50.445704 lon=30.456661 alt=300.50m yaw=359.03deg | dist=663.5m | north=-264.7 | east=-608.5 | roll=1482 pitch=1500 throttle=1488 | alt=300.50
+2026-04-16 18:08:39,696 | Cruise | lat=50.445694 lon=30.456653 alt=300.39m yaw=359.03deg | dist=662.5m | north=-263.6 | east=-607.8 | roll=1482 pitch=1500 throttle=1488 | alt=300.39
+2026-04-16 18:08:40,047 | Cruise | lat=50.445675 lon=30.456635 alt=300.26m yaw=359.02deg | dist=660.6m | north=-261.4 | east=-606.6 | roll=1482 pitch=1500 throttle=1488 | alt=300.26
+2026-04-16 18:08:40,399 | Cruise | lat=50.445665 lon=30.456626 alt=300.24m yaw=359.02deg | dist=659.6m | north=-260.3 | east=-606.0 | roll=1482 pitch=1500 throttle=1488 | alt=300.24
+2026-04-16 18:08:40,750 | Cruise | lat=50.445655 lon=30.456618 alt=300.24m yaw=359.02deg | dist=658.6m | north=-259.3 | east=-605.4 | roll=1482 pitch=1500 throttle=1488 | alt=300.24
+2026-04-16 18:08:41,102 | Cruise | lat=50.445636 lon=30.456600 alt=300.24m yaw=359.01deg | dist=656.6m | north=-257.1 | east=-604.2 | roll=1482 pitch=1500 throttle=1488 | alt=300.24
+2026-04-16 18:08:41,453 | Cruise | lat=50.445626 lon=30.456592 alt=300.26m yaw=359.01deg | dist=655.6m | north=-256.0 | east=-603.5 | roll=1482 pitch=1500 throttle=1488 | alt=300.26
+2026-04-16 18:08:41,805 | Cruise | lat=50.445606 lon=30.456574 alt=300.22m yaw=359.01deg | dist=653.6m | north=-253.8 | east=-602.3 | roll=1482 pitch=1500 throttle=1488 | alt=300.22
+2026-04-16 18:08:42,156 | Cruise | lat=50.445596 lon=30.456565 alt=300.19m yaw=359.00deg | dist=652.6m | north=-252.7 | east=-601.7 | roll=1482 pitch=1500 throttle=1488 | alt=300.19
+2026-04-16 18:08:42,508 | Cruise | lat=50.445587 lon=30.456557 alt=300.13m yaw=359.00deg | dist=651.6m | north=-251.7 | east=-601.1 | roll=1482 pitch=1500 throttle=1488 | alt=300.13
+2026-04-16 18:08:42,859 | Cruise | lat=50.445567 lon=30.456539 alt=300.00m yaw=359.00deg | dist=649.6m | north=-249.5 | east=-599.8 | roll=1482 pitch=1500 throttle=1488 | alt=300.00
+2026-04-16 18:08:43,211 | Cruise | lat=50.445557 lon=30.456531 alt=299.95m yaw=358.99deg | dist=648.7m | north=-248.4 | east=-599.2 | roll=1482 pitch=1500 throttle=1488 | alt=299.95
+2026-04-16 18:08:43,562 | Cruise | lat=50.445538 lon=30.456513 alt=299.79m yaw=358.99deg | dist=646.7m | north=-246.2 | east=-598.0 | roll=1482 pitch=1500 throttle=1488 | alt=299.79
+2026-04-16 18:08:43,913 | Cruise | lat=50.445528 lon=30.456505 alt=299.69m yaw=358.99deg | dist=645.7m | north=-245.1 | east=-597.4 | roll=1482 pitch=1500 throttle=1488 | alt=299.69
+2026-04-16 18:08:44,265 | Cruise | lat=50.445518 lon=30.456496 alt=299.63m yaw=358.98deg | dist=644.7m | north=-244.0 | east=-596.7 | roll=1482 pitch=1500 throttle=1488 | alt=299.63
+2026-04-16 18:08:44,617 | Cruise | lat=50.445498 lon=30.456479 alt=299.48m yaw=358.98deg | dist=642.8m | north=-241.8 | east=-595.5 | roll=1482 pitch=1500 throttle=1488 | alt=299.48
+2026-04-16 18:08:44,969 | Cruise | lat=50.445489 lon=30.456470 alt=299.41m yaw=358.99deg | dist=641.8m | north=-240.8 | east=-594.9 | roll=1482 pitch=1500 throttle=1488 | alt=299.41
+2026-04-16 18:08:45,320 | Cruise | lat=50.445469 lon=30.456453 alt=299.25m yaw=359.02deg | dist=639.8m | north=-238.6 | east=-593.7 | roll=1482 pitch=1500 throttle=1488 | alt=299.25
+2026-04-16 18:08:45,672 | Cruise | lat=50.445459 lon=30.456444 alt=299.17m yaw=359.02deg | dist=638.8m | north=-237.5 | east=-593.0 | roll=1482 pitch=1500 throttle=1488 | alt=299.17
+2026-04-16 18:08:46,023 | Cruise | lat=50.445440 lon=30.456426 alt=299.04m yaw=359.03deg | dist=636.9m | north=-235.3 | east=-591.8 | roll=1482 pitch=1500 throttle=1488 | alt=299.04
+2026-04-16 18:08:46,374 | Cruise | lat=50.445430 lon=30.456418 alt=299.00m yaw=359.03deg | dist=635.9m | north=-234.2 | east=-591.2 | roll=1482 pitch=1500 throttle=1488 | alt=299.00
+2026-04-16 18:08:46,726 | Cruise | lat=50.445420 lon=30.456409 alt=298.95m yaw=359.03deg | dist=634.9m | north=-233.1 | east=-590.6 | roll=1482 pitch=1500 throttle=1492 | alt=298.95
+2026-04-16 18:08:47,077 | Cruise | lat=50.445401 lon=30.456392 alt=298.81m yaw=359.03deg | dist=633.0m | north=-231.0 | east=-589.4 | roll=1482 pitch=1500 throttle=1492 | alt=298.81
+2026-04-16 18:08:47,428 | Cruise | lat=50.445391 lon=30.456383 alt=298.77m yaw=359.03deg | dist=632.0m | north=-229.9 | east=-588.7 | roll=1482 pitch=1500 throttle=1492 | alt=298.77
+2026-04-16 18:08:47,779 | Cruise | lat=50.445371 lon=30.456365 alt=298.68m yaw=359.03deg | dist=630.1m | north=-227.7 | east=-587.5 | roll=1482 pitch=1500 throttle=1492 | alt=298.68
+2026-04-16 18:08:48,131 | Cruise | lat=50.445362 lon=30.456356 alt=298.61m yaw=359.03deg | dist=629.1m | north=-226.6 | east=-586.9 | roll=1482 pitch=1500 throttle=1492 | alt=298.61
+2026-04-16 18:08:48,482 | Cruise | lat=50.445352 lon=30.456348 alt=298.58m yaw=359.02deg | dist=628.1m | north=-225.5 | east=-586.2 | roll=1482 pitch=1500 throttle=1492 | alt=298.58
+2026-04-16 18:08:48,833 | Cruise | lat=50.445332 lon=30.456330 alt=298.59m yaw=359.02deg | dist=626.2m | north=-223.3 | east=-585.0 | roll=1482 pitch=1500 throttle=1492 | alt=298.59
+2026-04-16 18:08:49,185 | Cruise | lat=50.445323 lon=30.456322 alt=298.64m yaw=359.02deg | dist=625.2m | north=-222.3 | east=-584.4 | roll=1482 pitch=1500 throttle=1492 | alt=298.64
+2026-04-16 18:08:49,536 | Cruise | lat=50.445303 lon=30.456304 alt=298.75m yaw=359.02deg | dist=623.3m | north=-220.1 | east=-583.1 | roll=1482 pitch=1500 throttle=1492 | alt=298.75
+2026-04-16 18:08:49,888 | Cruise | lat=50.445293 lon=30.456295 alt=298.85m yaw=359.02deg | dist=622.3m | north=-219.0 | east=-582.5 | roll=1482 pitch=1500 throttle=1492 | alt=298.85
+2026-04-16 18:08:50,239 | Cruise | lat=50.445283 lon=30.456287 alt=298.93m yaw=359.02deg | dist=621.4m | north=-217.9 | east=-581.9 | roll=1482 pitch=1500 throttle=1492 | alt=298.93
+2026-04-16 18:08:50,590 | Cruise | lat=50.445264 lon=30.456270 alt=299.17m yaw=359.03deg | dist=619.5m | north=-215.7 | east=-580.7 | roll=1482 pitch=1500 throttle=1488 | alt=299.17
+2026-04-16 18:08:50,942 | Cruise | lat=50.445254 lon=30.456261 alt=299.34m yaw=359.03deg | dist=618.6m | north=-214.6 | east=-580.1 | roll=1482 pitch=1500 throttle=1488 | alt=299.34
+2026-04-16 18:08:51,293 | Cruise | lat=50.445234 lon=30.456244 alt=299.54m yaw=359.03deg | dist=616.7m | north=-212.4 | east=-578.9 | roll=1482 pitch=1500 throttle=1488 | alt=299.54
+2026-04-16 18:08:51,645 | Cruise | lat=50.445225 lon=30.456236 alt=299.64m yaw=359.03deg | dist=615.7m | north=-211.3 | east=-578.3 | roll=1482 pitch=1500 throttle=1488 | alt=299.64
+2026-04-16 18:08:51,997 | Cruise | lat=50.445215 lon=30.456227 alt=299.71m yaw=359.03deg | dist=614.8m | north=-210.3 | east=-577.7 | roll=1482 pitch=1500 throttle=1488 | alt=299.71
+2026-04-16 18:08:52,347 | Cruise | lat=50.445195 lon=30.456210 alt=299.89m yaw=359.03deg | dist=612.9m | north=-208.1 | east=-576.5 | roll=1482 pitch=1500 throttle=1488 | alt=299.89
+2026-04-16 18:08:52,698 | Cruise | lat=50.445185 lon=30.456201 alt=299.94m yaw=359.03deg | dist=611.9m | north=-207.0 | east=-575.9 | roll=1482 pitch=1500 throttle=1488 | alt=299.94
+2026-04-16 18:08:53,050 | Cruise | lat=50.445166 lon=30.456184 alt=300.02m yaw=359.02deg | dist=610.1m | north=-204.8 | east=-574.7 | roll=1482 pitch=1500 throttle=1488 | alt=300.02
+2026-04-16 18:08:53,401 | Cruise | lat=50.445156 lon=30.456176 alt=300.09m yaw=359.02deg | dist=609.1m | north=-203.7 | east=-574.1 | roll=1482 pitch=1500 throttle=1488 | alt=300.09
+2026-04-16 18:08:53,752 | Cruise | lat=50.445146 lon=30.456167 alt=300.13m yaw=359.02deg | dist=608.2m | north=-202.6 | east=-573.4 | roll=1482 pitch=1500 throttle=1488 | alt=300.13
+2026-04-16 18:08:54,103 | Cruise | lat=50.445126 lon=30.456150 alt=300.11m yaw=359.01deg | dist=606.3m | north=-200.4 | east=-572.2 | roll=1482 pitch=1500 throttle=1488 | alt=300.11
+2026-04-16 18:08:54,454 | Cruise | lat=50.445117 lon=30.456141 alt=300.09m yaw=359.01deg | dist=605.4m | north=-199.3 | east=-571.6 | roll=1482 pitch=1500 throttle=1488 | alt=300.09
+2026-04-16 18:08:54,805 | Cruise | lat=50.445097 lon=30.456124 alt=300.09m yaw=359.01deg | dist=603.5m | north=-197.2 | east=-570.4 | roll=1482 pitch=1500 throttle=1488 | alt=300.09
+2026-04-16 18:08:55,157 | Cruise | lat=50.445087 lon=30.456115 alt=300.10m yaw=359.02deg | dist=602.6m | north=-196.1 | east=-569.8 | roll=1482 pitch=1500 throttle=1488 | alt=300.10
+2026-04-16 18:08:55,509 | Cruise | lat=50.445078 lon=30.456107 alt=300.12m yaw=359.02deg | dist=601.6m | north=-195.0 | east=-569.2 | roll=1482 pitch=1500 throttle=1488 | alt=300.12
+2026-04-16 18:08:55,860 | Cruise | lat=50.445058 lon=30.456090 alt=300.17m yaw=359.02deg | dist=599.8m | north=-192.8 | east=-568.0 | roll=1482 pitch=1500 throttle=1488 | alt=300.17
+2026-04-16 18:08:56,211 | Cruise | lat=50.445048 lon=30.456081 alt=300.19m yaw=359.02deg | dist=598.9m | north=-191.7 | east=-567.4 | roll=1482 pitch=1500 throttle=1488 | alt=300.19
+2026-04-16 18:08:56,562 | Cruise | lat=50.445029 lon=30.456064 alt=300.20m yaw=359.02deg | dist=597.0m | north=-189.5 | east=-566.2 | roll=1482 pitch=1500 throttle=1488 | alt=300.20
+2026-04-16 18:08:56,914 | Cruise | lat=50.445019 lon=30.456056 alt=300.22m yaw=359.02deg | dist=596.1m | north=-188.5 | east=-565.6 | roll=1482 pitch=1500 throttle=1488 | alt=300.22
+2026-04-16 18:08:57,265 | Cruise | lat=50.445009 lon=30.456047 alt=300.22m yaw=359.02deg | dist=595.2m | north=-187.4 | east=-564.9 | roll=1482 pitch=1500 throttle=1488 | alt=300.22
+2026-04-16 18:08:57,616 | Cruise | lat=50.444989 lon=30.456030 alt=300.31m yaw=359.02deg | dist=593.4m | north=-185.2 | east=-563.7 | roll=1482 pitch=1500 throttle=1488 | alt=300.31
+2026-04-16 18:08:57,968 | Cruise | lat=50.444980 lon=30.456021 alt=300.34m yaw=359.01deg | dist=592.4m | north=-184.1 | east=-563.1 | roll=1482 pitch=1500 throttle=1488 | alt=300.34
+2026-04-16 18:08:58,319 | Cruise | lat=50.444960 lon=30.456004 alt=300.38m yaw=359.01deg | dist=590.6m | north=-181.9 | east=-561.9 | roll=1482 pitch=1500 throttle=1488 | alt=300.38
+2026-04-16 18:08:58,671 | Cruise | lat=50.444950 lon=30.455996 alt=300.40m yaw=359.00deg | dist=589.7m | north=-180.8 | east=-561.3 | roll=1482 pitch=1500 throttle=1488 | alt=300.40
+2026-04-16 18:08:59,023 | Cruise | lat=50.444931 lon=30.455979 alt=300.36m yaw=359.00deg | dist=587.9m | north=-178.6 | east=-560.1 | roll=1482 pitch=1500 throttle=1488 | alt=300.36
+2026-04-16 18:08:59,374 | Cruise | lat=50.444921 lon=30.455970 alt=300.31m yaw=359.00deg | dist=587.0m | north=-177.5 | east=-559.5 | roll=1482 pitch=1500 throttle=1488 | alt=300.31
+2026-04-16 18:08:59,725 | Cruise | lat=50.444911 lon=30.455962 alt=300.26m yaw=359.00deg | dist=586.1m | north=-176.5 | east=-558.9 | roll=1482 pitch=1500 throttle=1488 | alt=300.26
+2026-04-16 18:09:00,076 | Cruise | lat=50.444891 lon=30.455944 alt=300.17m yaw=359.00deg | dist=584.2m | north=-174.3 | east=-557.6 | roll=1482 pitch=1500 throttle=1488 | alt=300.17
+2026-04-16 18:09:00,427 | Cruise | lat=50.444882 lon=30.455935 alt=300.12m yaw=358.99deg | dist=583.3m | north=-173.2 | east=-557.0 | roll=1482 pitch=1500 throttle=1488 | alt=300.12
+2026-04-16 18:09:00,778 | Cruise | lat=50.444872 lon=30.455927 alt=300.09m yaw=358.99deg | dist=582.4m | north=-172.1 | east=-556.4 | roll=1482 pitch=1500 throttle=1488 | alt=300.09
+2026-04-16 18:09:01,130 | Cruise | lat=50.444852 lon=30.455910 alt=300.07m yaw=358.99deg | dist=580.6m | north=-169.9 | east=-555.2 | roll=1482 pitch=1500 throttle=1488 | alt=300.07
+2026-04-16 18:09:01,481 | Cruise | lat=50.444842 lon=30.455901 alt=300.06m yaw=358.99deg | dist=579.7m | north=-168.8 | east=-554.6 | roll=1482 pitch=1500 throttle=1488 | alt=300.06
+2026-04-16 18:09:01,832 | Cruise | lat=50.444823 lon=30.455884 alt=300.01m yaw=358.99deg | dist=577.9m | north=-166.6 | east=-553.4 | roll=1482 pitch=1500 throttle=1488 | alt=300.01
+2026-04-16 18:09:02,184 | Cruise | lat=50.444813 lon=30.455875 alt=299.96m yaw=358.99deg | dist=577.0m | north=-165.5 | east=-552.7 | roll=1482 pitch=1500 throttle=1488 | alt=299.96
+2026-04-16 18:09:02,535 | Cruise | lat=50.444793 lon=30.455858 alt=299.89m yaw=358.99deg | dist=575.2m | north=-163.3 | east=-551.5 | roll=1482 pitch=1500 throttle=1488 | alt=299.89
+2026-04-16 18:09:02,887 | Cruise | lat=50.444783 lon=30.455849 alt=299.84m yaw=359.00deg | dist=574.3m | north=-162.2 | east=-550.9 | roll=1482 pitch=1500 throttle=1488 | alt=299.84
+2026-04-16 18:09:03,238 | Cruise | lat=50.444773 lon=30.455840 alt=299.79m yaw=359.00deg | dist=573.4m | north=-161.1 | east=-550.3 | roll=1482 pitch=1500 throttle=1488 | alt=299.79
+2026-04-16 18:09:03,590 | Cruise | lat=50.444754 lon=30.455823 alt=299.64m yaw=359.00deg | dist=571.6m | north=-159.0 | east=-549.0 | roll=1482 pitch=1500 throttle=1488 | alt=299.64
+2026-04-16 18:09:03,942 | Cruise | lat=50.444744 lon=30.455814 alt=299.60m yaw=359.00deg | dist=570.7m | north=-157.9 | east=-548.4 | roll=1482 pitch=1500 throttle=1488 | alt=299.60
+2026-04-16 18:09:04,294 | Cruise | lat=50.444724 lon=30.455796 alt=299.53m yaw=359.00deg | dist=568.9m | north=-155.7 | east=-547.2 | roll=1482 pitch=1500 throttle=1488 | alt=299.53
+2026-04-16 18:09:04,646 | Cruise | lat=50.444715 lon=30.455787 alt=299.48m yaw=359.00deg | dist=568.0m | north=-154.6 | east=-546.5 | roll=1482 pitch=1500 throttle=1488 | alt=299.48
+2026-04-16 18:09:04,997 | Cruise | lat=50.444705 lon=30.455779 alt=299.42m yaw=359.01deg | dist=567.1m | north=-153.5 | east=-545.9 | roll=1482 pitch=1500 throttle=1488 | alt=299.42
+2026-04-16 18:09:05,349 | Cruise | lat=50.444685 lon=30.455761 alt=299.31m yaw=359.00deg | dist=565.3m | north=-151.3 | east=-544.7 | roll=1482 pitch=1500 throttle=1488 | alt=299.31
+2026-04-16 18:09:05,701 | Cruise | lat=50.444675 lon=30.455752 alt=299.28m yaw=359.00deg | dist=564.4m | north=-150.2 | east=-544.0 | roll=1482 pitch=1500 throttle=1488 | alt=299.28
+2026-04-16 18:09:06,052 | Cruise | lat=50.444656 lon=30.455735 alt=299.25m yaw=359.00deg | dist=562.6m | north=-148.0 | east=-542.8 | roll=1482 pitch=1500 throttle=1488 | alt=299.25
+2026-04-16 18:09:06,404 | Cruise | lat=50.444646 lon=30.455726 alt=299.23m yaw=359.00deg | dist=561.7m | north=-146.9 | east=-542.1 | roll=1482 pitch=1500 throttle=1488 | alt=299.23
+2026-04-16 18:09:06,755 | Cruise | lat=50.444636 lon=30.455717 alt=299.21m yaw=359.00deg | dist=560.8m | north=-145.8 | east=-541.5 | roll=1482 pitch=1500 throttle=1488 | alt=299.21
+2026-04-16 18:09:07,105 | Cruise | lat=50.444617 lon=30.455699 alt=299.16m yaw=359.00deg | dist=559.1m | north=-143.7 | east=-540.3 | roll=1482 pitch=1500 throttle=1488 | alt=299.16
+2026-04-16 18:09:07,457 | Cruise | lat=50.444607 lon=30.455690 alt=299.12m yaw=359.01deg | dist=558.2m | north=-142.6 | east=-539.7 | roll=1482 pitch=1500 throttle=1488 | alt=299.12
+2026-04-16 18:09:07,809 | Cruise | lat=50.444587 lon=30.455673 alt=299.01m yaw=359.01deg | dist=556.4m | north=-140.4 | east=-538.4 | roll=1482 pitch=1500 throttle=1488 | alt=299.01
+2026-04-16 18:09:08,160 | Cruise | lat=50.444577 lon=30.455664 alt=298.91m yaw=359.01deg | dist=555.5m | north=-139.3 | east=-537.8 | roll=1482 pitch=1500 throttle=1492 | alt=298.91
+2026-04-16 18:09:08,512 | Cruise | lat=50.444567 lon=30.455655 alt=298.83m yaw=359.01deg | dist=554.7m | north=-138.2 | east=-537.2 | roll=1482 pitch=1500 throttle=1492 | alt=298.83
+2026-04-16 18:09:08,863 | Cruise | lat=50.444548 lon=30.455638 alt=298.69m yaw=359.01deg | dist=552.9m | north=-136.0 | east=-535.9 | roll=1482 pitch=1500 throttle=1492 | alt=298.69
+2026-04-16 18:09:09,215 | Cruise | lat=50.444538 lon=30.455629 alt=298.65m yaw=359.02deg | dist=552.0m | north=-134.9 | east=-535.3 | roll=1482 pitch=1500 throttle=1492 | alt=298.65
+2026-04-16 18:09:09,567 | Cruise | lat=50.444518 lon=30.455611 alt=298.42m yaw=359.02deg | dist=550.3m | north=-132.7 | east=-534.1 | roll=1482 pitch=1500 throttle=1492 | alt=298.42
+2026-04-16 18:09:09,918 | Cruise | lat=50.444508 lon=30.455603 alt=298.29m yaw=359.03deg | dist=549.4m | north=-131.6 | east=-533.4 | roll=1482 pitch=1500 throttle=1492 | alt=298.29
+2026-04-16 18:09:10,270 | Cruise | lat=50.444498 lon=30.455594 alt=298.16m yaw=359.03deg | dist=548.6m | north=-130.5 | east=-532.8 | roll=1482 pitch=1500 throttle=1492 | alt=298.16
+2026-04-16 18:09:10,621 | Cruise | lat=50.444479 lon=30.455576 alt=297.93m yaw=359.04deg | dist=546.8m | north=-128.3 | east=-531.6 | roll=1482 pitch=1500 throttle=1492 | alt=297.93
+2026-04-16 18:09:10,973 | Cruise | lat=50.444469 lon=30.455568 alt=297.86m yaw=359.04deg | dist=546.0m | north=-127.2 | east=-531.0 | roll=1482 pitch=1500 throttle=1492 | alt=297.86
+2026-04-16 18:09:11,324 | Cruise | lat=50.444449 lon=30.455550 alt=297.78m yaw=359.04deg | dist=544.3m | north=-125.0 | east=-529.7 | roll=1482 pitch=1500 throttle=1492 | alt=297.78
+2026-04-16 18:09:11,675 | Cruise | lat=50.444439 lon=30.455541 alt=297.80m yaw=359.04deg | dist=543.4m | north=-123.9 | east=-529.1 | roll=1482 pitch=1500 throttle=1492 | alt=297.80
+2026-04-16 18:09:12,026 | Cruise | lat=50.444419 lon=30.455524 alt=297.81m yaw=359.05deg | dist=541.7m | north=-121.7 | east=-527.9 | roll=1482 pitch=1500 throttle=1492 | alt=297.81
+2026-04-16 18:09:12,377 | Cruise | lat=50.444410 lon=30.455515 alt=297.84m yaw=359.05deg | dist=540.9m | north=-120.6 | east=-527.2 | roll=1482 pitch=1500 throttle=1492 | alt=297.84
+2026-04-16 18:09:12,729 | Cruise | lat=50.444400 lon=30.455506 alt=297.88m yaw=359.06deg | dist=540.0m | north=-119.5 | east=-526.6 | roll=1482 pitch=1500 throttle=1492 | alt=297.88
+2026-04-16 18:09:13,080 | Cruise | lat=50.444380 lon=30.455489 alt=297.99m yaw=359.06deg | dist=538.3m | north=-117.4 | east=-525.4 | roll=1482 pitch=1500 throttle=1492 | alt=297.99
+2026-04-16 18:09:13,432 | Cruise | lat=50.444370 lon=30.455480 alt=298.05m yaw=359.07deg | dist=537.5m | north=-116.3 | east=-524.8 | roll=1482 pitch=1500 throttle=1492 | alt=298.05
+2026-04-16 18:09:13,783 | Cruise | lat=50.444351 lon=30.455463 alt=298.18m yaw=359.05deg | dist=535.8m | north=-114.1 | east=-523.5 | roll=1482 pitch=1500 throttle=1492 | alt=298.18
+2026-04-16 18:09:14,134 | Cruise | lat=50.444341 lon=30.455454 alt=298.22m yaw=359.04deg | dist=535.0m | north=-113.0 | east=-522.9 | roll=1482 pitch=1500 throttle=1492 | alt=298.22
+2026-04-16 18:09:14,486 | Cruise | lat=50.444331 lon=30.455445 alt=298.27m yaw=359.03deg | dist=534.1m | north=-111.9 | east=-522.3 | roll=1482 pitch=1500 throttle=1492 | alt=298.27
+2026-04-16 18:09:14,838 | Cruise | lat=50.444312 lon=30.455427 alt=298.45m yaw=359.03deg | dist=532.5m | north=-109.8 | east=-521.0 | roll=1482 pitch=1500 throttle=1492 | alt=298.45
+2026-04-16 18:09:15,190 | Cruise | lat=50.444302 lon=30.455419 alt=298.58m yaw=359.03deg | dist=531.6m | north=-108.7 | east=-520.4 | roll=1482 pitch=1500 throttle=1492 | alt=298.58
+2026-04-16 18:09:15,541 | Cruise | lat=50.444283 lon=30.455401 alt=298.88m yaw=359.02deg | dist=530.0m | north=-106.5 | east=-519.2 | roll=1482 pitch=1500 throttle=1492 | alt=298.88
+2026-04-16 18:09:15,893 | Cruise | lat=50.444273 lon=30.455392 alt=298.98m yaw=359.02deg | dist=529.1m | north=-105.4 | east=-518.5 | roll=1482 pitch=1500 throttle=1492 | alt=298.98
+2026-04-16 18:09:16,245 | Cruise | lat=50.444263 lon=30.455383 alt=299.10m yaw=359.02deg | dist=528.3m | north=-104.3 | east=-517.9 | roll=1482 pitch=1500 throttle=1488 | alt=299.10
+2026-04-16 18:09:16,596 | Cruise | lat=50.444244 lon=30.455366 alt=299.24m yaw=359.02deg | dist=526.6m | north=-102.2 | east=-516.6 | roll=1482 pitch=1500 throttle=1488 | alt=299.24
+2026-04-16 18:09:16,948 | Cruise | lat=50.444234 lon=30.455357 alt=299.28m yaw=359.02deg | dist=525.8m | north=-101.1 | east=-516.0 | roll=1482 pitch=1500 throttle=1488 | alt=299.28
+2026-04-16 18:09:17,299 | Cruise | lat=50.444215 lon=30.455339 alt=299.36m yaw=359.02deg | dist=524.2m | north=-98.9 | east=-514.8 | roll=1482 pitch=1500 throttle=1488 | alt=299.36
+2026-04-16 18:09:17,651 | Cruise | lat=50.444205 lon=30.455330 alt=299.43m yaw=359.02deg | dist=523.4m | north=-97.9 | east=-514.1 | roll=1482 pitch=1500 throttle=1488 | alt=299.43
+2026-04-16 18:09:18,002 | Cruise | lat=50.444195 lon=30.455322 alt=299.49m yaw=359.02deg | dist=522.6m | north=-96.8 | east=-513.5 | roll=1482 pitch=1500 throttle=1488 | alt=299.49
+2026-04-16 18:09:18,352 | Cruise | lat=50.444176 lon=30.455304 alt=299.62m yaw=359.02deg | dist=520.9m | north=-94.6 | east=-512.3 | roll=1482 pitch=1500 throttle=1488 | alt=299.62
+2026-04-16 18:09:18,703 | Cruise | lat=50.444166 lon=30.455295 alt=299.74m yaw=359.01deg | dist=520.1m | north=-93.6 | east=-511.6 | roll=1482 pitch=1500 throttle=1488 | alt=299.74
+2026-04-16 18:09:19,054 | Cruise | lat=50.444147 lon=30.455278 alt=300.05m yaw=359.01deg | dist=518.5m | north=-91.4 | east=-510.4 | roll=1482 pitch=1500 throttle=1488 | alt=300.05
+2026-04-16 18:09:19,406 | Cruise | lat=50.444137 lon=30.455269 alt=300.21m yaw=359.00deg | dist=517.7m | north=-90.3 | east=-509.8 | roll=1482 pitch=1500 throttle=1488 | alt=300.21
+2026-04-16 18:09:19,758 | Cruise | lat=50.444128 lon=30.455260 alt=300.34m yaw=359.00deg | dist=516.9m | north=-89.2 | east=-509.1 | roll=1482 pitch=1500 throttle=1488 | alt=300.34
+2026-04-16 18:09:20,109 | Cruise | lat=50.444108 lon=30.455242 alt=300.63m yaw=358.99deg | dist=515.3m | north=-87.1 | east=-507.9 | roll=1482 pitch=1500 throttle=1488 | alt=300.63
+2026-04-16 18:09:20,460 | Cruise | lat=50.444099 lon=30.455234 alt=300.78m yaw=358.99deg | dist=514.5m | north=-86.0 | east=-507.3 | roll=1482 pitch=1500 throttle=1488 | alt=300.78
+2026-04-16 18:09:20,812 | Cruise | lat=50.444079 lon=30.455216 alt=301.05m yaw=358.98deg | dist=512.9m | north=-83.8 | east=-506.0 | roll=1482 pitch=1500 throttle=1478 | alt=301.05
+2026-04-16 18:09:21,163 | Cruise | lat=50.444069 lon=30.455207 alt=301.19m yaw=359.00deg | dist=512.1m | north=-82.7 | east=-505.4 | roll=1482 pitch=1500 throttle=1478 | alt=301.19
+2026-04-16 18:09:21,515 | Cruise | lat=50.444059 lon=30.455199 alt=301.31m yaw=359.01deg | dist=511.3m | north=-81.6 | east=-504.8 | roll=1482 pitch=1500 throttle=1478 | alt=301.31
+2026-04-16 18:09:21,867 | Cruise | lat=50.444040 lon=30.455181 alt=301.48m yaw=359.02deg | dist=509.8m | north=-79.5 | east=-503.5 | roll=1482 pitch=1500 throttle=1478 | alt=301.48
+2026-04-16 18:09:22,218 | Cruise | lat=50.444030 lon=30.455172 alt=301.57m yaw=359.02deg | dist=509.0m | north=-78.4 | east=-502.9 | roll=1482 pitch=1500 throttle=1478 | alt=301.57
+2026-04-16 18:09:22,569 | Cruise | lat=50.444011 lon=30.455155 alt=301.72m yaw=359.02deg | dist=507.5m | north=-76.2 | east=-501.7 | roll=1482 pitch=1500 throttle=1478 | alt=301.72
+2026-04-16 18:09:22,921 | Cruise | lat=50.444001 lon=30.455146 alt=301.76m yaw=359.02deg | dist=506.7m | north=-75.1 | east=-501.1 | roll=1482 pitch=1500 throttle=1478 | alt=301.76
+2026-04-16 18:09:23,272 | Cruise | lat=50.443991 lon=30.455137 alt=301.79m yaw=359.02deg | dist=505.9m | north=-74.0 | east=-500.5 | roll=1482 pitch=1500 throttle=1478 | alt=301.79
+2026-04-16 18:09:23,624 | Cruise | lat=50.443971 lon=30.455120 alt=301.85m yaw=359.02deg | dist=504.4m | north=-71.8 | east=-499.2 | roll=1482 pitch=1500 throttle=1478 | alt=301.85
+2026-04-16 18:09:23,976 | Cruise | lat=50.443962 lon=30.455111 alt=301.85m yaw=359.02deg | dist=503.6m | north=-70.8 | east=-498.6 | roll=1482 pitch=1500 throttle=1478 | alt=301.85
+2026-04-16 18:09:24,327 | Cruise | lat=50.443942 lon=30.455094 alt=301.76m yaw=359.02deg | dist=502.1m | north=-68.6 | east=-497.4 | roll=1482 pitch=1500 throttle=1478 | alt=301.76
+2026-04-16 18:09:24,679 | Cruise | lat=50.443932 lon=30.455085 alt=301.65m yaw=359.02deg | dist=501.3m | north=-67.5 | east=-496.7 | roll=1482 pitch=1500 throttle=1478 | alt=301.65
+2026-04-16 18:09:25,030 | Cruise | lat=50.443922 lon=30.455076 alt=301.55m yaw=359.02deg | dist=500.6m | north=-66.4 | east=-496.1 | roll=1482 pitch=1500 throttle=1478 | alt=301.55
+2026-04-16 18:09:25,381 | Cruise | lat=50.443903 lon=30.455059 alt=301.36m yaw=359.02deg | dist=499.0m | north=-64.2 | east=-494.9 | roll=1482 pitch=1500 throttle=1478 | alt=301.36
+2026-04-16 18:09:25,733 | Cruise | lat=50.443893 lon=30.455050 alt=301.26m yaw=359.02deg | dist=498.3m | north=-63.1 | east=-494.3 | roll=1482 pitch=1500 throttle=1478 | alt=301.26
+2026-04-16 18:09:26,084 | Cruise | lat=50.443873 lon=30.455033 alt=301.21m yaw=359.02deg | dist=496.8m | north=-60.9 | east=-493.0 | roll=1482 pitch=1500 throttle=1478 | alt=301.21
+2026-04-16 18:09:26,435 | Cruise | lat=50.443864 lon=30.455024 alt=301.21m yaw=359.03deg | dist=496.1m | north=-59.8 | east=-492.4 | roll=1482 pitch=1500 throttle=1478 | alt=301.21
+2026-04-16 18:09:26,786 | Cruise | lat=50.443844 lon=30.455007 alt=301.19m yaw=359.03deg | dist=494.6m | north=-57.7 | east=-491.2 | roll=1482 pitch=1500 throttle=1478 | alt=301.19
+2026-04-16 18:09:27,138 | Cruise | lat=50.443834 lon=30.454998 alt=301.16m yaw=359.03deg | dist=493.9m | north=-56.6 | east=-490.6 | roll=1482 pitch=1500 throttle=1478 | alt=301.16
+2026-04-16 18:09:27,489 | Cruise | lat=50.443825 lon=30.454990 alt=301.10m yaw=359.04deg | dist=493.1m | north=-55.5 | east=-490.0 | roll=1482 pitch=1500 throttle=1478 | alt=301.10
+2026-04-16 18:09:27,841 | Cruise | lat=50.443805 lon=30.454973 alt=300.98m yaw=359.04deg | dist=491.7m | north=-53.4 | east=-488.8 | roll=1482 pitch=1500 throttle=1488 | alt=300.98
+2026-04-16 18:09:28,192 | Cruise | lat=50.443796 lon=30.454964 alt=300.94m yaw=359.05deg | dist=491.0m | north=-52.3 | east=-488.2 | roll=1482 pitch=1500 throttle=1488 | alt=300.94
+2026-04-16 18:09:28,544 | Cruise | lat=50.443776 lon=30.454947 alt=300.91m yaw=359.05deg | dist=489.5m | north=-50.1 | east=-487.0 | roll=1482 pitch=1500 throttle=1488 | alt=300.91
+2026-04-16 18:09:28,895 | Cruise | lat=50.443767 lon=30.454939 alt=300.90m yaw=359.05deg | dist=488.8m | north=-49.0 | east=-486.4 | roll=1482 pitch=1500 throttle=1488 | alt=300.90
+2026-04-16 18:09:29,246 | Cruise | lat=50.443757 lon=30.454930 alt=300.89m yaw=359.05deg | dist=488.1m | north=-47.9 | east=-485.7 | roll=1482 pitch=1500 throttle=1488 | alt=300.89
+2026-04-16 18:09:29,598 | Cruise | lat=50.443737 lon=30.454913 alt=300.85m yaw=359.03deg | dist=486.7m | north=-45.8 | east=-484.5 | roll=1482 pitch=1500 throttle=1488 | alt=300.85
+2026-04-16 18:09:29,950 | Cruise | lat=50.443727 lon=30.454904 alt=300.84m yaw=359.02deg | dist=486.0m | north=-44.7 | east=-483.9 | roll=1482 pitch=1500 throttle=1488 | alt=300.84
+2026-04-16 18:09:30,301 | Cruise | lat=50.443708 lon=30.454887 alt=300.84m yaw=359.01deg | dist=484.6m | north=-42.5 | east=-482.7 | roll=1482 pitch=1500 throttle=1488 | alt=300.84
+2026-04-16 18:09:30,652 | Cruise | lat=50.443698 lon=30.454879 alt=300.84m yaw=359.00deg | dist=483.9m | north=-41.4 | east=-482.1 | roll=1482 pitch=1500 throttle=1488 | alt=300.84
+2026-04-16 18:09:31,004 | Cruise | lat=50.443688 lon=30.454870 alt=300.83m yaw=359.00deg | dist=483.2m | north=-40.3 | east=-481.5 | roll=1482 pitch=1500 throttle=1488 | alt=300.83
+2026-04-16 18:09:31,355 | Cruise | lat=50.443669 lon=30.454853 alt=300.80m yaw=358.99deg | dist=481.8m | north=-38.1 | east=-480.3 | roll=1482 pitch=1500 throttle=1488 | alt=300.80
+2026-04-16 18:09:31,706 | Cruise | lat=50.443659 lon=30.454844 alt=300.78m yaw=358.99deg | dist=481.1m | north=-37.0 | east=-479.7 | roll=1482 pitch=1500 throttle=1488 | alt=300.78
+2026-04-16 18:09:32,057 | Cruise | lat=50.443639 lon=30.454827 alt=300.74m yaw=358.99deg | dist=479.7m | north=-34.9 | east=-478.5 | roll=1482 pitch=1500 throttle=1488 | alt=300.74
+2026-04-16 18:09:32,408 | Cruise | lat=50.443629 lon=30.454818 alt=300.72m yaw=358.98deg | dist=479.0m | north=-33.8 | east=-477.8 | roll=1482 pitch=1500 throttle=1488 | alt=300.72
+2026-04-16 18:09:32,759 | Cruise | lat=50.443620 lon=30.454810 alt=300.69m yaw=358.98deg | dist=478.3m | north=-32.7 | east=-477.2 | roll=1482 pitch=1500 throttle=1488 | alt=300.69
+2026-04-16 18:09:33,110 | Cruise | lat=50.443600 lon=30.454792 alt=300.69m yaw=358.98deg | dist=477.0m | north=-30.5 | east=-476.0 | roll=1482 pitch=1500 throttle=1488 | alt=300.69
+2026-04-16 18:09:33,461 | Cruise | lat=50.443590 lon=30.454784 alt=300.69m yaw=358.99deg | dist=476.3m | north=-29.4 | east=-475.4 | roll=1482 pitch=1500 throttle=1488 | alt=300.69
+2026-04-16 18:09:33,813 | Cruise | lat=50.443570 lon=30.454766 alt=300.71m yaw=359.00deg | dist=474.9m | north=-27.2 | east=-474.1 | roll=1482 pitch=1500 throttle=1488 | alt=300.71
+2026-04-16 18:09:34,165 | Cruise | lat=50.443561 lon=30.454757 alt=300.71m yaw=359.01deg | dist=474.2m | north=-26.1 | east=-473.5 | roll=1482 pitch=1500 throttle=1488 | alt=300.71
+2026-04-16 18:09:34,516 | Cruise | lat=50.443551 lon=30.454749 alt=300.69m yaw=359.01deg | dist=473.6m | north=-25.0 | east=-472.9 | roll=1482 pitch=1500 throttle=1488 | alt=300.69
+2026-04-16 18:09:34,868 | Cruise | lat=50.443531 lon=30.454731 alt=300.71m yaw=359.02deg | dist=472.2m | north=-22.8 | east=-471.7 | roll=1482 pitch=1500 throttle=1488 | alt=300.71
+2026-04-16 18:09:35,220 | Cruise | lat=50.443521 lon=30.454722 alt=300.75m yaw=359.02deg | dist=471.5m | north=-21.7 | east=-471.0 | roll=1482 pitch=1500 throttle=1488 | alt=300.75
+2026-04-16 18:09:35,572 | Cruise | lat=50.443501 lon=30.454705 alt=300.80m yaw=359.03deg | dist=470.2m | north=-19.5 | east=-469.8 | roll=1482 pitch=1500 throttle=1488 | alt=300.80
+2026-04-16 18:09:35,923 | Cruise | lat=50.443492 lon=30.454696 alt=300.81m yaw=359.03deg | dist=469.6m | north=-18.4 | east=-469.2 | roll=1482 pitch=1500 throttle=1488 | alt=300.81
+2026-04-16 18:09:36,274 | Cruise | lat=50.443482 lon=30.454688 alt=300.83m yaw=359.04deg | dist=468.9m | north=-17.3 | east=-468.6 | roll=1482 pitch=1500 throttle=1488 | alt=300.83
+2026-04-16 18:09:36,626 | Cruise | lat=50.443462 lon=30.454670 alt=300.82m yaw=359.05deg | dist=467.6m | north=-15.1 | east=-467.4 | roll=1482 pitch=1500 throttle=1488 | alt=300.82
+2026-04-16 18:09:36,977 | Cruise | lat=50.443452 lon=30.454662 alt=300.79m yaw=359.05deg | dist=467.0m | north=-14.0 | east=-466.7 | roll=1482 pitch=1500 throttle=1488 | alt=300.79
+2026-04-16 18:09:37,329 | Cruise | lat=50.443432 lon=30.454645 alt=300.70m yaw=359.04deg | dist=465.7m | north=-11.8 | east=-465.5 | roll=1482 pitch=1500 throttle=1488 | alt=300.70
+2026-04-16 18:09:37,680 | Cruise | lat=50.443422 lon=30.454636 alt=300.69m yaw=359.03deg | dist=465.0m | north=-10.7 | east=-464.9 | roll=1482 pitch=1500 throttle=1488 | alt=300.69
+2026-04-16 18:09:38,031 | Cruise | lat=50.443413 lon=30.454627 alt=300.67m yaw=359.02deg | dist=464.4m | north=-9.6 | east=-464.3 | roll=1482 pitch=1500 throttle=1488 | alt=300.67
+2026-04-16 18:09:38,383 | Cruise | lat=50.443393 lon=30.454610 alt=300.63m yaw=359.02deg | dist=463.1m | north=-7.5 | east=-463.1 | roll=1482 pitch=1500 throttle=1488 | alt=300.63
+2026-04-16 18:09:38,733 | Cruise | lat=50.443383 lon=30.454601 alt=300.64m yaw=359.02deg | dist=462.5m | north=-6.4 | east=-462.4 | roll=1482 pitch=1500 throttle=1488 | alt=300.64
+2026-04-16 18:09:39,085 | Cruise | lat=50.443364 lon=30.454584 alt=300.69m yaw=359.02deg | dist=461.2m | north=-4.2 | east=-461.2 | roll=1482 pitch=1500 throttle=1488 | alt=300.69
+2026-04-16 18:09:39,437 | Cruise | lat=50.443354 lon=30.454575 alt=300.73m yaw=359.02deg | dist=460.6m | north=-3.1 | east=-460.6 | roll=1482 pitch=1500 throttle=1488 | alt=300.73
+2026-04-16 18:09:39,789 | Cruise | lat=50.443344 lon=30.454566 alt=300.77m yaw=359.02deg | dist=460.0m | north=-2.0 | east=-459.9 | roll=1482 pitch=1500 throttle=1488 | alt=300.77
+2026-04-16 18:09:40,140 | Cruise | lat=50.443324 lon=30.454548 alt=300.80m yaw=359.03deg | dist=458.7m | north=0.2 | east=-458.7 | roll=1482 pitch=1500 throttle=1488 | alt=300.80
+2026-04-16 18:09:40,492 | Cruise | lat=50.443315 lon=30.454540 alt=300.82m yaw=359.03deg | dist=458.1m | north=1.2 | east=-458.1 | roll=1482 pitch=1500 throttle=1488 | alt=300.82
+2026-04-16 18:09:40,843 | Cruise | lat=50.443295 lon=30.454522 alt=300.92m yaw=359.04deg | dist=456.9m | north=3.4 | east=-456.8 | roll=1482 pitch=1500 throttle=1488 | alt=300.92
+2026-04-16 18:09:41,195 | Cruise | lat=50.443286 lon=30.454513 alt=300.96m yaw=359.04deg | dist=456.2m | north=4.5 | east=-456.2 | roll=1482 pitch=1500 throttle=1488 | alt=300.96
+2026-04-16 18:09:41,546 | Cruise | lat=50.443266 lon=30.454496 alt=301.07m yaw=359.04deg | dist=455.0m | north=6.6 | east=-455.0 | roll=1482 pitch=1500 throttle=1478 | alt=301.07
+2026-04-16 18:09:41,898 | Cruise | lat=50.443257 lon=30.454487 alt=301.07m yaw=359.03deg | dist=454.4m | north=7.7 | east=-454.3 | roll=1482 pitch=1500 throttle=1478 | alt=301.07
+2026-04-16 18:09:42,249 | Cruise | lat=50.443247 lon=30.454478 alt=301.06m yaw=359.02deg | dist=453.8m | north=8.8 | east=-453.7 | roll=1482 pitch=1500 throttle=1478 | alt=301.06
+2026-04-16 18:09:42,600 | Cruise | lat=50.443228 lon=30.454461 alt=301.07m yaw=359.00deg | dist=452.6m | north=11.0 | east=-452.5 | roll=1482 pitch=1500 throttle=1478 | alt=301.07
+2026-04-16 18:09:42,952 | Cruise | lat=50.443218 lon=30.454452 alt=301.04m yaw=359.00deg | dist=452.0m | north=12.0 | east=-451.9 | roll=1482 pitch=1500 throttle=1478 | alt=301.04
+2026-04-16 18:09:43,303 | Cruise | lat=50.443199 lon=30.454434 alt=301.00m yaw=359.00deg | dist=450.8m | north=14.2 | east=-450.6 | roll=1482 pitch=1500 throttle=1478 | alt=301.00
+2026-04-16 18:09:43,654 | Cruise | lat=50.443189 lon=30.454425 alt=300.99m yaw=359.00deg | dist=450.2m | north=15.3 | east=-450.0 | roll=1482 pitch=1500 throttle=1488 | alt=300.99
+2026-04-16 18:09:44,005 | Cruise | lat=50.443179 lon=30.454417 alt=301.00m yaw=359.00deg | dist=449.7m | north=16.4 | east=-449.4 | roll=1482 pitch=1500 throttle=1488 | alt=301.00
+2026-04-16 18:09:44,356 | Cruise | lat=50.443160 lon=30.454399 alt=301.14m yaw=359.01deg | dist=448.5m | north=18.5 | east=-448.1 | roll=1482 pitch=1500 throttle=1478 | alt=301.14
+2026-04-16 18:09:44,708 | Cruise | lat=50.443150 lon=30.454390 alt=301.22m yaw=359.01deg | dist=447.9m | north=19.6 | east=-447.5 | roll=1482 pitch=1500 throttle=1478 | alt=301.22
+2026-04-16 18:09:45,059 | Cruise | lat=50.443131 lon=30.454373 alt=301.27m yaw=359.01deg | dist=446.8m | north=21.8 | east=-446.3 | roll=1482 pitch=1500 throttle=1478 | alt=301.27
+2026-04-16 18:09:45,410 | Cruise | lat=50.443121 lon=30.454364 alt=301.31m yaw=359.01deg | dist=446.2m | north=22.8 | east=-445.6 | roll=1482 pitch=1500 throttle=1478 | alt=301.31
+2026-04-16 18:09:45,762 | Cruise | lat=50.443111 lon=30.454355 alt=301.33m yaw=359.01deg | dist=445.7m | north=23.9 | east=-445.0 | roll=1482 pitch=1500 throttle=1478 | alt=301.33
+2026-04-16 18:09:46,113 | Cruise | lat=50.443092 lon=30.454338 alt=301.18m yaw=359.01deg | dist=444.5m | north=26.1 | east=-443.8 | roll=1482 pitch=1500 throttle=1478 | alt=301.18
+2026-04-16 18:09:46,465 | Cruise | lat=50.443082 lon=30.454329 alt=301.05m yaw=359.01deg | dist=444.0m | north=27.2 | east=-443.2 | roll=1482 pitch=1500 throttle=1478 | alt=301.05
+2026-04-16 18:09:46,817 | Cruise | lat=50.443062 lon=30.454312 alt=300.78m yaw=359.01deg | dist=442.9m | north=29.4 | east=-441.9 | roll=1482 pitch=1500 throttle=1488 | alt=300.78
+2026-04-16 18:09:47,168 | Cruise | lat=50.443053 lon=30.454303 alt=300.65m yaw=359.01deg | dist=442.4m | north=30.4 | east=-441.3 | roll=1482 pitch=1500 throttle=1488 | alt=300.65
+2026-04-16 18:09:47,520 | Cruise | lat=50.443043 lon=30.454294 alt=300.52m yaw=359.01deg | dist=441.8m | north=31.5 | east=-440.7 | roll=1482 pitch=1500 throttle=1488 | alt=300.52
+2026-04-16 18:09:47,871 | Cruise | lat=50.443023 lon=30.454277 alt=300.37m yaw=359.01deg | dist=440.8m | north=33.7 | east=-439.5 | roll=1482 pitch=1500 throttle=1488 | alt=300.37
+2026-04-16 18:09:48,223 | Cruise | lat=50.443013 lon=30.454268 alt=300.25m yaw=359.01deg | dist=440.2m | north=34.8 | east=-438.9 | roll=1482 pitch=1500 throttle=1488 | alt=300.25
+2026-04-16 18:09:48,573 | Cruise | lat=50.442994 lon=30.454251 alt=300.06m yaw=359.00deg | dist=439.2m | north=37.0 | east=-437.6 | roll=1482 pitch=1500 throttle=1488 | alt=300.06
+2026-04-16 18:09:48,924 | Cruise | lat=50.442984 lon=30.454242 alt=299.97m yaw=359.00deg | dist=438.7m | north=38.1 | east=-437.0 | roll=1482 pitch=1500 throttle=1488 | alt=299.97
+2026-04-16 18:09:49,276 | Cruise | lat=50.442974 lon=30.454233 alt=299.90m yaw=359.00deg | dist=438.1m | north=39.2 | east=-436.4 | roll=1482 pitch=1500 throttle=1488 | alt=299.90
+2026-04-16 18:09:49,627 | Cruise | lat=50.442955 lon=30.454216 alt=299.84m yaw=359.00deg | dist=437.1m | north=41.3 | east=-435.1 | roll=1482 pitch=1500 throttle=1488 | alt=299.84
+2026-04-16 18:09:49,979 | Cruise | lat=50.442945 lon=30.454207 alt=299.84m yaw=359.00deg | dist=436.6m | north=42.4 | east=-434.5 | roll=1482 pitch=1500 throttle=1488 | alt=299.84
+2026-04-16 18:09:50,330 | Cruise | lat=50.442925 lon=30.454189 alt=299.90m yaw=358.99deg | dist=435.6m | north=44.6 | east=-433.3 | roll=1482 pitch=1500 throttle=1488 | alt=299.90
+2026-04-16 18:09:50,682 | Cruise | lat=50.442915 lon=30.454181 alt=299.91m yaw=358.99deg | dist=435.1m | north=45.7 | east=-432.7 | roll=1482 pitch=1500 throttle=1488 | alt=299.91
+2026-04-16 18:09:51,033 | Cruise | lat=50.442905 lon=30.454172 alt=299.92m yaw=358.99deg | dist=434.6m | north=46.8 | east=-432.0 | roll=1482 pitch=1500 throttle=1488 | alt=299.92
+2026-04-16 18:09:51,385 | Cruise | lat=50.442886 lon=30.454155 alt=299.85m yaw=358.98deg | dist=433.6m | north=49.0 | east=-430.8 | roll=1482 pitch=1500 throttle=1488 | alt=299.85
+2026-04-16 18:09:51,737 | Cruise | lat=50.442876 lon=30.454146 alt=299.83m yaw=358.98deg | dist=433.1m | north=50.1 | east=-430.2 | roll=1482 pitch=1500 throttle=1488 | alt=299.83
+2026-04-16 18:09:52,088 | Cruise | lat=50.442856 lon=30.454128 alt=299.82m yaw=359.00deg | dist=432.1m | north=52.3 | east=-428.9 | roll=1482 pitch=1500 throttle=1488 | alt=299.82
+2026-04-16 18:09:52,440 | Cruise | lat=50.442847 lon=30.454120 alt=299.85m yaw=359.00deg | dist=431.6m | north=53.4 | east=-428.3 | roll=1482 pitch=1500 throttle=1488 | alt=299.85
+2026-04-16 18:09:52,792 | Cruise | lat=50.442837 lon=30.454111 alt=299.94m yaw=359.01deg | dist=431.2m | north=54.5 | east=-427.7 | roll=1482 pitch=1500 throttle=1488 | alt=299.94
+2026-04-16 18:09:53,144 | Cruise | lat=50.442817 lon=30.454094 alt=300.13m yaw=359.01deg | dist=430.2m | north=56.6 | east=-426.5 | roll=1482 pitch=1500 throttle=1488 | alt=300.13
+2026-04-16 18:09:53,495 | Cruise | lat=50.442807 lon=30.454085 alt=300.22m yaw=359.01deg | dist=429.8m | north=57.7 | east=-425.9 | roll=1482 pitch=1500 throttle=1488 | alt=300.22
+2026-04-16 18:09:53,847 | Cruise | lat=50.442788 lon=30.454068 alt=300.29m yaw=359.01deg | dist=428.8m | north=59.9 | east=-424.6 | roll=1482 pitch=1500 throttle=1488 | alt=300.29
+2026-04-16 18:09:54,199 | Cruise | lat=50.442778 lon=30.454059 alt=300.32m yaw=359.01deg | dist=428.4m | north=61.0 | east=-424.0 | roll=1482 pitch=1500 throttle=1488 | alt=300.32
+2026-04-16 18:09:54,550 | Cruise | lat=50.442759 lon=30.454042 alt=300.42m yaw=359.02deg | dist=427.5m | north=63.2 | east=-422.8 | roll=1482 pitch=1500 throttle=1488 | alt=300.42
+2026-04-16 18:09:54,902 | Cruise | lat=50.442749 lon=30.454033 alt=300.47m yaw=359.02deg | dist=427.0m | north=64.2 | east=-422.2 | roll=1482 pitch=1500 throttle=1488 | alt=300.47
+2026-04-16 18:09:55,253 | Cruise | lat=50.442739 lon=30.454024 alt=300.55m yaw=359.02deg | dist=426.6m | north=65.3 | east=-421.6 | roll=1482 pitch=1500 throttle=1488 | alt=300.55
+2026-04-16 18:09:55,604 | Cruise | lat=50.442720 lon=30.454007 alt=300.70m yaw=359.01deg | dist=425.7m | north=67.5 | east=-420.4 | roll=1482 pitch=1500 throttle=1488 | alt=300.70
+2026-04-16 18:09:55,955 | Cruise | lat=50.442710 lon=30.453999 alt=300.79m yaw=359.01deg | dist=425.3m | north=68.6 | east=-419.7 | roll=1482 pitch=1500 throttle=1488 | alt=300.79
+2026-04-16 18:09:56,307 | Cruise | lat=50.442700 lon=30.453990 alt=300.87m yaw=359.01deg | dist=424.9m | north=69.7 | east=-419.1 | roll=1482 pitch=1500 throttle=1488 | alt=300.87
+2026-04-16 18:09:56,659 | Cruise | lat=50.442681 lon=30.453973 alt=301.00m yaw=359.01deg | dist=424.0m | north=71.9 | east=-417.9 | roll=1482 pitch=1500 throttle=1488 | alt=301.00
+2026-04-16 18:09:57,010 | Cruise | lat=50.442671 lon=30.453964 alt=301.05m yaw=359.00deg | dist=423.6m | north=72.9 | east=-417.3 | roll=1482 pitch=1500 throttle=1478 | alt=301.05
+2026-04-16 18:09:57,361 | Cruise | lat=50.442651 lon=30.453947 alt=301.22m yaw=359.01deg | dist=422.8m | north=75.1 | east=-416.1 | roll=1482 pitch=1500 throttle=1478 | alt=301.22
+2026-04-16 18:09:57,713 | Cruise | lat=50.442642 lon=30.453938 alt=301.29m yaw=359.01deg | dist=422.4m | north=76.2 | east=-415.4 | roll=1482 pitch=1500 throttle=1478 | alt=301.29
+2026-04-16 18:09:58,064 | Cruise | lat=50.442622 lon=30.453921 alt=301.30m yaw=359.01deg | dist=421.6m | north=78.4 | east=-414.2 | roll=1482 pitch=1500 throttle=1478 | alt=301.30
+2026-04-16 18:09:58,416 | Cruise | lat=50.442612 lon=30.453912 alt=301.25m yaw=359.00deg | dist=421.2m | north=79.5 | east=-413.6 | roll=1482 pitch=1500 throttle=1478 | alt=301.25
+2026-04-16 18:09:58,768 | Cruise | lat=50.442602 lon=30.453903 alt=301.18m yaw=359.00deg | dist=420.8m | north=80.6 | east=-413.0 | roll=1482 pitch=1500 throttle=1478 | alt=301.18
+2026-04-16 18:09:59,119 | Cruise | lat=50.442583 lon=30.453886 alt=300.97m yaw=359.00deg | dist=420.0m | north=82.7 | east=-411.8 | roll=1482 pitch=1500 throttle=1488 | alt=300.97
+2026-04-16 18:09:59,471 | Cruise | lat=50.442573 lon=30.453877 alt=300.84m yaw=359.00deg | dist=419.6m | north=83.8 | east=-411.1 | roll=1482 pitch=1500 throttle=1488 | alt=300.84
+2026-04-16 18:09:59,822 | Cruise | lat=50.442554 lon=30.453860 alt=300.63m yaw=359.00deg | dist=418.8m | north=86.0 | east=-409.9 | roll=1482 pitch=1500 throttle=1488 | alt=300.63
+2026-04-16 18:10:00,174 | Cruise | lat=50.442544 lon=30.453851 alt=300.56m yaw=359.00deg | dist=418.4m | north=87.1 | east=-409.3 | roll=1482 pitch=1500 throttle=1488 | alt=300.56
+2026-04-16 18:10:00,525 | Cruise | lat=50.442534 lon=30.453842 alt=300.47m yaw=359.00deg | dist=418.0m | north=88.2 | east=-408.6 | roll=1482 pitch=1500 throttle=1488 | alt=300.47
+2026-04-16 18:10:00,876 | Cruise | lat=50.442514 lon=30.453825 alt=300.32m yaw=359.00deg | dist=417.3m | north=90.4 | east=-407.4 | roll=1482 pitch=1500 throttle=1488 | alt=300.32
+2026-04-16 18:10:01,227 | Cruise | lat=50.442504 lon=30.453816 alt=300.27m yaw=359.00deg | dist=416.9m | north=91.5 | east=-406.8 | roll=1482 pitch=1500 throttle=1488 | alt=300.27
+2026-04-16 18:10:01,578 | Cruise | lat=50.442485 lon=30.453799 alt=300.31m yaw=359.01deg | dist=416.2m | north=93.7 | east=-405.6 | roll=1482 pitch=1500 throttle=1488 | alt=300.31
+2026-04-16 18:10:01,930 | Cruise | lat=50.442475 lon=30.453790 alt=300.35m yaw=359.01deg | dist=415.9m | north=94.7 | east=-404.9 | roll=1482 pitch=1500 throttle=1488 | alt=300.35
+2026-04-16 18:10:02,281 | Cruise | lat=50.442465 lon=30.453781 alt=300.40m yaw=359.01deg | dist=415.5m | north=95.8 | east=-404.3 | roll=1482 pitch=1500 throttle=1488 | alt=300.40
+2026-04-16 18:10:02,633 | Cruise | lat=50.442445 lon=30.453764 alt=300.51m yaw=359.02deg | dist=414.8m | north=98.0 | east=-403.1 | roll=1482 pitch=1500 throttle=1488 | alt=300.51
+2026-04-16 18:10:02,984 | Cruise | lat=50.442436 lon=30.453755 alt=300.52m yaw=359.02deg | dist=414.5m | north=99.1 | east=-402.5 | roll=1482 pitch=1500 throttle=1488 | alt=300.52
+2026-04-16 18:10:03,335 | Cruise | lat=50.442416 lon=30.453737 alt=300.54m yaw=359.02deg | dist=413.8m | north=101.3 | east=-401.2 | roll=1482 pitch=1500 throttle=1488 | alt=300.54
+2026-04-16 18:10:03,687 | Cruise | lat=50.442406 lon=30.453729 alt=300.57m yaw=359.02deg | dist=413.5m | north=102.4 | east=-400.6 | roll=1482 pitch=1500 throttle=1488 | alt=300.57
+2026-04-16 18:10:04,039 | Cruise | lat=50.442396 lon=30.453720 alt=300.59m yaw=359.02deg | dist=413.2m | north=103.5 | east=-400.0 | roll=1482 pitch=1500 throttle=1488 | alt=300.59
+2026-04-16 18:10:04,390 | Cruise | lat=50.442377 lon=30.453703 alt=300.60m yaw=359.01deg | dist=412.5m | north=105.7 | east=-398.8 | roll=1482 pitch=1500 throttle=1488 | alt=300.60
+2026-04-16 18:10:04,742 | Cruise | lat=50.442366 lon=30.453694 alt=300.60m yaw=359.01deg | dist=412.2m | north=106.8 | east=-398.2 | roll=1482 pitch=1500 throttle=1488 | alt=300.60
+2026-04-16 18:10:05,094 | Cruise | lat=50.442347 lon=30.453677 alt=300.62m yaw=359.01deg | dist=411.6m | north=109.0 | east=-396.9 | roll=1482 pitch=1500 throttle=1488 | alt=300.62
+2026-04-16 18:10:05,446 | Cruise | lat=50.442337 lon=30.453668 alt=300.65m yaw=359.00deg | dist=411.3m | north=110.1 | east=-396.3 | roll=1482 pitch=1500 throttle=1488 | alt=300.65
+2026-04-16 18:10:05,798 | Cruise | lat=50.442327 lon=30.453659 alt=300.65m yaw=359.00deg | dist=411.0m | north=111.2 | east=-395.7 | roll=1482 pitch=1500 throttle=1488 | alt=300.65
+2026-04-16 18:10:06,149 | Cruise | lat=50.442307 lon=30.453642 alt=300.61m yaw=359.00deg | dist=410.4m | north=113.4 | east=-394.5 | roll=1482 pitch=1500 throttle=1488 | alt=300.61
+2026-04-16 18:10:06,501 | Cruise | lat=50.442298 lon=30.453633 alt=300.55m yaw=359.00deg | dist=410.1m | north=114.5 | east=-393.8 | roll=1482 pitch=1500 throttle=1488 | alt=300.55
+2026-04-16 18:10:06,853 | Cruise | lat=50.442278 lon=30.453616 alt=300.41m yaw=359.00deg | dist=409.6m | north=116.7 | east=-392.6 | roll=1482 pitch=1500 throttle=1488 | alt=300.41
+2026-04-16 18:10:07,205 | Cruise | lat=50.442268 lon=30.453607 alt=300.30m yaw=359.00deg | dist=409.3m | north=117.8 | east=-392.0 | roll=1482 pitch=1500 throttle=1488 | alt=300.30
+2026-04-16 18:10:07,556 | Cruise | lat=50.442248 lon=30.453590 alt=300.03m yaw=359.00deg | dist=408.8m | north=120.0 | east=-390.8 | roll=1482 pitch=1500 throttle=1488 | alt=300.03
+2026-04-16 18:10:07,907 | Cruise | lat=50.442239 lon=30.453581 alt=299.92m yaw=359.00deg | dist=408.5m | north=121.0 | east=-390.2 | roll=1482 pitch=1500 throttle=1488 | alt=299.92
+2026-04-16 18:10:08,258 | Cruise | lat=50.442229 lon=30.453573 alt=299.81m yaw=359.00deg | dist=408.3m | north=122.1 | east=-389.6 | roll=1482 pitch=1500 throttle=1488 | alt=299.81
+2026-04-16 18:10:08,610 | Cruise | lat=50.442209 lon=30.453555 alt=299.53m yaw=359.00deg | dist=407.7m | north=124.3 | east=-388.3 | roll=1482 pitch=1500 throttle=1488 | alt=299.53
+2026-04-16 18:10:08,961 | Cruise | lat=50.442199 lon=30.453547 alt=299.41m yaw=358.99deg | dist=407.5m | north=125.4 | east=-387.7 | roll=1482 pitch=1500 throttle=1488 | alt=299.41
+2026-04-16 18:10:09,313 | Cruise | lat=50.442180 lon=30.453529 alt=299.19m yaw=358.99deg | dist=407.0m | north=127.6 | east=-386.5 | roll=1482 pitch=1500 throttle=1488 | alt=299.19
+2026-04-16 18:10:09,665 | Cruise | lat=50.442170 lon=30.453520 alt=299.04m yaw=358.99deg | dist=406.7m | north=128.7 | east=-385.8 | roll=1482 pitch=1500 throttle=1488 | alt=299.04
+2026-04-16 18:10:10,017 | Cruise | lat=50.442160 lon=30.453512 alt=298.91m yaw=358.99deg | dist=406.5m | north=129.8 | east=-385.2 | roll=1482 pitch=1500 throttle=1492 | alt=298.91
+2026-04-16 18:10:10,368 | Cruise | lat=50.442140 lon=30.453494 alt=298.80m yaw=358.99deg | dist=406.0m | north=132.0 | east=-384.0 | roll=1482 pitch=1500 throttle=1492 | alt=298.80
+2026-04-16 18:10:10,720 | Cruise | lat=50.442131 lon=30.453485 alt=298.75m yaw=359.00deg | dist=405.8m | north=133.1 | east=-383.4 | roll=1482 pitch=1500 throttle=1492 | alt=298.75
+2026-04-16 18:10:11,071 | Cruise | lat=50.442111 lon=30.453468 alt=298.65m yaw=359.02deg | dist=405.4m | north=135.3 | east=-382.1 | roll=1482 pitch=1500 throttle=1492 | alt=298.65
+2026-04-16 18:10:11,422 | Cruise | lat=50.442101 lon=30.453459 alt=298.63m yaw=359.03deg | dist=405.1m | north=136.4 | east=-381.5 | roll=1482 pitch=1500 throttle=1492 | alt=298.63
+2026-04-16 18:10:11,773 | Cruise | lat=50.442091 lon=30.453450 alt=298.61m yaw=359.03deg | dist=404.9m | north=137.5 | east=-380.9 | roll=1482 pitch=1500 throttle=1492 | alt=298.61
+2026-04-16 18:10:12,124 | Cruise | lat=50.442071 lon=30.453433 alt=298.60m yaw=359.03deg | dist=404.5m | north=139.7 | east=-379.6 | roll=1482 pitch=1500 throttle=1492 | alt=298.60
+2026-04-16 18:10:12,476 | Cruise | lat=50.442062 lon=30.453424 alt=298.61m yaw=359.03deg | dist=404.3m | north=140.7 | east=-379.0 | roll=1482 pitch=1500 throttle=1492 | alt=298.61
+2026-04-16 18:10:12,827 | Cruise | lat=50.442042 lon=30.453406 alt=298.73m yaw=359.03deg | dist=403.9m | north=142.9 | east=-377.7 | roll=1482 pitch=1500 throttle=1492 | alt=298.73
+2026-04-16 18:10:13,179 | Cruise | lat=50.442032 lon=30.453397 alt=298.80m yaw=359.03deg | dist=403.7m | north=144.0 | east=-377.1 | roll=1482 pitch=1500 throttle=1492 | alt=298.80
+2026-04-16 18:10:13,530 | Cruise | lat=50.442022 lon=30.453388 alt=298.89m yaw=359.03deg | dist=403.5m | north=145.1 | east=-376.5 | roll=1482 pitch=1500 throttle=1492 | alt=298.89
+2026-04-16 18:10:13,882 | Cruise | lat=50.442003 lon=30.453371 alt=299.07m yaw=359.03deg | dist=403.1m | north=147.3 | east=-375.2 | roll=1482 pitch=1500 throttle=1488 | alt=299.07
+2026-04-16 18:10:14,234 | Cruise | lat=50.441993 lon=30.453362 alt=299.17m yaw=359.03deg | dist=402.9m | north=148.4 | east=-374.6 | roll=1482 pitch=1500 throttle=1488 | alt=299.17
+2026-04-16 18:10:14,585 | Cruise | lat=50.441973 lon=30.453345 alt=299.39m yaw=359.03deg | dist=402.6m | north=150.6 | east=-373.4 | roll=1482 pitch=1500 throttle=1488 | alt=299.39
+2026-04-16 18:10:14,937 | Cruise | lat=50.441963 lon=30.453336 alt=299.48m yaw=359.03deg | dist=402.4m | north=151.7 | east=-372.8 | roll=1482 pitch=1500 throttle=1488 | alt=299.48
+2026-04-16 18:10:15,288 | Cruise | lat=50.441954 lon=30.453327 alt=299.58m yaw=359.03deg | dist=402.3m | north=152.8 | east=-372.1 | roll=1482 pitch=1500 throttle=1488 | alt=299.58
+2026-04-16 18:10:15,640 | Cruise | lat=50.441934 lon=30.453309 alt=299.69m yaw=359.03deg | dist=401.9m | north=154.9 | east=-370.9 | roll=1482 pitch=1500 throttle=1488 | alt=299.69
+2026-04-16 18:10:15,992 | Cruise | lat=50.441924 lon=30.453301 alt=299.64m yaw=359.03deg | dist=401.8m | north=156.0 | east=-370.3 | roll=1482 pitch=1500 throttle=1488 | alt=299.64
+2026-04-16 18:10:16,344 | Cruise | lat=50.441905 lon=30.453283 alt=299.61m yaw=359.03deg | dist=401.5m | north=158.2 | east=-369.0 | roll=1482 pitch=1500 throttle=1488 | alt=299.61
+2026-04-16 18:10:16,696 | Cruise | lat=50.441895 lon=30.453274 alt=299.63m yaw=359.03deg | dist=401.4m | north=159.3 | east=-368.4 | roll=1482 pitch=1500 throttle=1488 | alt=299.63
+2026-04-16 18:10:17,047 | Cruise | lat=50.441885 lon=30.453265 alt=299.69m yaw=359.03deg | dist=401.2m | north=160.4 | east=-367.8 | roll=1482 pitch=1500 throttle=1488 | alt=299.69
+2026-04-16 18:10:17,399 | Cruise | lat=50.441865 lon=30.453248 alt=299.80m yaw=359.04deg | dist=401.0m | north=162.6 | east=-366.5 | roll=1482 pitch=1500 throttle=1488 | alt=299.80
+2026-04-16 18:10:17,750 | Cruise | lat=50.441856 lon=30.453239 alt=299.87m yaw=359.04deg | dist=400.8m | north=163.7 | east=-365.9 | roll=1482 pitch=1500 throttle=1488 | alt=299.87
+2026-04-16 18:10:18,101 | Cruise | lat=50.441836 lon=30.453222 alt=299.96m yaw=359.04deg | dist=400.6m | north=165.9 | east=-364.7 | roll=1482 pitch=1500 throttle=1488 | alt=299.96
+2026-04-16 18:10:18,452 | Cruise | lat=50.441826 lon=30.453213 alt=300.02m yaw=359.04deg | dist=400.5m | north=167.0 | east=-364.0 | roll=1482 pitch=1500 throttle=1488 | alt=300.02
+2026-04-16 18:10:18,804 | Cruise | lat=50.441817 lon=30.453204 alt=300.07m yaw=359.04deg | dist=400.4m | north=168.0 | east=-363.4 | roll=1482 pitch=1500 throttle=1488 | alt=300.07
+2026-04-16 18:10:19,155 | Cruise | lat=50.441797 lon=30.453187 alt=300.15m yaw=359.04deg | dist=400.2m | north=170.2 | east=-362.2 | roll=1482 pitch=1500 throttle=1488 | alt=300.15
+2026-04-16 18:10:19,507 | Cruise | lat=50.441787 lon=30.453178 alt=300.19m yaw=359.05deg | dist=400.1m | north=171.3 | east=-361.6 | roll=1482 pitch=1500 throttle=1488 | alt=300.19
+2026-04-16 18:10:19,858 | Cruise | lat=50.441768 lon=30.453161 alt=300.30m yaw=359.05deg | dist=399.9m | north=173.5 | east=-360.4 | roll=1482 pitch=1500 throttle=1488 | alt=300.30
+2026-04-16 18:10:20,210 | Cruise | lat=50.441758 lon=30.453152 alt=300.37m yaw=359.05deg | dist=399.9m | north=174.6 | east=-359.7 | roll=1483 pitch=1500 throttle=1488 | alt=300.37
+2026-04-16 18:10:20,561 | Cruise | lat=50.441748 lon=30.453144 alt=300.46m yaw=359.05deg | dist=399.8m | north=175.7 | east=-359.1 | roll=1483 pitch=1500 throttle=1488 | alt=300.46
+2026-04-16 18:10:20,912 | Cruise | lat=50.441729 lon=30.453126 alt=300.62m yaw=359.05deg | dist=399.6m | north=177.8 | east=-357.9 | roll=1483 pitch=1500 throttle=1488 | alt=300.62
+2026-04-16 18:10:21,264 | Cruise | lat=50.441719 lon=30.453118 alt=300.68m yaw=359.05deg | dist=399.6m | north=178.9 | east=-357.3 | roll=1483 pitch=1500 throttle=1488 | alt=300.68
+2026-04-16 18:10:21,616 | Cruise | lat=50.441699 lon=30.453100 alt=300.83m yaw=359.05deg | dist=399.5m | north=181.1 | east=-356.0 | roll=1483 pitch=1500 throttle=1488 | alt=300.83
+2026-04-16 18:10:21,968 | Cruise | lat=50.441689 lon=30.453091 alt=300.89m yaw=359.05deg | dist=399.4m | north=182.2 | east=-355.4 | roll=1483 pitch=1500 throttle=1488 | alt=300.89
+2026-04-16 18:10:22,320 | Cruise | lat=50.441670 lon=30.453074 alt=300.97m yaw=359.05deg | dist=399.3m | north=184.4 | east=-354.2 | roll=1483 pitch=1500 throttle=1488 | alt=300.97
+2026-04-16 18:10:22,671 | Cruise | lat=50.441660 lon=30.453066 alt=301.00m yaw=359.04deg | dist=399.3m | north=185.5 | east=-353.6 | roll=1483 pitch=1500 throttle=1488 | alt=301.00
+2026-04-16 18:10:23,023 | Cruise | lat=50.441650 lon=30.453057 alt=301.02m yaw=359.04deg | dist=399.3m | north=186.6 | east=-353.0 | roll=1483 pitch=1500 throttle=1478 | alt=301.02
+2026-04-16 18:10:23,374 | Cruise | lat=50.441630 lon=30.453040 alt=301.04m yaw=359.03deg | dist=399.2m | north=188.8 | east=-351.8 | roll=1483 pitch=1500 throttle=1478 | alt=301.04
+2026-04-16 18:10:23,725 | Cruise | lat=50.441621 lon=30.453031 alt=301.02m yaw=359.02deg | dist=399.2m | north=189.8 | east=-351.2 | roll=1483 pitch=1500 throttle=1478 | alt=301.02
+2026-04-16 18:10:24,077 | Cruise | lat=50.441601 lon=30.453014 alt=300.93m yaw=359.01deg | dist=399.2m | north=192.0 | east=-349.9 | roll=1483 pitch=1500 throttle=1488 | alt=300.93
+2026-04-16 18:10:24,429 | Cruise | lat=50.441591 lon=30.453005 alt=300.90m yaw=359.00deg | dist=399.1m | north=193.1 | east=-349.3 | roll=1483 pitch=1500 throttle=1488 | alt=300.90
+2026-04-16 18:10:24,781 | Cruise | lat=50.441581 lon=30.452997 alt=300.85m yaw=359.00deg | dist=399.1m | north=194.2 | east=-348.7 | roll=1483 pitch=1500 throttle=1488 | alt=300.85
+2026-04-16 18:10:25,132 | Cruise | lat=50.441562 lon=30.452979 alt=300.70m yaw=358.99deg | dist=399.1m | north=196.4 | east=-347.5 | roll=1483 pitch=1500 throttle=1488 | alt=300.70
+2026-04-16 18:10:25,483 | Cruise | lat=50.441552 lon=30.452970 alt=300.62m yaw=358.99deg | dist=399.1m | north=197.5 | east=-346.9 | roll=1483 pitch=1500 throttle=1488 | alt=300.62
+2026-04-16 18:10:25,834 | Cruise | lat=50.441532 lon=30.452953 alt=300.45m yaw=358.98deg | dist=399.1m | north=199.7 | east=-345.6 | roll=1483 pitch=1500 throttle=1488 | alt=300.45
+2026-04-16 18:10:26,186 | Cruise | lat=50.441523 lon=30.452944 alt=300.38m yaw=358.98deg | dist=399.2m | north=200.7 | east=-345.0 | roll=1483 pitch=1500 throttle=1488 | alt=300.38
+2026-04-16 18:10:26,537 | Cruise | lat=50.441513 lon=30.452936 alt=300.32m yaw=358.98deg | dist=399.2m | north=201.8 | east=-344.4 | roll=1483 pitch=1500 throttle=1488 | alt=300.32
+2026-04-16 18:10:26,888 | Cruise | lat=50.441493 lon=30.452919 alt=300.23m yaw=359.00deg | dist=399.2m | north=204.0 | east=-343.2 | roll=1483 pitch=1500 throttle=1488 | alt=300.23
+2026-04-16 18:10:27,240 | Cruise | lat=50.441484 lon=30.452910 alt=300.21m yaw=359.01deg | dist=399.3m | north=205.1 | east=-342.6 | roll=1483 pitch=1500 throttle=1488 | alt=300.21
+2026-04-16 18:10:27,591 | Cruise | lat=50.441464 lon=30.452893 alt=300.21m yaw=359.01deg | dist=399.3m | north=207.3 | east=-341.3 | roll=1483 pitch=1500 throttle=1488 | alt=300.21
+2026-04-16 18:10:27,942 | Cruise | lat=50.441454 lon=30.452884 alt=300.20m yaw=359.02deg | dist=399.4m | north=208.4 | east=-340.7 | roll=1483 pitch=1500 throttle=1488 | alt=300.20
+2026-04-16 18:10:28,293 | Cruise | lat=50.441445 lon=30.452876 alt=300.19m yaw=359.02deg | dist=399.4m | north=209.4 | east=-340.1 | roll=1483 pitch=1500 throttle=1488 | alt=300.19
+2026-04-16 18:10:28,644 | Cruise | lat=50.441425 lon=30.452858 alt=300.14m yaw=359.02deg | dist=399.5m | north=211.6 | east=-338.9 | roll=1484 pitch=1500 throttle=1488 | alt=300.14
+2026-04-16 18:10:28,996 | Cruise | lat=50.441415 lon=30.452850 alt=300.14m yaw=359.02deg | dist=399.6m | north=212.7 | east=-338.3 | roll=1484 pitch=1500 throttle=1488 | alt=300.14
+2026-04-16 18:10:29,347 | Cruise | lat=50.441396 lon=30.452832 alt=300.12m yaw=359.01deg | dist=399.7m | north=214.9 | east=-337.1 | roll=1484 pitch=1500 throttle=1488 | alt=300.12
+2026-04-16 18:10:29,698 | Cruise | lat=50.441386 lon=30.452824 alt=300.11m yaw=359.01deg | dist=399.8m | north=216.0 | east=-336.4 | roll=1484 pitch=1500 throttle=1488 | alt=300.11
+2026-04-16 18:10:30,050 | Cruise | lat=50.441376 lon=30.452815 alt=300.11m yaw=359.01deg | dist=399.9m | north=217.1 | east=-335.8 | roll=1484 pitch=1500 throttle=1488 | alt=300.11
+2026-04-16 18:10:30,401 | Cruise | lat=50.441356 lon=30.452797 alt=300.09m yaw=359.01deg | dist=400.0m | north=219.2 | east=-334.6 | roll=1484 pitch=1500 throttle=1488 | alt=300.09
+2026-04-16 18:10:30,753 | Cruise | lat=50.441347 lon=30.452789 alt=300.11m yaw=359.01deg | dist=400.1m | north=220.3 | east=-334.0 | roll=1484 pitch=1500 throttle=1488 | alt=300.11
+2026-04-16 18:10:31,104 | Cruise | lat=50.441327 lon=30.452772 alt=300.15m yaw=359.01deg | dist=400.3m | north=222.5 | east=-332.8 | roll=1484 pitch=1500 throttle=1488 | alt=300.15
+2026-04-16 18:10:31,455 | Cruise | lat=50.441317 lon=30.452763 alt=300.15m yaw=359.01deg | dist=400.4m | north=223.6 | east=-332.1 | roll=1484 pitch=1500 throttle=1488 | alt=300.15
+2026-04-16 18:10:31,806 | Cruise | lat=50.441308 lon=30.452754 alt=300.15m yaw=359.01deg | dist=400.5m | north=224.7 | east=-331.5 | roll=1484 pitch=1500 throttle=1488 | alt=300.15
+2026-04-16 18:10:32,158 | Cruise | lat=50.441288 lon=30.452736 alt=300.19m yaw=359.01deg | dist=400.7m | north=226.9 | east=-330.3 | roll=1484 pitch=1500 throttle=1488 | alt=300.19
+2026-04-16 18:10:32,510 | Cruise | lat=50.441278 lon=30.452728 alt=300.28m yaw=359.01deg | dist=400.8m | north=227.9 | east=-329.6 | roll=1484 pitch=1500 throttle=1488 | alt=300.28
+2026-04-16 18:10:32,861 | Cruise | lat=50.441259 lon=30.452710 alt=300.50m yaw=359.01deg | dist=401.0m | north=230.1 | east=-328.4 | roll=1484 pitch=1500 throttle=1488 | alt=300.50
+2026-04-16 18:10:33,212 | Cruise | lat=50.441249 lon=30.452701 alt=300.62m yaw=359.01deg | dist=401.1m | north=231.2 | east=-327.8 | roll=1484 pitch=1500 throttle=1488 | alt=300.62
+2026-04-16 18:10:33,564 | Cruise | lat=50.441239 lon=30.452692 alt=300.74m yaw=359.01deg | dist=401.2m | north=232.3 | east=-327.1 | roll=1484 pitch=1500 throttle=1488 | alt=300.74
+2026-04-16 18:10:33,915 | Cruise | lat=50.441220 lon=30.452674 alt=300.86m yaw=359.01deg | dist=401.5m | north=234.5 | east=-325.9 | roll=1484 pitch=1500 throttle=1488 | alt=300.86
+2026-04-16 18:10:34,266 | Cruise | lat=50.441210 lon=30.452665 alt=300.91m yaw=359.01deg | dist=401.6m | north=235.6 | east=-325.2 | roll=1484 pitch=1500 throttle=1488 | alt=300.91
+2026-04-16 18:10:34,617 | Cruise | lat=50.441190 lon=30.452648 alt=301.02m yaw=359.01deg | dist=401.9m | north=237.7 | east=-324.0 | roll=1484 pitch=1500 throttle=1478 | alt=301.02
+2026-04-16 18:10:34,969 | Cruise | lat=50.441181 lon=30.452639 alt=301.10m yaw=359.02deg | dist=402.0m | north=238.8 | east=-323.4 | roll=1484 pitch=1500 throttle=1478 | alt=301.10
+2026-04-16 18:10:35,320 | Cruise | lat=50.441161 lon=30.452622 alt=301.22m yaw=359.02deg | dist=402.3m | north=241.0 | east=-322.1 | roll=1484 pitch=1500 throttle=1478 | alt=301.22
+2026-04-16 18:10:35,672 | Cruise | lat=50.441151 lon=30.452613 alt=301.21m yaw=359.03deg | dist=402.5m | north=242.1 | east=-321.5 | roll=1484 pitch=1500 throttle=1478 | alt=301.21
+2026-04-16 18:10:36,023 | Cruise | lat=50.441141 lon=30.452604 alt=301.18m yaw=359.03deg | dist=402.6m | north=243.2 | east=-320.9 | roll=1484 pitch=1500 throttle=1478 | alt=301.18
+2026-04-16 18:10:36,375 | Cruise | lat=50.441122 lon=30.452587 alt=301.18m yaw=359.04deg | dist=403.0m | north=245.4 | east=-319.7 | roll=1485 pitch=1500 throttle=1478 | alt=301.18
+2026-04-16 18:10:36,727 | Cruise | lat=50.441112 lon=30.452578 alt=301.17m yaw=359.04deg | dist=403.2m | north=246.5 | east=-319.1 | roll=1485 pitch=1500 throttle=1478 | alt=301.17
+2026-04-16 18:10:37,078 | Cruise | lat=50.441093 lon=30.452561 alt=301.15m yaw=359.05deg | dist=403.5m | north=248.6 | east=-317.9 | roll=1485 pitch=1500 throttle=1478 | alt=301.15
+2026-04-16 18:10:37,428 | Cruise | lat=50.441083 lon=30.452553 alt=301.13m yaw=359.05deg | dist=403.7m | north=249.7 | east=-317.2 | roll=1485 pitch=1500 throttle=1478 | alt=301.13
+2026-04-16 18:10:37,779 | Cruise | lat=50.441073 lon=30.452544 alt=301.11m yaw=359.03deg | dist=403.9m | north=250.8 | east=-316.6 | roll=1485 pitch=1500 throttle=1478 | alt=301.11
+2026-04-16 18:10:38,131 | Cruise | lat=50.441054 lon=30.452527 alt=300.98m yaw=359.01deg | dist=404.3m | north=253.0 | east=-315.4 | roll=1488 pitch=1490 throttle=1488 | alt=300.98
+2026-04-16 18:10:38,483 | Cruise | lat=50.441044 lon=30.452518 alt=300.89m yaw=359.00deg | dist=404.5m | north=254.1 | east=-314.8 | roll=1488 pitch=1490 throttle=1488 | alt=300.89
+2026-04-16 18:10:38,834 | Cruise | lat=50.441024 lon=30.452501 alt=300.72m yaw=359.00deg | dist=404.9m | north=256.2 | east=-313.6 | roll=1488 pitch=1490 throttle=1488 | alt=300.72
+2026-04-16 18:10:39,186 | Cruise | lat=50.441015 lon=30.452492 alt=300.63m yaw=359.00deg | dist=405.1m | north=257.3 | east=-312.9 | roll=1488 pitch=1490 throttle=1488 | alt=300.63
+2026-04-16 18:10:39,537 | Cruise | lat=50.441005 lon=30.452483 alt=300.55m yaw=358.99deg | dist=405.4m | north=258.4 | east=-312.3 | roll=1488 pitch=1490 throttle=1488 | alt=300.55
+2026-04-16 18:10:39,888 | Cruise | lat=50.440985 lon=30.452466 alt=300.37m yaw=358.99deg | dist=405.8m | north=260.6 | east=-311.1 | roll=1488 pitch=1490 throttle=1488 | alt=300.37
+2026-04-16 18:10:40,240 | Cruise | lat=50.440975 lon=30.452457 alt=300.30m yaw=358.99deg | dist=406.0m | north=261.7 | east=-310.5 | roll=1488 pitch=1490 throttle=1488 | alt=300.30
+2026-04-16 18:10:40,592 | Cruise | lat=50.440956 lon=30.452440 alt=300.25m yaw=358.99deg | dist=406.5m | north=263.9 | east=-309.2 | roll=1488 pitch=1490 throttle=1488 | alt=300.25
+2026-04-16 18:10:40,944 | Cruise | lat=50.440946 lon=30.452431 alt=300.22m yaw=358.98deg | dist=406.8m | north=264.9 | east=-308.6 | roll=1488 pitch=1490 throttle=1488 | alt=300.22
+2026-04-16 18:10:41,295 | Cruise | lat=50.440936 lon=30.452423 alt=300.19m yaw=358.98deg | dist=407.0m | north=266.0 | east=-308.0 | roll=1488 pitch=1490 throttle=1488 | alt=300.19
+2026-04-16 18:10:41,647 | Cruise | lat=50.440917 lon=30.452405 alt=300.17m yaw=359.00deg | dist=407.5m | north=268.2 | east=-306.8 | roll=1488 pitch=1490 throttle=1488 | alt=300.17
+2026-04-16 18:10:41,998 | Cruise | lat=50.440907 lon=30.452397 alt=300.16m yaw=359.00deg | dist=407.8m | north=269.3 | east=-306.2 | roll=1488 pitch=1490 throttle=1488 | alt=300.16
+2026-04-16 18:10:42,350 | Cruise | lat=50.440887 lon=30.452379 alt=300.27m yaw=359.00deg | dist=408.3m | north=271.5 | east=-305.0 | roll=1488 pitch=1490 throttle=1488 | alt=300.27
+2026-04-16 18:10:42,702 | Cruise | lat=50.440877 lon=30.452371 alt=300.33m yaw=359.00deg | dist=408.6m | north=272.6 | east=-304.4 | roll=1488 pitch=1490 throttle=1488 | alt=300.33
+2026-04-16 18:10:43,053 | Cruise | lat=50.440868 lon=30.452362 alt=300.41m yaw=359.00deg | dist=408.9m | north=273.7 | east=-303.8 | roll=1488 pitch=1490 throttle=1488 | alt=300.41
+2026-04-16 18:10:43,404 | Cruise | lat=50.440848 lon=30.452345 alt=300.54m yaw=359.00deg | dist=409.4m | north=275.9 | east=-302.5 | roll=1488 pitch=1489 throttle=1488 | alt=300.54
+2026-04-16 18:10:43,755 | Cruise | lat=50.440838 lon=30.452337 alt=300.62m yaw=358.99deg | dist=409.7m | north=276.9 | east=-301.9 | roll=1488 pitch=1489 throttle=1488 | alt=300.62
+2026-04-16 18:10:44,106 | Cruise | lat=50.440818 lon=30.452319 alt=300.78m yaw=359.00deg | dist=410.3m | north=279.1 | east=-300.7 | roll=1488 pitch=1489 throttle=1488 | alt=300.78
+2026-04-16 18:10:44,458 | Cruise | lat=50.440809 lon=30.452311 alt=300.89m yaw=359.01deg | dist=410.6m | north=280.2 | east=-300.1 | roll=1488 pitch=1489 throttle=1488 | alt=300.89
+2026-04-16 18:10:44,809 | Cruise | lat=50.440799 lon=30.452302 alt=300.96m yaw=359.01deg | dist=410.9m | north=281.3 | east=-299.5 | roll=1489 pitch=1489 throttle=1488 | alt=300.96
+2026-04-16 18:10:45,160 | Cruise | lat=50.440779 lon=30.452285 alt=301.12m yaw=359.01deg | dist=411.5m | north=283.5 | east=-298.3 | roll=1489 pitch=1489 throttle=1478 | alt=301.12
+2026-04-16 18:10:45,512 | Cruise | lat=50.440769 lon=30.452276 alt=301.21m yaw=359.01deg | dist=411.8m | north=284.6 | east=-297.7 | roll=1489 pitch=1489 throttle=1478 | alt=301.21
+2026-04-16 18:10:45,863 | Cruise | lat=50.440749 lon=30.452259 alt=301.25m yaw=359.01deg | dist=412.5m | north=286.8 | east=-296.4 | roll=1489 pitch=1489 throttle=1478 | alt=301.25
+2026-04-16 18:10:46,215 | Cruise | lat=50.440739 lon=30.452251 alt=301.19m yaw=359.01deg | dist=412.8m | north=287.9 | east=-295.8 | roll=1489 pitch=1489 throttle=1478 | alt=301.19
+2026-04-16 18:10:46,567 | Cruise | lat=50.440730 lon=30.452242 alt=301.09m yaw=359.01deg | dist=413.2m | north=289.0 | east=-295.2 | roll=1489 pitch=1489 throttle=1478 | alt=301.09
+2026-04-16 18:10:46,918 | Cruise | lat=50.440710 lon=30.452225 alt=300.83m yaw=359.01deg | dist=413.8m | north=291.2 | east=-294.0 | roll=1489 pitch=1489 throttle=1488 | alt=300.83
+2026-04-16 18:10:47,269 | Cruise | lat=50.440700 lon=30.452216 alt=300.71m yaw=359.01deg | dist=414.2m | north=292.3 | east=-293.4 | roll=1489 pitch=1489 throttle=1488 | alt=300.71
+2026-04-16 18:10:47,621 | Cruise | lat=50.440680 lon=30.452199 alt=300.49m yaw=359.01deg | dist=414.9m | north=294.5 | east=-292.2 | roll=1489 pitch=1489 throttle=1488 | alt=300.49
+2026-04-16 18:10:47,972 | Cruise | lat=50.440670 lon=30.452191 alt=300.42m yaw=359.01deg | dist=415.2m | north=295.6 | east=-291.6 | roll=1489 pitch=1489 throttle=1488 | alt=300.42
+2026-04-16 18:10:48,324 | Cruise | lat=50.440650 lon=30.452173 alt=300.30m yaw=359.01deg | dist=416.0m | north=297.9 | east=-290.3 | roll=1489 pitch=1489 throttle=1488 | alt=300.30
+2026-04-16 18:10:48,675 | Cruise | lat=50.440640 lon=30.452164 alt=300.25m yaw=359.01deg | dist=416.3m | north=299.0 | east=-289.7 | roll=1489 pitch=1489 throttle=1488 | alt=300.25
+2026-04-16 18:10:49,026 | Cruise | lat=50.440630 lon=30.452156 alt=300.20m yaw=359.01deg | dist=416.7m | north=300.1 | east=-289.1 | roll=1489 pitch=1488 throttle=1488 | alt=300.20
+2026-04-16 18:10:49,377 | Cruise | lat=50.440611 lon=30.452139 alt=300.12m yaw=359.02deg | dist=417.4m | north=302.3 | east=-287.9 | roll=1489 pitch=1488 throttle=1488 | alt=300.12
+2026-04-16 18:10:49,729 | Cruise | lat=50.440601 lon=30.452130 alt=300.08m yaw=359.02deg | dist=417.8m | north=303.4 | east=-287.3 | roll=1489 pitch=1488 throttle=1488 | alt=300.08
+2026-04-16 18:10:50,080 | Cruise | lat=50.440581 lon=30.452113 alt=300.12m yaw=359.03deg | dist=418.6m | north=305.6 | east=-286.1 | roll=1489 pitch=1488 throttle=1488 | alt=300.12
+2026-04-16 18:10:50,432 | Cruise | lat=50.440571 lon=30.452104 alt=300.20m yaw=359.03deg | dist=419.0m | north=306.7 | east=-285.5 | roll=1489 pitch=1488 throttle=1488 | alt=300.20
+2026-04-16 18:10:50,783 | Cruise | lat=50.440561 lon=30.452096 alt=300.26m yaw=359.03deg | dist=419.3m | north=307.8 | east=-284.8 | roll=1489 pitch=1488 throttle=1488 | alt=300.26
+2026-04-16 18:10:51,135 | Cruise | lat=50.440542 lon=30.452078 alt=300.30m yaw=359.04deg | dist=420.1m | north=310.0 | east=-283.6 | roll=1489 pitch=1488 throttle=1488 | alt=300.30
+2026-04-16 18:10:51,488 | Cruise | lat=50.440532 lon=30.452070 alt=300.32m yaw=359.04deg | dist=420.5m | north=311.1 | east=-283.0 | roll=1489 pitch=1488 throttle=1488 | alt=300.32
+2026-04-16 18:10:51,839 | Cruise | lat=50.440512 lon=30.452052 alt=300.38m yaw=359.04deg | dist=421.3m | north=313.3 | east=-281.8 | roll=1489 pitch=1488 throttle=1488 | alt=300.38
+2026-04-16 18:10:52,191 | Cruise | lat=50.440502 lon=30.452043 alt=300.40m yaw=359.04deg | dist=421.7m | north=314.4 | east=-281.1 | roll=1489 pitch=1488 throttle=1488 | alt=300.40
+2026-04-16 18:10:52,543 | Cruise | lat=50.440492 lon=30.452035 alt=300.42m yaw=359.04deg | dist=422.2m | north=315.5 | east=-280.5 | roll=1489 pitch=1488 throttle=1488 | alt=300.42
+2026-04-16 18:10:52,895 | Cruise | lat=50.440472 lon=30.452017 alt=300.47m yaw=359.05deg | dist=423.0m | north=317.7 | east=-279.3 | roll=1489 pitch=1488 throttle=1488 | alt=300.47
+2026-04-16 18:10:53,247 | Cruise | lat=50.440463 lon=30.452009 alt=300.51m yaw=359.05deg | dist=423.4m | north=318.8 | east=-278.7 | roll=1489 pitch=1488 throttle=1488 | alt=300.51
+2026-04-16 18:10:53,598 | Cruise | lat=50.440443 lon=30.451991 alt=300.57m yaw=359.05deg | dist=424.3m | north=321.0 | east=-277.4 | roll=1489 pitch=1488 throttle=1488 | alt=300.57
+2026-04-16 18:10:53,949 | Cruise | lat=50.440433 lon=30.451982 alt=300.57m yaw=359.06deg | dist=424.7m | north=322.1 | east=-276.8 | roll=1489 pitch=1488 throttle=1488 | alt=300.57
+2026-04-16 18:10:54,300 | Cruise | lat=50.440423 lon=30.451974 alt=300.56m yaw=359.06deg | dist=425.1m | north=323.2 | east=-276.2 | roll=1489 pitch=1488 throttle=1488 | alt=300.56
+2026-04-16 18:10:54,651 | Cruise | lat=50.440403 lon=30.451956 alt=300.56m yaw=359.04deg | dist=426.0m | north=325.4 | east=-275.0 | roll=1490 pitch=1487 throttle=1488 | alt=300.56
+2026-04-16 18:10:55,003 | Cruise | lat=50.440393 lon=30.451947 alt=300.56m yaw=359.03deg | dist=426.4m | north=326.5 | east=-274.3 | roll=1490 pitch=1487 throttle=1488 | alt=300.56
+2026-04-16 18:10:55,355 | Cruise | lat=50.440374 lon=30.451930 alt=300.58m yaw=359.02deg | dist=427.3m | north=328.6 | east=-273.1 | roll=1490 pitch=1487 throttle=1488 | alt=300.58
+2026-04-16 18:10:55,706 | Cruise | lat=50.440364 lon=30.451921 alt=300.59m yaw=359.02deg | dist=427.7m | north=329.7 | east=-272.4 | roll=1490 pitch=1487 throttle=1488 | alt=300.59
+2026-04-16 18:10:56,057 | Cruise | lat=50.440354 lon=30.451912 alt=300.62m yaw=359.02deg | dist=428.2m | north=330.8 | east=-271.8 | roll=1490 pitch=1487 throttle=1488 | alt=300.62
+2026-04-16 18:10:56,408 | Cruise | lat=50.440335 lon=30.451894 alt=300.70m yaw=359.02deg | dist=429.1m | north=333.0 | east=-270.6 | roll=1490 pitch=1487 throttle=1488 | alt=300.70
+2026-04-16 18:10:56,759 | Cruise | lat=50.440325 lon=30.451885 alt=300.76m yaw=359.02deg | dist=429.5m | north=334.1 | east=-269.9 | roll=1490 pitch=1487 throttle=1488 | alt=300.76
+2026-04-16 18:10:57,110 | Cruise | lat=50.440305 lon=30.451868 alt=300.88m yaw=359.02deg | dist=430.4m | north=336.3 | east=-268.7 | roll=1500 pitch=1484 throttle=1488 | alt=300.88
+2026-04-16 18:10:57,462 | Cruise | lat=50.440295 lon=30.451859 alt=300.91m yaw=359.02deg | dist=430.9m | north=337.4 | east=-268.1 | roll=1500 pitch=1484 throttle=1488 | alt=300.91
+2026-04-16 18:10:57,813 | Cruise | lat=50.440286 lon=30.451850 alt=301.00m yaw=359.02deg | dist=431.4m | north=338.4 | east=-267.4 | roll=1500 pitch=1484 throttle=1478 | alt=301.00
+2026-04-16 18:10:58,165 | Cruise | lat=50.440266 lon=30.451833 alt=301.34m yaw=359.01deg | dist=432.3m | north=340.6 | east=-266.2 | roll=1500 pitch=1483 throttle=1478 | alt=301.34
+2026-04-16 18:10:58,517 | Cruise | lat=50.440256 lon=30.451824 alt=301.51m yaw=359.01deg | dist=432.8m | north=341.7 | east=-265.6 | roll=1500 pitch=1483 throttle=1478 | alt=301.51
+2026-04-16 18:10:58,868 | Cruise | lat=50.440237 lon=30.451806 alt=301.88m yaw=359.01deg | dist=433.7m | north=343.9 | east=-264.3 | roll=1500 pitch=1483 throttle=1478 | alt=301.88
+2026-04-16 18:10:59,219 | Cruise | lat=50.440227 lon=30.451798 alt=302.08m yaw=359.00deg | dist=434.2m | north=345.0 | east=-263.7 | roll=1500 pitch=1483 throttle=1478 | alt=302.08
+2026-04-16 18:10:59,571 | Cruise | lat=50.440217 lon=30.451789 alt=302.25m yaw=359.00deg | dist=434.7m | north=346.1 | east=-263.1 | roll=1500 pitch=1483 throttle=1478 | alt=302.25
+2026-04-16 18:10:59,922 | Cruise | lat=50.440198 lon=30.451772 alt=302.37m yaw=359.00deg | dist=435.7m | north=348.2 | east=-261.9 | roll=1500 pitch=1483 throttle=1478 | alt=302.37
+2026-04-16 18:11:00,273 | Cruise | lat=50.440188 lon=30.451763 alt=302.41m yaw=359.00deg | dist=436.2m | north=349.3 | east=-261.3 | roll=1500 pitch=1483 throttle=1478 | alt=302.41
+2026-04-16 18:11:00,625 | Cruise | lat=50.440169 lon=30.451746 alt=302.38m yaw=359.00deg | dist=437.2m | north=351.5 | east=-260.0 | roll=1500 pitch=1483 throttle=1478 | alt=302.38
+2026-04-16 18:11:00,976 | Cruise | lat=50.440159 lon=30.451737 alt=302.29m yaw=359.00deg | dist=437.7m | north=352.6 | east=-259.4 | roll=1500 pitch=1483 throttle=1478 | alt=302.29
+2026-04-16 18:11:01,328 | Cruise | lat=50.440139 lon=30.451719 alt=302.08m yaw=359.00deg | dist=438.7m | north=354.7 | east=-258.2 | roll=1500 pitch=1483 throttle=1478 | alt=302.08
+2026-04-16 18:11:01,680 | Cruise | lat=50.440130 lon=30.451711 alt=301.98m yaw=358.99deg | dist=439.3m | north=355.8 | east=-257.6 | roll=1500 pitch=1483 throttle=1478 | alt=301.98
+2026-04-16 18:11:02,031 | Cruise | lat=50.440120 lon=30.451702 alt=301.89m yaw=358.99deg | dist=439.8m | north=356.9 | east=-256.9 | roll=1500 pitch=1483 throttle=1478 | alt=301.89
+2026-04-16 18:11:02,382 | Cruise | lat=50.440100 lon=30.451684 alt=301.71m yaw=358.99deg | dist=440.8m | north=359.1 | east=-255.7 | roll=1500 pitch=1483 throttle=1478 | alt=301.71
+2026-04-16 18:11:02,733 | Cruise | lat=50.440091 lon=30.451676 alt=301.61m yaw=358.99deg | dist=441.3m | north=360.2 | east=-255.1 | roll=1500 pitch=1482 throttle=1478 | alt=301.61
+2026-04-16 18:11:03,084 | Cruise | lat=50.440071 lon=30.451658 alt=301.45m yaw=359.00deg | dist=442.4m | north=362.4 | east=-253.8 | roll=1500 pitch=1482 throttle=1478 | alt=301.45
+2026-04-16 18:11:03,435 | Cruise | lat=50.440061 lon=30.451649 alt=301.38m yaw=359.01deg | dist=443.0m | north=363.4 | east=-253.2 | roll=1500 pitch=1482 throttle=1478 | alt=301.38
+2026-04-16 18:11:03,787 | Cruise | lat=50.440051 lon=30.451641 alt=301.31m yaw=359.02deg | dist=443.5m | north=364.5 | east=-252.6 | roll=1500 pitch=1482 throttle=1478 | alt=301.31
+2026-04-16 18:11:04,139 | Cruise | lat=50.440032 lon=30.451624 alt=301.11m yaw=359.03deg | dist=444.6m | north=366.7 | east=-251.4 | roll=1500 pitch=1482 throttle=1478 | alt=301.11
+2026-04-16 18:11:04,491 | Cruise | lat=50.440022 lon=30.451615 alt=300.96m yaw=359.03deg | dist=445.1m | north=367.8 | east=-250.8 | roll=1500 pitch=1482 throttle=1488 | alt=300.96
+2026-04-16 18:11:04,842 | Cruise | lat=50.440002 lon=30.451597 alt=300.67m yaw=359.03deg | dist=446.3m | north=370.0 | east=-249.5 | roll=1500 pitch=1482 throttle=1488 | alt=300.67
+2026-04-16 18:11:05,193 | Cruise | lat=50.439993 lon=30.451589 alt=300.52m yaw=359.03deg | dist=446.8m | north=371.1 | east=-248.9 | roll=1500 pitch=1482 throttle=1488 | alt=300.52
+2026-04-16 18:11:05,545 | Cruise | lat=50.439983 lon=30.451580 alt=300.38m yaw=359.03deg | dist=447.4m | north=372.2 | east=-248.3 | roll=1500 pitch=1482 throttle=1488 | alt=300.38
+2026-04-16 18:11:05,897 | Cruise | lat=50.439963 lon=30.451562 alt=300.20m yaw=359.03deg | dist=448.5m | north=374.3 | east=-247.0 | roll=1500 pitch=1482 throttle=1488 | alt=300.20
+2026-04-16 18:11:06,247 | Cruise | lat=50.439954 lon=30.451554 alt=300.12m yaw=359.02deg | dist=449.1m | north=375.4 | east=-246.4 | roll=1500 pitch=1482 throttle=1488 | alt=300.12
+2026-04-16 18:11:06,598 | Cruise | lat=50.439934 lon=30.451536 alt=300.02m yaw=359.02deg | dist=450.2m | north=377.6 | east=-245.2 | roll=1500 pitch=1482 throttle=1488 | alt=300.02
+2026-04-16 18:11:06,950 | Cruise | lat=50.439924 lon=30.451528 alt=299.96m yaw=359.02deg | dist=450.8m | north=378.7 | east=-244.6 | roll=1500 pitch=1482 throttle=1488 | alt=299.96
+2026-04-16 18:11:07,301 | Cruise | lat=50.439914 lon=30.451519 alt=299.94m yaw=359.02deg | dist=451.4m | north=379.8 | east=-243.9 | roll=1500 pitch=1482 throttle=1488 | alt=299.94
+2026-04-16 18:11:07,652 | Cruise | lat=50.439895 lon=30.451501 alt=299.86m yaw=359.02deg | dist=452.5m | north=382.0 | east=-242.7 | roll=1500 pitch=1482 throttle=1488 | alt=299.86
+2026-04-16 18:11:08,004 | Cruise | lat=50.439885 lon=30.451492 alt=299.80m yaw=359.02deg | dist=453.1m | north=383.1 | east=-242.1 | roll=1500 pitch=1482 throttle=1488 | alt=299.80
+2026-04-16 18:11:08,355 | Cruise | lat=50.439865 lon=30.451475 alt=299.65m yaw=359.03deg | dist=454.3m | north=385.2 | east=-240.8 | roll=1500 pitch=1482 throttle=1488 | alt=299.65
+2026-04-16 18:11:08,707 | Cruise | lat=50.439856 lon=30.451466 alt=299.58m yaw=359.03deg | dist=454.9m | north=386.3 | east=-240.2 | roll=1500 pitch=1482 throttle=1488 | alt=299.58
+2026-04-16 18:11:09,058 | Cruise | lat=50.439846 lon=30.451457 alt=299.50m yaw=359.03deg | dist=455.5m | north=387.4 | east=-239.6 | roll=1500 pitch=1482 throttle=1488 | alt=299.50
+2026-04-16 18:11:09,410 | Cruise | lat=50.439826 lon=30.451440 alt=299.36m yaw=359.03deg | dist=456.7m | north=389.6 | east=-238.3 | roll=1500 pitch=1482 throttle=1488 | alt=299.36
+2026-04-16 18:11:09,761 | Cruise | lat=50.439816 lon=30.451431 alt=299.32m yaw=359.03deg | dist=457.3m | north=390.7 | east=-237.7 | roll=1500 pitch=1482 throttle=1488 | alt=299.32
+2026-04-16 18:11:10,113 | Cruise | lat=50.439797 lon=30.451414 alt=299.28m yaw=359.03deg | dist=458.6m | north=392.9 | east=-236.5 | roll=1500 pitch=1482 throttle=1488 | alt=299.28
+2026-04-16 18:11:10,465 | Cruise | lat=50.439787 lon=30.451405 alt=299.30m yaw=359.03deg | dist=459.2m | north=394.0 | east=-235.9 | roll=1500 pitch=1482 throttle=1488 | alt=299.30
+2026-04-16 18:11:10,816 | Cruise | lat=50.439777 lon=30.451396 alt=299.36m yaw=359.03deg | dist=459.8m | north=395.1 | east=-235.2 | roll=1500 pitch=1482 throttle=1488 | alt=299.36
+2026-04-16 18:11:11,168 | Cruise | lat=50.439757 lon=30.451379 alt=299.50m yaw=359.04deg | dist=461.0m | north=397.2 | east=-234.0 | roll=1500 pitch=1482 throttle=1488 | alt=299.50
+2026-04-16 18:11:11,520 | Cruise | lat=50.439748 lon=30.451370 alt=299.56m yaw=359.04deg | dist=461.7m | north=398.3 | east=-233.4 | roll=1500 pitch=1482 throttle=1488 | alt=299.56
+2026-04-16 18:11:11,871 | Cruise | lat=50.439728 lon=30.451353 alt=299.68m yaw=359.05deg | dist=462.9m | north=400.5 | east=-232.2 | roll=1500 pitch=1482 throttle=1488 | alt=299.68
+2026-04-16 18:11:12,223 | Cruise | lat=50.439718 lon=30.451344 alt=299.74m yaw=359.06deg | dist=463.6m | north=401.6 | east=-231.6 | roll=1500 pitch=1482 throttle=1488 | alt=299.74
+2026-04-16 18:11:12,574 | Cruise | lat=50.439699 lon=30.451327 alt=299.84m yaw=359.03deg | dist=464.8m | north=403.7 | east=-230.3 | roll=1500 pitch=1482 throttle=1488 | alt=299.84
+2026-04-16 18:11:12,925 | Cruise | lat=50.439689 lon=30.451318 alt=299.89m yaw=359.03deg | dist=465.5m | north=404.8 | east=-229.7 | roll=1500 pitch=1482 throttle=1488 | alt=299.89
+2026-04-16 18:11:13,276 | Cruise | lat=50.439680 lon=30.451310 alt=299.95m yaw=359.03deg | dist=466.1m | north=405.9 | east=-229.1 | roll=1500 pitch=1482 throttle=1488 | alt=299.95
+2026-04-16 18:11:13,628 | Cruise | lat=50.439660 lon=30.451292 alt=300.12m yaw=359.02deg | dist=467.4m | north=408.1 | east=-227.9 | roll=1500 pitch=1482 throttle=1488 | alt=300.12
+2026-04-16 18:11:13,979 | Cruise | lat=50.439650 lon=30.451284 alt=300.21m yaw=359.02deg | dist=468.1m | north=409.2 | east=-227.3 | roll=1500 pitch=1482 throttle=1488 | alt=300.21
+2026-04-16 18:11:14,331 | Cruise | lat=50.439641 lon=30.451275 alt=300.31m yaw=359.02deg | dist=468.7m | north=410.3 | east=-226.7 | roll=1500 pitch=1482 throttle=1488 | alt=300.31
+2026-04-16 18:11:14,682 | Cruise | lat=50.439621 lon=30.451258 alt=300.55m yaw=359.02deg | dist=470.0m | north=412.5 | east=-225.4 | roll=1500 pitch=1482 throttle=1488 | alt=300.55
+2026-04-16 18:11:15,033 | Cruise | lat=50.439611 lon=30.451249 alt=300.70m yaw=359.01deg | dist=470.7m | north=413.5 | east=-224.8 | roll=1500 pitch=1482 throttle=1488 | alt=300.70
+2026-04-16 18:11:15,384 | Cruise | lat=50.439591 lon=30.451232 alt=300.98m yaw=359.01deg | dist=472.0m | north=415.7 | east=-223.6 | roll=1500 pitch=1482 throttle=1488 | alt=300.98
+2026-04-16 18:11:15,736 | Cruise | lat=50.439582 lon=30.451223 alt=301.11m yaw=359.01deg | dist=472.7m | north=416.8 | east=-223.0 | roll=1500 pitch=1482 throttle=1478 | alt=301.11
+2026-04-16 18:11:16,088 | Cruise | lat=50.439562 lon=30.451206 alt=301.28m yaw=359.01deg | dist=474.0m | north=419.0 | east=-221.7 | roll=1500 pitch=1482 throttle=1478 | alt=301.28
+2026-04-16 18:11:16,439 | Cruise | lat=50.439552 lon=30.451197 alt=301.26m yaw=359.00deg | dist=474.7m | north=420.1 | east=-221.1 | roll=1500 pitch=1482 throttle=1478 | alt=301.26
+2026-04-16 18:11:16,791 | Cruise | lat=50.439543 lon=30.451188 alt=301.21m yaw=359.00deg | dist=475.4m | north=421.2 | east=-220.5 | roll=1500 pitch=1482 throttle=1478 | alt=301.21
+2026-04-16 18:11:17,143 | Cruise | lat=50.439523 lon=30.451171 alt=301.12m yaw=359.00deg | dist=476.8m | north=423.3 | east=-219.3 | roll=1500 pitch=1482 throttle=1478 | alt=301.12
+2026-04-16 18:11:17,494 | Cruise | lat=50.439513 lon=30.451162 alt=301.08m yaw=359.00deg | dist=477.4m | north=424.4 | east=-218.7 | roll=1500 pitch=1482 throttle=1478 | alt=301.08
+2026-04-16 18:11:17,846 | Cruise | lat=50.439494 lon=30.451145 alt=300.94m yaw=358.99deg | dist=478.8m | north=426.6 | east=-217.4 | roll=1500 pitch=1482 throttle=1488 | alt=300.94
+2026-04-16 18:11:18,198 | Cruise | lat=50.439484 lon=30.451136 alt=300.85m yaw=358.99deg | dist=479.5m | north=427.7 | east=-216.8 | roll=1500 pitch=1482 throttle=1488 | alt=300.85
+2026-04-16 18:11:18,549 | Cruise | lat=50.439475 lon=30.451128 alt=300.77m yaw=358.99deg | dist=480.2m | north=428.7 | east=-216.2 | roll=1500 pitch=1482 throttle=1488 | alt=300.77
+2026-04-16 18:11:18,900 | Cruise | lat=50.439455 lon=30.451110 alt=300.63m yaw=358.99deg | dist=481.6m | north=430.9 | east=-215.0 | roll=1500 pitch=1482 throttle=1488 | alt=300.63
+2026-04-16 18:11:19,252 | Cruise | lat=50.439445 lon=30.451102 alt=300.56m yaw=358.99deg | dist=482.3m | north=432.0 | east=-214.4 | roll=1500 pitch=1482 throttle=1488 | alt=300.56
+2026-04-16 18:11:19,603 | Cruise | lat=50.439426 lon=30.451084 alt=300.49m yaw=358.99deg | dist=483.7m | north=434.2 | east=-213.2 | roll=1500 pitch=1482 throttle=1488 | alt=300.49
+2026-04-16 18:11:19,954 | Cruise | lat=50.439416 lon=30.451076 alt=300.49m yaw=358.99deg | dist=484.4m | north=435.3 | east=-212.5 | roll=1500 pitch=1482 throttle=1488 | alt=300.49
+2026-04-16 18:11:20,305 | Cruise | lat=50.439406 lon=30.451067 alt=300.47m yaw=358.98deg | dist=485.1m | north=436.3 | east=-211.9 | roll=1500 pitch=1482 throttle=1488 | alt=300.47
+2026-04-16 18:11:20,656 | Cruise | lat=50.439387 lon=30.451050 alt=300.43m yaw=358.98deg | dist=486.5m | north=438.5 | east=-210.7 | roll=1500 pitch=1482 throttle=1488 | alt=300.43
+2026-04-16 18:11:21,008 | Cruise | lat=50.439377 lon=30.451041 alt=300.44m yaw=358.98deg | dist=487.2m | north=439.6 | east=-210.1 | roll=1500 pitch=1482 throttle=1488 | alt=300.44
+2026-04-16 18:11:21,359 | Cruise | lat=50.439357 lon=30.451024 alt=300.46m yaw=358.98deg | dist=488.7m | north=441.8 | east=-208.8 | roll=1500 pitch=1482 throttle=1488 | alt=300.46
+2026-04-16 18:11:21,711 | Cruise | lat=50.439347 lon=30.451015 alt=300.48m yaw=358.98deg | dist=489.4m | north=442.9 | east=-208.2 | roll=1500 pitch=1482 throttle=1488 | alt=300.48
+2026-04-16 18:11:22,062 | Cruise | lat=50.439338 lon=30.451006 alt=300.52m yaw=358.98deg | dist=490.1m | north=444.0 | east=-207.6 | roll=1500 pitch=1482 throttle=1488 | alt=300.52
+2026-04-16 18:11:22,414 | Cruise | lat=50.439318 lon=30.450989 alt=300.54m yaw=358.98deg | dist=491.6m | north=446.2 | east=-206.4 | roll=1500 pitch=1482 throttle=1488 | alt=300.54
+2026-04-16 18:11:22,766 | Cruise | lat=50.439308 lon=30.450980 alt=300.54m yaw=358.99deg | dist=492.3m | north=447.3 | east=-205.7 | roll=1500 pitch=1482 throttle=1488 | alt=300.54
+2026-04-16 18:11:23,118 | Cruise | lat=50.439288 lon=30.450963 alt=300.55m yaw=359.02deg | dist=493.8m | north=449.5 | east=-204.5 | roll=1500 pitch=1482 throttle=1488 | alt=300.55
+2026-04-16 18:11:23,469 | Cruise | lat=50.439279 lon=30.450954 alt=300.57m yaw=359.02deg | dist=494.6m | north=450.6 | east=-203.9 | roll=1500 pitch=1482 throttle=1488 | alt=300.57
+2026-04-16 18:11:23,821 | Cruise | lat=50.439268 lon=30.450945 alt=300.56m yaw=359.03deg | dist=495.3m | north=451.7 | east=-203.3 | roll=1500 pitch=1482 throttle=1488 | alt=300.56
+2026-04-16 18:11:24,172 | Cruise | lat=50.439249 lon=30.450928 alt=300.54m yaw=359.04deg | dist=496.8m | north=453.9 | east=-202.0 | roll=1500 pitch=1482 throttle=1488 | alt=300.54
+2026-04-16 18:11:24,524 | Cruise | lat=50.439239 lon=30.450919 alt=300.53m yaw=359.05deg | dist=497.5m | north=454.9 | east=-201.4 | roll=1500 pitch=1482 throttle=1488 | alt=300.53
+2026-04-16 18:11:24,875 | Cruise | lat=50.439220 lon=30.450902 alt=300.54m yaw=359.05deg | dist=499.0m | north=457.1 | east=-200.2 | roll=1500 pitch=1482 throttle=1488 | alt=300.54
+2026-04-16 18:11:25,226 | Cruise | lat=50.439210 lon=30.450893 alt=300.54m yaw=359.04deg | dist=499.8m | north=458.2 | east=-199.6 | roll=1500 pitch=1482 throttle=1488 | alt=300.54
+2026-04-16 18:11:25,578 | ABORT: Cruise escaped mission line. Best distance to target: 399.3 m, current: 499.8 m
+2026-04-16 18:11:25,578 | RC overrides cleared
+2026-04-16 18:11:26,580 | Mode switched to RTL for return-to-home
+2026-04-16 18:11:26,581 | Abort handling finished
+2026-04-16 18:11:26,581 | Mission aborted safely: Cruise escaped mission line. Best distance to target: 399.3 m, current: 499.8 m
+2026-04-16 18:11:26,582 | RC overrides cleared
+2026-04-16 18:11:26,631 | Text log: logs\flight_20260416_180525.log
+2026-04-16 18:11:26,636 | CSV log: logs\flight_20260416_180525.csv
+2026-04-16 18:11:26,638 | Connection closed
