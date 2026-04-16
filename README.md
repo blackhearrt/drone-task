@@ -24,7 +24,7 @@ Before running the script, start the simulation in Mission Planner and set the h
 
 Recommended home command:
 
-```
+```text
 --home=50.450739,30.461242,100,0
 ```
 
@@ -52,29 +52,31 @@ tcp:127.0.0.1:5762
 
 ### If your simulation uses a different port, update the value in main.py.
 
-##Logging
+## Logging
 
-Each run creates two files in the logs/ folder:
+Each run creates two files in the `logs/` folder:
 
-flight_YYYYMMDD_HHMMSS.log
-flight_YYYYMMDD_HHMMSS.csv
+- `flight_YYYYMMDD_HHMMSS.log`
+- `flight_YYYYMMDD_HHMMSS.csv`
 
 The text log is useful for reading the full mission flow.
 The CSV log is useful for compact analysis of position, altitude, yaw, and distance over time.
 
-Safety checks
+## Safety checks
 
 The script includes:
 
-start-position validation near Point A
-timeout checks for mission stages
-abort if the vehicle moves too far away from the mission path
-automatic RTL on failure
-RC override cleanup
-Result format
-Code on GitHub
-Screen recording of the script launch and flight
-Link to the recording in Google Drive
+- start-position validation near Point A
+- timeout checks for mission stages
+- abort if the vehicle moves too far away from the mission path
+- automatic RTL on failure
+- RC override cleanup
+
+## Result format
+
+- Code on GitHub
+- Screen recording of the script launch and flight
+- Link to the recording in Google Drive
 
 ---
 ```md
