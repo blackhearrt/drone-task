@@ -24,8 +24,8 @@ Before running the script, start the simulation in Mission Planner and set the h
 
 Recommended home command:
 
-```text
 --home=50.450739,30.461242,100,0
+
 Run order
 Start Mission Planner simulation
 Confirm the home marker is near Point A
@@ -67,7 +67,7 @@ Screen recording of the script launch and flight
 Link to the recording in Google Drive
 
 ---
-```md
+``
 ## Result
 
 The mission was successfully completed in SITL:
@@ -76,4 +76,5 @@ The mission was successfully completed in SITL:
 - landing near Point B
 - logs saved to file
 
-In the provided task description, SIM_WIND_TURB_FREQ was requested. In the current SITL/Copter parameter set this parameter was not available, so I used SIM_WIND_TC = 0.2 as the closest active parameter controlling wind variation timing
+In the provided task description, SIM_WIND_TURB_FREQ was requested.
+In the current SITL/Copter parameter set this parameter was not available, so I used SIM_WIND_TC = 0.2 as the closest active parameter controlling wind variation timing.
